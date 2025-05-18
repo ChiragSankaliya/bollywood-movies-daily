@@ -1,0 +1,32 @@
+name: Fetch Bollywood Movies Daily
+
+on:
+  schedule:
+    - cron: '0 5 * * *'  # Runs every day at 5 AM UTC
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+
+    - name: Install dependencies
+      run: npm install node-fetch@2
+
+    - name: Run fetch script
+      run: node fetch.js
+
+    - name: Commit and push
+      run: |
+        git config --global user.email "you@example.com"
+        git config --global user.name "Your Name"
+        git add movies.json
+        git commit -m "Daily Bollywood update"
+        git push
