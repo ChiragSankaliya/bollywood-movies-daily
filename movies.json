@@ -32,11 +32,11 @@
     "original_title": "देवा",
     "overview": "Dev Ambre, a ruthless cop, loses his memory in an accident just after he has finished solving a murder case and now has to reinvestigate it while keeping his memory loss a secret from everyone except DCP Farhan Khan.",
     "popularity": 28.119,
-    "poster_path": "/qxtXzAlEPxmjHILU8k8wduvBSdo.jpg",
+    "poster_path": "/2JthNUcRU89h9M6k3yQxLkACEJQ.jpg",
     "release_date": "2025-01-31",
     "title": "Deva",
     "video": false,
-    "vote_average": 6.021,
+    "vote_average": 6,
     "vote_count": 48
   },
   {
@@ -238,7 +238,7 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/90ez6ArvpO8bvpyIngBuwXOqJm5.jpg",
+    "backdrop_path": "/pw7MIzPnx89Z0ioZBJEcCogu94J.jpg",
     "genre_ids": [
       35,
       18,
@@ -255,44 +255,6 @@
     "video": false,
     "vote_average": 8.5,
     "vote_count": 4485
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/e0PVYBaGdKLtvyIp2uEUzT1JUO7.jpg",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "id": 20453,
-    "original_language": "hi",
-    "original_title": "3 Idiots",
-    "overview": "Rascal. Joker. Dreamer. Genius... You've never met a college student quite like \"Rancho.\" From the moment he arrives at India's most prestigious university, Rancho's outlandish schemes turn the campus upside down—along with the lives of his two newfound best friends. Together, they make life miserable for \"Virus,\" the school’s uptight and heartless dean. But when Rancho catches the eye of the dean's daughter, Virus sets his sights on flunking out the \"3 idiots\" once and for all.",
-    "popularity": 7.3111,
-    "poster_path": "/66A9MqXOyVFCssoloscw79z8Tew.jpg",
-    "release_date": "2009-12-23",
-    "title": "3 Idiots",
-    "video": false,
-    "vote_average": 7.997,
-    "vote_count": 2474
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/nzlO8Z6JH4JUmZ4XuwoFe52xgN1.jpg",
-    "genre_ids": [
-      28,
-      18
-    ],
-    "id": 1306845,
-    "original_language": "hi",
-    "original_title": "जाट",
-    "overview": "After a ruffian accidentally ruins his meal, a traveler retorts violently and demands an apology, unintentionally finding himself in a web of violence, crime and corruption spun by a feared criminal.",
-    "popularity": 6.849,
-    "poster_path": "/guTflsCTgLNqTbpHTi9gJANk1Rf.jpg",
-    "release_date": "2025-04-10",
-    "title": "Jaat",
-    "video": false,
-    "vote_average": 7.2,
-    "vote_count": 4
   },
   {
     "adult": false,
@@ -316,6 +278,45 @@
   },
   {
     "adult": false,
+    "backdrop_path": "/5LtSjMNw6j3LkG29Oa4O0iY5U8.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "id": 872906,
+    "original_language": "hi",
+    "original_title": "जवान",
+    "overview": "An emotional journey of a prison warden, driven by a personal vendetta while keeping up to a promise made years ago, recruits inmates to commit outrageous crimes that shed light on corruption and injustice, in an attempt to get even with his past,  and that leads him to an unexpected reunion.",
+    "popularity": 7.6337,
+    "poster_path": "/iziN1ingpHwHo02jP4yAH30XzJ5.jpg",
+    "release_date": "2023-09-07",
+    "title": "Jawan",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 273
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/e0PVYBaGdKLtvyIp2uEUzT1JUO7.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "id": 20453,
+    "original_language": "hi",
+    "original_title": "3 Idiots",
+    "overview": "Rascal. Joker. Dreamer. Genius... You've never met a college student quite like \"Rancho.\" From the moment he arrives at India's most prestigious university, Rancho's outlandish schemes turn the campus upside down—along with the lives of his two newfound best friends. Together, they make life miserable for \"Virus,\" the school’s uptight and heartless dean. But when Rancho catches the eye of the dean's daughter, Virus sets his sights on flunking out the \"3 idiots\" once and for all.",
+    "popularity": 7.3111,
+    "poster_path": "/66A9MqXOyVFCssoloscw79z8Tew.jpg",
+    "release_date": "2009-12-23",
+    "title": "3 Idiots",
+    "video": false,
+    "vote_average": 7.997,
+    "vote_count": 2474
+  },
+  {
+    "adult": false,
     "backdrop_path": "/v4Rvu6BMup3uecXgLjKmxO9SkxK.jpg",
     "genre_ids": [
       14,
@@ -335,23 +336,22 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/5LtSjMNw6j3LkG29Oa4O0iY5U8.jpg",
+    "backdrop_path": "/nzlO8Z6JH4JUmZ4XuwoFe52xgN1.jpg",
     "genre_ids": [
       28,
-      80,
-      53
+      18
     ],
-    "id": 872906,
+    "id": 1306845,
     "original_language": "hi",
-    "original_title": "जवान",
-    "overview": "An emotional journey of a prison warden, driven by a personal vendetta while keeping up to a promise made years ago, recruits inmates to commit outrageous crimes that shed light on corruption and injustice, in an attempt to get even with his past,  and that leads him to an unexpected reunion.",
-    "popularity": 7.6337,
-    "poster_path": "/iziN1ingpHwHo02jP4yAH30XzJ5.jpg",
-    "release_date": "2023-09-07",
-    "title": "Jawan",
+    "original_title": "जाट",
+    "overview": "After a ruffian accidentally ruins his meal, a traveler retorts violently and demands an apology, unintentionally finding himself in a web of violence, crime and corruption spun by a feared criminal.",
+    "popularity": 6.849,
+    "poster_path": "/guTflsCTgLNqTbpHTi9gJANk1Rf.jpg",
+    "release_date": "2025-04-10",
+    "title": "Jaat",
     "video": false,
     "vote_average": 7.2,
-    "vote_count": 273
+    "vote_count": 4
   },
   {
     "adult": false,
