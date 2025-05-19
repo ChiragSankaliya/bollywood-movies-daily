@@ -8,7 +8,7 @@ const allMovies = [];
 
 async function fetchAllPages() {
   for (let page = 1; page <= TOTAL_PAGES; page++) {
-    const url = `https://api.themoviedb.org/3/discover/movie?api_key=YOUR_API_KEY&with_original_language=hi&region=IN&sort_by=popularity.desc&page=${page}`;
+    const url = `https://api.themoviedb.org/3/discover/movie?api_key=${API_KEY}&with_original_language=hi&region=IN&sort_by=popularity.desc&page=${page}`;
     const res = await fetch(url);
     const data = await res.json();
     allMovies.push(...data.results);
