@@ -140,25 +140,6 @@
   },
   {
     "adult": false,
-    "backdrop_path": null,
-    "genre_ids": [
-      18,
-      10749
-    ],
-    "id": 1141581,
-    "original_language": "hi",
-    "original_title": "Kelas Bintang - Staycation",
-    "overview": "Kelas Bintang is back with this pack of drama called Staycation.",
-    "popularity": 8.5268,
-    "poster_path": "/oZGKXxmVyST8kF3mQRVBpdzY6bb.jpg",
-    "release_date": "2023-06-13",
-    "title": "Kelas Bintang - Staycation",
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0
-  },
-  {
-    "adult": false,
     "backdrop_path": "/pwBtk8ngoMtqn0qv8j1feSFTKUn.jpg",
     "genre_ids": [
       28,
