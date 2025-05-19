@@ -2,7 +2,7 @@ const fetch = require('node-fetch');
 const fs = require('fs');
 
 const API_KEY = 'b8766ef4da51902dc6ba35f939e37956';  // Replace with your real key
-const TOTAL_PAGES = 5; // You can change this to any number of pages
+const TOTAL_PAGES = 10; // You can change this to any number of pages
 
 const allMovies = [];
 
