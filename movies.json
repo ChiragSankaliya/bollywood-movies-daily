@@ -1,573 +1,6 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
-    "genre_ids": [
-      10751,
-      35,
-      12,
-      14
-    ],
-    "id": 950387,
-    "original_language": "en",
-    "original_title": "A Minecraft Movie",
-    "overview": "Four misfits find themselves struggling with ordinary problems when they are suddenly pulled through a mysterious portal into the Overworld: a bizarre, cubic wonderland that thrives on imagination. To get back home, they'll have to master this world while embarking on a magical quest with an unexpected, expert crafter, Steve.",
-    "popularity": 868.2685,
-    "poster_path": "/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
-    "release_date": "2025-03-31",
-    "title": "A Minecraft Movie",
-    "video": false,
-    "vote_average": 6.528,
-    "vote_count": 1215
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/tyfO9jHgkhypUFizRVYD0bytPjP.jpg",
-    "genre_ids": [
-      10751,
-      14
-    ],
-    "id": 447273,
-    "original_language": "en",
-    "original_title": "Snow White",
-    "overview": "Following the benevolent King's disappearance, the Evil Queen dominated the once fair land with a cruel streak. Princess Snow White flees the castle when the Queen, in her jealousy over Snow White's inner beauty, tries to kill her. Deep into the dark woods, she stumbles upon seven magical dwarves and a young bandit named Jonathan. Together, they strive to survive the Queen's relentless pursuit and aspire to take back the kingdom.",
-    "popularity": 387.4897,
-    "poster_path": "/oLxWocqheC8XbXbxqJ3x422j9PW.jpg",
-    "release_date": "2025-03-12",
-    "title": "Snow White",
-    "video": false,
-    "vote_average": 4.348,
-    "vote_count": 841
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/j0NUh5irX7q2jIRtbLo8TZyRn6y.jpg",
-    "genre_ids": [
-      27,
-      9648
-    ],
-    "id": 574475,
-    "original_language": "en",
-    "original_title": "Final Destination Bloodlines",
-    "overview": "Plagued by a violent recurring nightmare, college student Stefanie heads home to track down the one person who might be able to break the cycle and save her family from the grisly demise that inevitably awaits them all.",
-    "popularity": 386.4101,
-    "poster_path": "/6WxhEvFsauuACfv8HyoVX6mZKFj.jpg",
-    "release_date": "2025-05-09",
-    "title": "Final Destination Bloodlines",
-    "video": false,
-    "vote_average": 7.328,
-    "vote_count": 192
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/cJvUJEEQ86LSjl4gFLkYpdCJC96.jpg",
-    "genre_ids": [
-      10752,
-      28
-    ],
-    "id": 1241436,
-    "original_language": "en",
-    "original_title": "Warfare",
-    "overview": "A platoon of Navy SEALs embarks on a dangerous mission in Ramadi, Iraq, with the chaos and brotherhood of war retold through their memories of the event.",
-    "popularity": 379.8887,
-    "poster_path": "/srj9rYrjefyWqkLc6l2xjTGeBGO.jpg",
-    "release_date": "2025-04-09",
-    "title": "Warfare",
-    "video": false,
-    "vote_average": 7.082,
-    "vote_count": 335
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/fTrQsdMS2MUw00RnzH0r3JWHhts.jpg",
-    "genre_ids": [
-      28,
-      80,
-      53
-    ],
-    "id": 1197306,
-    "original_language": "en",
-    "original_title": "A Working Man",
-    "overview": "Levon Cade left behind a decorated military career in the black ops to live a simple life working construction. But when his boss's daughter, who is like family to him, is taken by human traffickers, his search to bring her home uncovers a world of corruption far greater than he ever could have imagined.",
-    "popularity": 357.3065,
-    "poster_path": "/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg",
-    "release_date": "2025-03-26",
-    "title": "A Working Man",
-    "video": false,
-    "vote_average": 6.492,
-    "vote_count": 771
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/jRvhP4AfFnJ03lCQhp1fie7XPSd.jpg",
-    "genre_ids": [
-      28,
-      53
-    ],
-    "id": 977294,
-    "original_language": "en",
-    "original_title": "Tin Soldier",
-    "overview": "An ex-special forces operative seeks revenge against a cult leader who has corrupted his former comrades, the Shinjas. This leader, known as The Bokushi, promises veterans a purpose and protection, but is revealed to be a destructive influence. The ex-soldier, Nash Cavanaugh, joins forces with military operative Emmanuel Ashburn to infiltrate the Bokushi's fortress and expose his reign of terror",
-    "popularity": 315.1708,
-    "poster_path": "/lFFDrFLXywFhy6khHes1LCFVMsL.jpg",
-    "release_date": "2025-05-22",
-    "title": "Tin Soldier",
-    "video": false,
-    "vote_average": 5.6,
-    "vote_count": 18
-  },
-  {
-    "adult": false,
-    "backdrop_path": null,
-    "genre_ids": [
-      28,
-      53
-    ],
-    "id": 1480799,
-    "original_language": "pt",
-    "original_title": "The Great Escape",
-    "overview": "",
-    "popularity": 262.4007,
-    "poster_path": "/h7shL668vhC2wsZQSBWzxkMuZ8K.jpg",
-    "release_date": "2023-05-26",
-    "title": "The Great Escape",
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/bIh56F8e5EaZ3r2nD1hXAOisItZ.jpg",
-    "genre_ids": [
-      12,
-      10751
-    ],
-    "id": 1094473,
-    "original_language": "fr",
-    "original_title": "Bambi, l'histoire d'une vie dans les bois",
-    "overview": "The life of Bambi, a male roe deer, from his birth through childhood, the loss of his mother, the finding of a mate, the lessons he learns from his father, and the experience he gains about the dangers posed by human hunters in the forest.",
-    "popularity": 237.5316,
-    "poster_path": "/vWNVHtwOhcoOEUSrY1iHRGbgH8O.jpg",
-    "release_date": "2024-10-16",
-    "title": "Bambi: A Life in the Woods",
-    "video": false,
-    "vote_average": 6.1,
-    "vote_count": 17
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg",
-    "genre_ids": [
-      28,
-      878,
-      12
-    ],
-    "id": 986056,
-    "original_language": "en",
-    "original_title": "Thunderbolts*",
-    "overview": "After finding themselves ensnared in a death trap, seven disillusioned castoffs must embark on a dangerous mission that will force them to confront the darkest corners of their pasts.",
-    "popularity": 228.4211,
-    "poster_path": "/m9EtP1Yrzv6v7dMaC9mRaGhd1um.jpg",
-    "release_date": "2025-04-30",
-    "title": "Thunderbolts*",
-    "video": false,
-    "vote_average": 7.5,
-    "vote_count": 900
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/4A5HH9HkCPqAwyYL6CnA0mxbYjn.jpg",
-    "genre_ids": [
-      28,
-      80,
-      53,
-      18
-    ],
-    "id": 1144430,
-    "original_language": "fr",
-    "original_title": "Balle perdue 3",
-    "overview": "Car genius Lino returns to conclude his vendetta against Areski and the corrupt commander who ruined their lives in this turbo-charged trilogy finale.",
-    "popularity": 217.7879,
-    "poster_path": "/qycPITRqXgPai7zj1gKffjCdSB5.jpg",
-    "release_date": "2025-05-06",
-    "title": "Last Bullet",
-    "video": false,
-    "vote_average": 6.772,
-    "vote_count": 114
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/mrmaTVp7PTBkjj5G62cE9pjrENg.jpg",
-    "genre_ids": [
-      27,
-      18
-    ],
-    "id": 1359977,
-    "original_language": "en",
-    "original_title": "Conjuring the Cult",
-    "overview": "After discovering his blood-soaked daughter dead in the bathtub, David Bryson attends a self-help group to help save him from his ghostly nightmares. But when a group of mysterious cult-like women offer to help him resurrect his daughter. David's choices will not just decide his fate... but the fate of his dead daughter's SOUL.",
-    "popularity": 199.89,
-    "poster_path": "/t4MiAeYpjL7saYvqvcn9xtOfA4K.jpg",
-    "release_date": "2024-10-01",
-    "title": "Conjuring the Cult",
-    "video": false,
-    "vote_average": 5.524,
-    "vote_count": 21
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/jmLfuMFn6o4Rkp7dzT57Vp2GpoQ.jpg",
-    "genre_ids": [
-      28,
-      18,
-      35
-    ],
-    "id": 897160,
-    "original_language": "ko",
-    "original_title": "용감한 시민",
-    "overview": "An expelled boxing champion, who now is a high-school teacher, witnesses intolerable violence and throws her first punch to build justice against it, while putting on a mask.",
-    "popularity": 198.106,
-    "poster_path": "/6Ea5i6APeTfm4hHh6dg5Z733JVS.jpg",
-    "release_date": "2023-10-25",
-    "title": "Brave Citizen",
-    "video": false,
-    "vote_average": 7.1,
-    "vote_count": 37
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/bVm6udIB6iKsRqgMdQh6HywuEBj.jpg",
-    "genre_ids": [
-      53,
-      28
-    ],
-    "id": 1233069,
-    "original_language": "de",
-    "original_title": "Exterritorial",
-    "overview": "When her son vanishes inside a US consulate, ex-special forces soldier Sara does everything in her power to find him — and uncovers a dark conspiracy.",
-    "popularity": 191.7757,
-    "poster_path": "/jM2uqCZNKbiyStyzXOERpMqAbdx.jpg",
-    "release_date": "2025-04-29",
-    "title": "Exterritorial",
-    "video": false,
-    "vote_average": 6.655,
-    "vote_count": 345
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/8eifdha9GQeZAkexgtD45546XKx.jpg",
-    "genre_ids": [
-      28,
-      53,
-      878
-    ],
-    "id": 822119,
-    "original_language": "en",
-    "original_title": "Captain America: Brave New World",
-    "overview": "After meeting with newly elected U.S. President Thaddeus Ross, Sam finds himself in the middle of an international incident. He must discover the reason behind a nefarious global plot before the true mastermind has the entire world seeing red.",
-    "popularity": 152.8745,
-    "poster_path": "/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg",
-    "release_date": "2025-02-12",
-    "title": "Captain America: Brave New World",
-    "video": false,
-    "vote_average": 6.121,
-    "vote_count": 1855
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/7ONMDhnErvpkKvkZqM82ud7bzcT.jpg",
-    "genre_ids": [
-      28,
-      12,
-      53
-    ],
-    "id": 575265,
-    "original_language": "en",
-    "original_title": "Mission: Impossible - The Final Reckoning",
-    "overview": "Ethan Hunt and the IMF team continue their search for the terrifying AI known as the Entity — which has infiltrated intelligence networks all over the globe — with the world's governments and a mysterious ghost from Ethan's past on their trail. Joined by new allies and armed with the means to shut the Entity down for good, Hunt is in a race against time to prevent the world as we know it from changing forever.",
-    "popularity": 148.5097,
-    "poster_path": "/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg",
-    "release_date": "2025-05-17",
-    "title": "Mission: Impossible - The Final Reckoning",
-    "video": false,
-    "vote_average": 7.5,
-    "vote_count": 48
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/op3qmNhvwEvyT7UFyPbIfQmKriB.jpg",
-    "genre_ids": [
-      28,
-      14,
-      12
-    ],
-    "id": 324544,
-    "original_language": "en",
-    "original_title": "In the Lost Lands",
-    "overview": "A queen sends the powerful and feared sorceress Gray Alys to the ghostly wilderness of the Lost Lands in search of a magical power, where she and her guide, the drifter Boyce, must outwit and outfight both man and demon.",
-    "popularity": 146.5929,
-    "poster_path": "/dDlfjR7gllmr8HTeN6rfrYhTdwX.jpg",
-    "release_date": "2025-02-27",
-    "title": "In the Lost Lands",
-    "video": false,
-    "vote_average": 6.354,
-    "vote_count": 373
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/aX5xxdrmf56jaD5VWs9HCWmrPc2.jpg",
-    "genre_ids": [
-      27,
-      53
-    ],
-    "id": 1092073,
-    "original_language": "en",
-    "original_title": "The Haunting at Saint Joseph's",
-    "overview": "An engaged Muslim doctor, her fiancé, and their friends go on a holiday at St. Joseph’s Guesthouse, unaware that it was the site of a sacrifice of an innocent centuries before. They soon come to believe that it's haunted and causing them to go crazy, as their emotions spiral out of control.",
-    "popularity": 141.6389,
-    "poster_path": "/eDzQFxs0KTzHUPkIR0c44TSGJUR.jpg",
-    "release_date": "2023-02-26",
-    "title": "The Haunting at Saint Joseph's",
-    "video": false,
-    "vote_average": 4.444,
-    "vote_count": 9
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/12tEzU0bNYKIjXXEwI5abuOotHF.jpg",
-    "genre_ids": [
-      37
-    ],
-    "id": 710258,
-    "original_language": "en",
-    "original_title": "Rust",
-    "overview": "Infamous outlaw Harland Rust breaks his estranged grandson Lucas out of prison, after Lucas is convicted to hang for an accidental murder. The two must outrun legendary U.S Marshal Wood Helm and bounty hunter Fenton \"Preacher\" Lang who are hot on their tails. Deeply buried secrets rise from the ashes and an unexpected familial bond begins to form as the mismatched duo tries to survive the merciless American Frontier.",
-    "popularity": 139.3768,
-    "poster_path": "/tbJ3RkA2s6X5qrBzrYHYTxvDBui.jpg",
-    "release_date": "2025-05-01",
-    "title": "Rust",
-    "video": false,
-    "vote_average": 6.38,
-    "vote_count": 50
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/jI8j3vy1fFZpjaGA6ALuyQuadfm.jpg",
-    "genre_ids": [
-      27
-    ],
-    "id": 1260820,
-    "original_language": "es",
-    "original_title": "Stream",
-    "overview": "Craven, a streamer with thousands of followers on a live streaming platform, has prepared a very special stream for Halloween. What no one expects when reacting to a video of Pentagram, a group of young paranormal investigators, is that the live experience will turn into the worst night of their lives. And maybe... the last.",
-    "popularity": 124.5596,
-    "poster_path": "/nnyjtBfUYA8ASHA9OhADrX0sMNQ.jpg",
-    "release_date": "2024-02-06",
-    "title": "Stream",
-    "video": false,
-    "vote_average": 6.313,
-    "vote_count": 16
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/zXUxcXnBPHF1cD0IHi4KUpsNvF4.jpg",
-    "genre_ids": [
-      53,
-      18,
-      10749
-    ],
-    "id": 1323784,
-    "original_language": "es",
-    "original_title": "Mala influencia",
-    "overview": "An ex-con gets a fresh start when hired to protect a wealthy heiress from a stalker — but their chemistry is hard to resist as they grow closer.",
-    "popularity": 122.6428,
-    "poster_path": "/ghhooCOqQDqC6vhS1SVN2tCE0k8.jpg",
-    "release_date": "2025-01-24",
-    "title": "Bad Influence",
-    "video": false,
-    "vote_average": 5.595,
-    "vote_count": 110
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
-    "genre_ids": [
-      27,
-      53
-    ],
-    "id": 1233413,
-    "original_language": "en",
-    "original_title": "Sinners",
-    "overview": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
-    "popularity": 131.2116,
-    "poster_path": "/jYfMTSiFFK7ffbY2lay4zyvTkEk.jpg",
-    "release_date": "2025-04-16",
-    "title": "Sinners",
-    "video": false,
-    "vote_average": 7.566,
-    "vote_count": 722
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/65MVgDa6YjSdqzh7YOA04mYkioo.jpg",
-    "genre_ids": [
-      28,
-      80,
-      53
-    ],
-    "id": 668489,
-    "original_language": "en",
-    "original_title": "Havoc",
-    "overview": "When a drug heist swerves lethally out of control, a jaded cop fights his way through a corrupt city's criminal underworld to save a politician's son.",
-    "popularity": 120.0599,
-    "poster_path": "/r46leE6PSzLR3pnVzaxx5Q30yUF.jpg",
-    "release_date": "2025-04-25",
-    "title": "Havoc",
-    "video": false,
-    "vote_average": 6.509,
-    "vote_count": 641
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/vNUwK5P42m81uG57kKI1WxSZwIQ.jpg",
-    "genre_ids": [
-      35,
-      10749
-    ],
-    "id": 1403735,
-    "original_language": "te",
-    "original_title": "లైలా",
-    "overview": "Sonu Model, a renowned beautician from the old city, is forced to disguise himself as Laila, leading to a series of comedic, romantic, and action-packed events. Chaos ensues in this hilarious laugh riot",
-    "popularity": 117.5461,
-    "poster_path": "/l4gsNxFPGpzbq0D6QK1a8vO1lBz.jpg",
-    "release_date": "2025-02-14",
-    "title": "Laila",
-    "video": false,
-    "vote_average": 5,
-    "vote_count": 3
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/3MA11b8nXMEI29MGHIeFfp14YdN.jpg",
-    "genre_ids": [
-      53,
-      878,
-      27
-    ],
-    "id": 1180763,
-    "original_language": "en",
-    "original_title": "From the Shadows",
-    "overview": "When Dr. Joseph Cawl and members of his Hidden Wisdom cult die in a mysterious fire, survivors contact a paranormal expert to find the truth. What they discover makes them the next target of a deranged killer.",
-    "popularity": 136.9877,
-    "poster_path": "/22aFuf6UnDaGP9G5CLfF92Cj1nf.jpg",
-    "release_date": "2023-09-22",
-    "title": "From the Shadows",
-    "video": false,
-    "vote_average": 3.1,
-    "vote_count": 4
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/zz6DywhCTRHxrRXCjXU71edNOUX.jpg",
-    "genre_ids": [
-      27,
-      14,
-      35,
-      12,
-      878
-    ],
-    "id": 1153714,
-    "original_language": "en",
-    "original_title": "Death of a Unicorn",
-    "overview": "A father and daughter accidentally hit and kill a unicorn while en route to a weekend retreat, where his billionaire boss seeks to exploit the creature’s miraculous curative properties.",
-    "popularity": 112.8786,
-    "poster_path": "/lXR32JepFwD1UHkplWqtBP1K79z.jpg",
-    "release_date": "2025-03-27",
-    "title": "Death of a Unicorn",
-    "video": false,
-    "vote_average": 6.495,
-    "vote_count": 221
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/tGjo4L15aELqZGqQH3ThZQGMKmL.jpg",
-    "genre_ids": [
-      28,
-      12,
-      18
-    ],
-    "id": 1011477,
-    "original_language": "en",
-    "original_title": "Karate Kid: Legends",
-    "overview": "After a family tragedy, kung fu prodigy Li Fong is uprooted from his home in Beijing and forced to move to New York City with his mother. When a new friend needs his help, Li enters a karate competition – but his skills alone aren't enough. Li's kung fu teacher Mr. Han enlists original Karate Kid Daniel LaRusso for help, and Li learns a new way to fight, merging their two styles into one for the ultimate martial arts showdown.",
-    "popularity": 109.383,
-    "poster_path": "/ckI6bmQDvvGy20FPTIW1kfGKGRK.jpg",
-    "release_date": "2025-05-08",
-    "title": "Karate Kid: Legends",
-    "video": false,
-    "vote_average": 7.6,
-    "vote_count": 30
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/zo8CIjJ2nfNOevqNajwMRO6Hwka.jpg",
-    "genre_ids": [
-      16,
-      12,
-      10751,
-      35
-    ],
-    "id": 1241982,
-    "original_language": "en",
-    "original_title": "Moana 2",
-    "overview": "After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.",
-    "popularity": 111.3827,
-    "poster_path": "/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg",
-    "release_date": "2024-11-21",
-    "title": "Moana 2",
-    "video": false,
-    "vote_average": 7.087,
-    "vote_count": 2360
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/svLj9iyRmmeNVRsMreANn7DPPZE.jpg",
-    "genre_ids": [
-      27
-    ],
-    "id": 1356236,
-    "original_language": "en",
-    "original_title": "Saint Catherine",
-    "overview": "An orphaned girl is rescued from a satanic ritual and taken to Saint Catherine Institute for homeless youth. There she will learn new skills while facing demons that stalk her.",
-    "popularity": 105.1018,
-    "poster_path": "/hBJdzKPeDaC96AzlrtMWBomYSZV.jpg",
-    "release_date": "2024-09-24",
-    "title": "Saint Catherine",
-    "video": false,
-    "vote_average": 6.766,
-    "vote_count": 32
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/6dC7ULfiutxwEAs7LjWHL2Tc7Zv.jpg",
-    "genre_ids": [
-      27,
-      35
-    ],
-    "id": 1124620,
-    "original_language": "en",
-    "original_title": "The Monkey",
-    "overview": "When twin brothers find a mysterious wind-up monkey, a series of outrageous deaths tear their family apart. Twenty-five years later, the monkey begins a new killing spree forcing the estranged brothers to confront the cursed toy.",
-    "popularity": 102.8492,
-    "poster_path": "/yYa8Onk9ow7ukcnfp2QWVvjWYel.jpg",
-    "release_date": "2025-02-14",
-    "title": "The Monkey",
-    "video": false,
-    "vote_average": 5.907,
-    "vote_count": 616
-  },
-  {
-    "adult": false,
     "backdrop_path": "/kFXtAwJYbRTqiyQpE9kDc8qEP3X.jpg",
     "genre_ids": [
       28,
@@ -577,1377 +10,1962 @@
     "original_language": "hi",
     "original_title": "ज्वेल थीफ: द हीस्ट बिगिन्स",
     "overview": "In this high-octane battle of wits and wills, ingenious con artist Rehan devises a diamond heist while trying to outsmart Rajan, his sadistic adversary.",
-    "popularity": 99.3065,
+    "popularity": 95.7814,
     "poster_path": "/eujLbO0kf1eqWC8XpHUJdtAVW2J.jpg",
     "release_date": "2025-04-25",
     "title": "Jewel Thief: The Heist Begins",
     "video": false,
-    "vote_average": 6.75,
+    "vote_average": 6.78,
+    "vote_count": 41
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lqHt4icP1GTaNBeVTxTrwTZdoAW.jpg",
+    "genre_ids": [
+      28,
+      53,
+      9648,
+      80
+    ],
+    "id": 1195430,
+    "original_language": "hi",
+    "original_title": "देवा",
+    "overview": "Dev Ambre, a ruthless cop, loses his memory in an accident just after he has finished solving a murder case and now has to reinvestigate it while keeping his memory loss a secret from everyone except DCP Farhan Khan.",
+    "popularity": 28.119,
+    "poster_path": "/2JthNUcRU89h9M6k3yQxLkACEJQ.jpg",
+    "release_date": "2025-01-31",
+    "title": "Deva",
+    "video": false,
+    "vote_average": 6,
+    "vote_count": 48
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/pwfXx2O3eFXi5dtWCV5XJPQJgqN.jpg",
+    "genre_ids": [
+      28,
+      53,
+      10752,
+      36
+    ],
+    "id": 1143407,
+    "original_language": "hi",
+    "original_title": "स्काई फ़ोर्स",
+    "overview": "In the 1965 Indo-Pak War, India faces a devastating surprise attack. Wing Commander Ahuja leads a retaliatory strike, but Squadron Leader Vijaya goes missing after a heroic solo engagement against a superior enemy jet. Ahuja spends 23 years seeking the truth and uncovering a cover-up.",
+    "popularity": 19.492,
+    "poster_path": "/pmtev9YTlIRDo25G7lN8dzyoszn.jpg",
+    "release_date": "2025-01-24",
+    "title": "Sky Force",
+    "video": false,
+    "vote_average": 6.426,
+    "vote_count": 34
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/s37s21YPqS7txyB0x0TRel24vgi.jpg",
+    "genre_ids": [
+      36,
+      28,
+      18
+    ],
+    "id": 1196943,
+    "original_language": "hi",
+    "original_title": "छावा",
+    "overview": "Shivaji's death sparks the Maratha-Mughal conflict. His son Sambhaji leads resistance against Aurangzeb's forces. Amid battles and intrigue, both sides face challenges in a struggle for power.",
+    "popularity": 10.5809,
+    "poster_path": "/ubRsrzb6NRW8YhVTJ6jG1kpNvCi.jpg",
+    "release_date": "2025-02-14",
+    "title": "Chhaava",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 29
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/l2QSVFR5aLcW1Vl4cGKrQkEp6fY.jpg",
+    "genre_ids": [
+      35,
+      10749,
+      28
+    ],
+    "id": 1201012,
+    "original_language": "hi",
+    "original_title": "धूम धाम",
+    "overview": "On their wedding night, an oddball couple is thrust into a chaotic chase, dodging goons and cops in a frenzied hunt for the mysterious \"Charlie.\"",
+    "popularity": 9.7716,
+    "poster_path": "/2E7me3rPi8HqaeheuD86YlpNX6k.jpg",
+    "release_date": "2025-02-14",
+    "title": "Dhoom Dhaam",
+    "video": false,
+    "vote_average": 6.679,
     "vote_count": 42
   },
   {
     "adult": false,
-    "backdrop_path": "/8FmvRL0XPAdCFRs4w2wcYBwuKUO.jpg",
-    "genre_ids": [
-      35
-    ],
-    "id": 1233620,
-    "original_language": "es",
-    "original_title": "¡Qué Huevos, Sofía!",
-    "overview": "Sofia gives everything for the company where she works, but the position she was promised is given to the owner's niece. She and other colleagues, tired of working for an unbearable boss, quit to start their own bakery. What they did not consider is that their ex-boss will not rest until he sees them fail.",
-    "popularity": 110.1314,
-    "poster_path": "/hhfWpdNmPwU1VV7zhNA1nOMbHkH.jpg",
-    "release_date": "2025-02-27",
-    "title": "¡Qué Huevos, Sofía!",
-    "video": false,
-    "vote_average": 6.8,
-    "vote_count": 4
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/1AWjIUgbZYaKbwUH5qoJaKCcRkf.jpg",
-    "genre_ids": [
-      99
-    ],
-    "id": 1471014,
-    "original_language": "fr",
-    "original_title": "Van Gogh by Vincent",
-    "overview": "In a career that lasted only ten years, Vincent Van Gogh painted one subject more than any other: himself. This is the story of Vincent told using eight of his most iconic self-portraits.",
-    "popularity": 79.566,
-    "poster_path": "/z73X4WKZghBh5fri31o8P6vBEB2.jpg",
-    "release_date": "2025-03-26",
-    "title": "Van Gogh by Vincent",
-    "video": false,
-    "vote_average": 6,
-    "vote_count": 16
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/oHPoF0Gzu8xwK4CtdXDaWdcuZxZ.jpg",
-    "genre_ids": [
-      12,
-      10751,
-      16
-    ],
-    "id": 762509,
-    "original_language": "en",
-    "original_title": "Mufasa: The Lion King",
-    "overview": "Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny.",
-    "popularity": 95.86,
-    "poster_path": "/lurEK87kukWNaHd0zYnsi3yzJrs.jpg",
-    "release_date": "2024-12-18",
-    "title": "Mufasa: The Lion King",
-    "video": false,
-    "vote_average": 7.407,
-    "vote_count": 2100
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
+    "backdrop_path": "/vcc6NDwsMwNrwHgVuI9lGdWJLB8.jpg",
     "genre_ids": [
       28,
-      878,
-      35,
-      10751
-    ],
-    "id": 939243,
-    "original_language": "en",
-    "original_title": "Sonic the Hedgehog 3",
-    "overview": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
-    "popularity": 79.8177,
-    "poster_path": "/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
-    "release_date": "2024-12-19",
-    "title": "Sonic the Hedgehog 3",
-    "video": false,
-    "vote_average": 7.724,
-    "vote_count": 2555
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/bFmziv84NfEVEGTK8c6EVY3bxve.jpg",
-    "genre_ids": [
-      28,
-      80,
-      9648,
-      53
-    ],
-    "id": 1180906,
-    "original_language": "en",
-    "original_title": "Desert Dawn",
-    "overview": "A newly appointed small-town sheriff and his begrudging deputy get tangled up in a web of lies and corruption involving shady businessmen and the cartel while investigating the murder of a mysterious woman.",
-    "popularity": 76.4975,
-    "poster_path": "/S21BfLrJSD9njucBfY3CKqp8rD.jpg",
-    "release_date": "2025-05-15",
-    "title": "Desert Dawn",
-    "video": false,
-    "vote_average": 8,
-    "vote_count": 4
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/yATuNOVifq933nYIqHX9LNp83Vx.jpg",
-    "genre_ids": [
-      99
-    ],
-    "id": 1040159,
-    "original_language": "en",
-    "original_title": "My Massive Cock",
-    "overview": "An extra-large penis is an object of desire for many. But for some men, extra-large seriously complicates their lives and relationships, and penis reduction surgery seems the only answer.",
-    "popularity": 79.1612,
-    "poster_path": "/9JQHViS8uugeWKfFsnEj3xTB2dZ.jpg",
-    "release_date": "2022-10-24",
-    "title": "My Massive Cock",
-    "video": false,
-    "vote_average": 5.1,
-    "vote_count": 7
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/6KDLAU9OnA0FhXP1av8jqavCGG9.jpg",
-    "genre_ids": [
-      27
-    ],
-    "id": 9532,
-    "original_language": "en",
-    "original_title": "Final Destination",
-    "overview": "After a teenager has a terrifying vision of him and his friends dying in a plane crash, he prevents the accident only to have Death hunt them down, one by one.",
-    "popularity": 94.4252,
-    "poster_path": "/1mXhlQMnlfvJ2frxTjZSQNnA9Vp.jpg",
-    "release_date": "2000-03-17",
-    "title": "Final Destination",
-    "video": false,
-    "vote_average": 6.613,
-    "vote_count": 5929
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/Zes06xI18u47pblwRGTtqRm0R8.jpg",
-    "genre_ids": [
-      28,
-      53,
-      80,
       18
     ],
-    "id": 1276073,
-    "original_language": "ja",
-    "original_title": "新幹線大爆破",
-    "overview": "When panic erupts on a Tokyo-bound bullet train that will explode if it slows below 100 kph, authorities race against time to save everyone on board.",
-    "popularity": 73.534,
-    "poster_path": "/jmzxlDBwgvRbpPJzNQwizyn9UEn.jpg",
-    "release_date": "2025-04-23",
-    "title": "Bullet Train Explosion",
-    "video": false,
-    "vote_average": 6.915,
-    "vote_count": 170
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/bYVygxg5enGs89V5qgejbWl0Oq6.jpg",
-    "genre_ids": [
-      28,
-      35,
-      53
-    ],
-    "id": 1195506,
-    "original_language": "en",
-    "original_title": "Novocaine",
-    "overview": "When the girl of his dreams is kidnapped, everyman Nate turns his inability to feel pain into an unexpected strength in his fight to get her back.",
-    "popularity": 72.0763,
-    "poster_path": "/xmMHGz9dVRaMY6rRAlEX4W0Wdhm.jpg",
-    "release_date": "2025-03-12",
-    "title": "Novocaine",
-    "video": false,
-    "vote_average": 6.9,
-    "vote_count": 756
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/n4R5Ad6rwf87lmllFNuYR3io30V.jpg",
-    "genre_ids": [
-      9648,
-      53
-    ],
-    "id": 1249213,
-    "original_language": "en",
-    "original_title": "Drop",
-    "overview": "Violet, a widowed mother on her first date in years, arrives at an upscale restaurant where she is relieved that her date, Henry, is more charming and handsome than she expected. But their chemistry begins to curdle as Violet begins being irritated and then terrorized by a series of anonymous drops to her phone.",
-    "popularity": 65.2552,
-    "poster_path": "/dS2S5lpfgRIRQOb7LDCjNsQqKjp.jpg",
-    "release_date": "2025-04-10",
-    "title": "Drop",
-    "video": false,
-    "vote_average": 6.54,
-    "vote_count": 324
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/k32XKMjmXMGeydykD32jfER3BVI.jpg",
-    "genre_ids": [
-      28,
-      9648,
-      18
-    ],
-    "id": 1045938,
-    "original_language": "en",
-    "original_title": "G20",
-    "overview": "After the G20 Summit is overtaken by terrorists, President Danielle Sutton must bring all her statecraft and military experience to defend her family and her fellow leaders.",
-    "popularity": 68.2967,
-    "poster_path": "/wv6oWAleCJZUk5htrGg413t3GCy.jpg",
-    "release_date": "2025-04-10",
-    "title": "G20",
-    "video": false,
-    "vote_average": 6.543,
-    "vote_count": 487
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/jaPnd7NG0LqZ8H0Qox4gYhjRCrS.jpg",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "id": 1313194,
-    "original_language": "en",
-    "original_title": "Summer of 69",
-    "overview": "In an effort to land the guy she's been pining after since grade school, Abby hires a local stripper named Santa Monica to teach her everything she needs to know about confidence and sex.",
-    "popularity": 67.2062,
-    "poster_path": "/xBmsHHLwvwI29oyFE48fKAnSQyk.jpg",
-    "release_date": "2025-03-13",
-    "title": "Summer of 69",
-    "video": false,
-    "vote_average": 6.028,
-    "vote_count": 18
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/4eC0tsU9OxR3Adlo1yRJYUDraW9.jpg",
-    "genre_ids": [
-      28,
-      53
-    ],
-    "id": 1092899,
-    "original_language": "en",
-    "original_title": "The Siege",
-    "overview": "International assassin Walker is compromised during a mission and sent to a reassignment center for a new identity. During his stay at the facility, a ruthless assault team storms the compound searching for someone their boss has lost. Walker begrudgingly falls in with skilled hitwoman Elda and her mysterious ward Juliet in order to survive the night.",
-    "popularity": 63.7534,
-    "poster_path": "/hVh4hMzkXNLnScudbid6hDvjMPk.jpg",
-    "release_date": "2023-03-10",
-    "title": "The Siege",
-    "video": false,
-    "vote_average": 5.378,
-    "vote_count": 49
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/1hBtO9tXP60IFBZD27OsbaBmxs5.jpg",
-    "genre_ids": [
-      37,
-      28
-    ],
-    "id": 1414048,
-    "original_language": "en",
-    "original_title": "Day of Reckoning",
-    "overview": "Put-upon lawman John Dorsey is on the verge of losing his wife and his job as sheriff, so he posses up with bullish U.S. Marshall Butch Hayden to hold outlaw Emily Rusk hostage. A battle of wills ensues as Emily turns the posse on themselves, but as her marauding husband and his gang approach, Emily and John realize they will need each other to survive.",
-    "popularity": 67.3619,
-    "poster_path": "/cVSjSQryFUERYSdOmdgJ2m0eBte.jpg",
-    "release_date": "2025-03-28",
-    "title": "Day of Reckoning",
-    "video": false,
-    "vote_average": 6.7,
-    "vote_count": 17
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/oz4U9eA6ilYf1tyiVuGmkftdLac.jpg",
-    "genre_ids": [
-      10749,
-      18
-    ],
-    "id": 1010581,
-    "original_language": "es",
-    "original_title": "Culpa mía",
-    "overview": "Noah must leave her city, boyfriend, and friends to move into William Leister's mansion, the flashy and wealthy husband of her mother Rafaela. As a proud and independent 17 year old, Noah resists living in a mansion surrounded by luxury. However, it is there where she meets Nick, her new stepbrother, and the clash of their strong personalities becomes evident from the very beginning.",
-    "popularity": 60.4883,
-    "poster_path": "/w46Vw536HwNnEzOa7J24YH9DPRS.jpg",
-    "release_date": "2023-06-08",
-    "title": "My Fault",
-    "video": false,
-    "vote_average": 7.811,
-    "vote_count": 3684
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/eCqIpFpYIcZpCBexU3y8BfZKR7f.jpg",
-    "genre_ids": [
-      10751,
-      35,
-      878
-    ],
-    "id": 552524,
-    "original_language": "en",
-    "original_title": "Lilo & Stitch",
-    "overview": "The wildly funny and touching story of a lonely Hawaiian girl and the fugitive alien who helps to mend her broken family.",
-    "popularity": 59.9862,
-    "poster_path": "/3bN675X0K2E5QiAZVChzB5wq90B.jpg",
-    "release_date": "2025-05-21",
-    "title": "Lilo & Stitch",
-    "video": false,
-    "vote_average": 7.8,
-    "vote_count": 7
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/9nhjGaFLKtddDPtPaX5EmKqsWdH.jpg",
-    "genre_ids": [
-      10749,
-      878,
-      53
-    ],
-    "id": 950396,
-    "original_language": "en",
-    "original_title": "The Gorge",
-    "overview": "Two highly trained operatives grow close from a distance after being sent to guard opposite sides of a mysterious gorge. When an evil below emerges, they must work together to survive what lies within.",
-    "popularity": 62.0959,
-    "poster_path": "/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg",
-    "release_date": "2025-02-13",
-    "title": "The Gorge",
-    "video": false,
-    "vote_average": 7.715,
-    "vote_count": 2573
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/gfe8onl8FhaJg4C47Kecj7CdNvf.jpg",
-    "genre_ids": [
-      35
-    ],
-    "id": 1151039,
-    "original_language": "en",
-    "original_title": "Nonnas",
-    "overview": "After losing his beloved mother, a man risks everything to honor her by opening an Italian restaurant with actual nonnas — grandmothers — as the chefs.",
-    "popularity": 53.9118,
-    "poster_path": "/5Bf1xlxLuCHdi74MpdFi2Yz3FGJ.jpg",
-    "release_date": "2025-05-01",
-    "title": "Nonnas",
-    "video": false,
-    "vote_average": 6.791,
-    "vote_count": 139
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/94kQrbY3PZ97PO1mE1dwd04Hdee.jpg",
-    "genre_ids": [
-      10749,
-      18
-    ],
-    "id": 1252309,
-    "original_language": "es",
-    "original_title": "Pídeme lo que quieras",
-    "overview": "After his father's death, Eric Zimmerman travels to Spain to oversee his company's branches. In Madrid, he falls for Judith and engage in an intense, erotic relationship full of exploration. However, Eric fears his secret may end their affair.",
-    "popularity": 62.0144,
-    "poster_path": "/k82T5L1utX1G2LhNWeza9nGUKPk.jpg",
-    "release_date": "2024-11-29",
-    "title": "Ask Me What You Want",
-    "video": false,
-    "vote_average": 6,
-    "vote_count": 167
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/zhFOEVvwyJjGsAqf31FF3H9OXlH.jpg",
-    "genre_ids": [
-      27,
-      9648
-    ],
-    "id": 55779,
-    "original_language": "en",
-    "original_title": "Final Destination 5",
-    "overview": "Death is just as omnipresent as ever, and is unleashed after one man’s premonition saves a group of coworkers from a terrifying suspension bridge collapse. But this group of unsuspecting souls was never supposed to survive, and, in a terrifying race against time, the ill-fated group frantically tries to discover a way to escape Death’s sinister agenda.",
-    "popularity": 73.5786,
-    "poster_path": "/5uRF7zATPr0hIMfDcMEfnhMGw6a.jpg",
-    "release_date": "2011-08-12",
-    "title": "Final Destination 5",
+    "id": 784651,
+    "original_language": "hi",
+    "original_title": "फाइटर",
+    "overview": "As India faces a militant attack in Kashmir, the country’s best combat aviators join forces under a reckless yet brilliant squadron leader to form 'Air Dragons', faces mortal dangers and their inner demons.",
+    "popularity": 9.1665,
+    "poster_path": "/cQ5u9RcrUEGGlnHvMnHf96rLYgD.jpg",
+    "release_date": "2024-01-25",
+    "title": "Fighter",
     "video": false,
     "vote_average": 6.1,
-    "vote_count": 3579
+    "vote_count": 132
   },
   {
     "adult": false,
-    "backdrop_path": "/hwlyY7LJdEFbCPaGNXiskKKmJ5X.jpg",
-    "genre_ids": [
-      28,
-      53
-    ],
-    "id": 1126166,
-    "original_language": "en",
-    "original_title": "Flight Risk",
-    "overview": "A U.S. Marshal escorts a government witness to trial after he's accused of getting involved with a mob boss, only to discover that the pilot who is transporting them is also a hitman sent to assassinate the informant. After they subdue him, they're forced to fly together after discovering that there are others attempting to eliminate them.",
-    "popularity": 60.0362,
-    "poster_path": "/q0bCG4NX32iIEsRFZqRtuvzNCyZ.jpg",
-    "release_date": "2025-01-22",
-    "title": "Flight Risk",
-    "video": false,
-    "vote_average": 6.102,
-    "vote_count": 717
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/3V4kLQg0kSqPLctI5ziYWabAZYF.jpg",
-    "genre_ids": [
-      28,
-      878,
-      12
-    ],
-    "id": 912649,
-    "original_language": "en",
-    "original_title": "Venom: The Last Dance",
-    "overview": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.",
-    "popularity": 56.5283,
-    "poster_path": "/vGXptEdgZIhPg3cGlc7e8sNPC2e.jpg",
-    "release_date": "2024-10-22",
-    "title": "Venom: The Last Dance",
-    "video": false,
-    "vote_average": 6.745,
-    "vote_count": 3341
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/qwK9soQmmJ7kRdjLZVXblw3g7AQ.jpg",
-    "genre_ids": [
-      28,
-      12,
-      53,
-      80
-    ],
-    "id": 7451,
-    "original_language": "en",
-    "original_title": "xXx",
-    "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.",
-    "popularity": 58.3819,
-    "poster_path": "/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
-    "release_date": "2002-08-09",
-    "title": "xXx",
-    "video": false,
-    "vote_average": 5.942,
-    "vote_count": 4414
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/1YMrOtrW7b4pL2lfD8UciZPOJGs.jpg",
-    "genre_ids": [
-      18,
-      53,
-      9648
-    ],
-    "id": 974576,
-    "original_language": "en",
-    "original_title": "Conclave",
-    "overview": "After the unexpected death of the Pope, Cardinal Lawrence is tasked with managing the covert and ancient ritual of electing a new one. Sequestered in the Vatican with the Catholic Church’s most powerful leaders until the process is complete, Lawrence finds himself at the center of a conspiracy that could lead to its downfall.",
-    "popularity": 48.1652,
-    "poster_path": "/l4WXg5oQPK6GVlISKQNIUGb8rKJ.jpg",
-    "release_date": "2024-10-25",
-    "title": "Conclave",
-    "video": false,
-    "vote_average": 7.192,
-    "vote_count": 2473
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/rdxdvXQGqCj2Vb7SvTL8gdxlSzI.jpg",
-    "genre_ids": [
-      80,
-      53,
-      28
-    ],
-    "id": 870028,
-    "original_language": "en",
-    "original_title": "The Accountant²",
-    "overview": "When an old acquaintance is murdered, Wolff is compelled to solve the case. Realizing more extreme measures are necessary, Wolff recruits his estranged and highly lethal brother, Brax, to help. In partnership with Marybeth Medina, they uncover a deadly conspiracy, becoming targets of a ruthless network of killers who will stop at nothing to keep their secrets buried.",
-    "popularity": 53.3432,
-    "poster_path": "/ieYaJz2nzs4wcqpWaofagzGoGPi.jpg",
-    "release_date": "2025-04-23",
-    "title": "The Accountant²",
-    "video": false,
-    "vote_average": 7.1,
-    "vote_count": 166
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/b6e5Nss2QNoQM4wJv2VppChswNP.jpg",
+    "backdrop_path": "/2ZmbuDNbL6YUV2r8O5AAenKx01V.jpg",
     "genre_ids": [
       53,
-      35,
-      80
-    ],
-    "id": 974573,
-    "original_language": "en",
-    "original_title": "Another Simple Favor",
-    "overview": "Stephanie and Emily reunite on the beautiful island of Capri, Italy for Emily's extravagant wedding to a rich Italian businessman. Along with the glamorous guests, expect murder and betrayal to RSVP for a wedding with more twists and turns than the road from the Marina Grande to the Capri town square.",
-    "popularity": 53.1553,
-    "poster_path": "/zboCGZ4aIqPMd7VFI4HWnmc7KYJ.jpg",
-    "release_date": "2025-03-07",
-    "title": "Another Simple Favor",
-    "video": false,
-    "vote_average": 6.022,
-    "vote_count": 255
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/1pmXyN3sKeYoUhu5VBZiDU4BX21.jpg",
-    "genre_ids": [
-      16,
-      878,
-      10751
-    ],
-    "id": 1184918,
-    "original_language": "en",
-    "original_title": "The Wild Robot",
-    "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
-    "popularity": 58.8487,
-    "poster_path": "/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
-    "release_date": "2024-09-12",
-    "title": "The Wild Robot",
-    "video": false,
-    "vote_average": 8.32,
-    "vote_count": 4898
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/hAQnXxOwCjgYcKRgTdYPRC8neqL.jpg",
-    "genre_ids": [
-      28,
       18
     ],
-    "id": 811941,
-    "original_language": "te",
-    "original_title": "Devara: Part 1",
-    "overview": "Devara, a fearless man from a coastal region, embarks on a perilous journey into the treacherous world of the sea to safeguard the lives of his people. Unbeknownst to him, his brother Bhaira is plotting a conspiracy against him. As events unfold, Devara passes on his legacy to his mild-mannered and timid son, Varada.",
-    "popularity": 55.4393,
-    "poster_path": "/1105WNYals12Va2f4F3VeBZdcWX.jpg",
-    "release_date": "2024-09-26",
-    "title": "Devara: Part 1",
+    "id": 1147546,
+    "original_language": "hi",
+    "original_title": "राजनयिक",
+    "overview": "An Indian diplomat maneuvers political and moral tensions to free a young woman claiming forced marriage in Pakistan. Based on true events.",
+    "popularity": 9.1164,
+    "poster_path": "/uwl9Y4px8TTIQK4N19k6gnW1RnX.jpg",
+    "release_date": "2025-03-14",
+    "title": "The Diplomat",
     "video": false,
-    "vote_average": 6.995,
-    "vote_count": 192
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/TFTfzrkX8L7bAKUcch6qLmjpLu.jpg",
-    "genre_ids": [
-      28,
-      12,
-      53
-    ],
-    "id": 575264,
-    "original_language": "en",
-    "original_title": "Mission: Impossible - Dead Reckoning Part One",
-    "overview": "Ethan Hunt and his IMF team embark on their most dangerous mission yet: To track down a terrifying new weapon that threatens all of humanity before it falls into the wrong hands. With control of the future and the world's fate at stake and dark forces from Ethan's past closing in, a deadly race around the globe begins. Confronted by a mysterious, all-powerful enemy, Ethan must consider that nothing can matter more than his mission—not even the lives of those he cares about most.",
-    "popularity": 56.5087,
-    "poster_path": "/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
-    "release_date": "2023-07-08",
-    "title": "Mission: Impossible - Dead Reckoning Part One",
-    "video": false,
-    "vote_average": 7.5,
-    "vote_count": 4216
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/by8z9Fe8y7p4jo2YlW2SZDnptyT.jpg",
-    "genre_ids": [
-      28,
-      35,
-      878
-    ],
-    "id": 533535,
-    "original_language": "en",
-    "original_title": "Deadpool & Wolverine",
-    "overview": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
-    "popularity": 51.1172,
-    "poster_path": "/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
-    "release_date": "2024-07-24",
-    "title": "Deadpool & Wolverine",
-    "video": false,
-    "vote_average": 7.596,
-    "vote_count": 7224
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/nSV1NIAK0Sp5dM1oiobtqbJ8Jrv.jpg",
-    "genre_ids": [
-      27,
-      9648
-    ],
-    "id": 9286,
-    "original_language": "en",
-    "original_title": "Final Destination 3",
-    "overview": "High school senior Wendy's premonition of a deadly rollercoaster ride saves her life and a lucky few, but not from death itself — which seeks out those who escaped their fate.",
-    "popularity": 49.5497,
-    "poster_path": "/p7ARuNKUGPGvkBiDtIDvAzYzonX.jpg",
-    "release_date": "2006-02-09",
-    "title": "Final Destination 3",
-    "video": false,
-    "vote_average": 6.1,
-    "vote_count": 4052
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/qQ9i4mO2GrUFR3gLWjf8J6s3Wf3.jpg",
-    "genre_ids": [
-      99
-    ],
-    "id": 1390394,
-    "original_language": "pt",
-    "original_title": "Baila, Vini",
-    "overview": "Vini Jr. has it all: talent, resilience and boldness. Follow his dancing, unpredictable feet on his inspiring journey to becoming a global soccer star.",
-    "popularity": 56.2618,
-    "poster_path": "/4ImGMcwpy4k2zmcXBSFYNK6kRr9.jpg",
-    "release_date": "2025-05-15",
-    "title": "Vini Jr.",
-    "video": false,
-    "vote_average": 4.722,
+    "vote_average": 6.222,
     "vote_count": 9
   },
   {
     "adult": false,
-    "backdrop_path": "/vMaKc5PwdKIIBt5q7JQjfgyESYT.jpg",
-    "genre_ids": [
-      27,
-      9648
-    ],
-    "id": 19912,
-    "original_language": "en",
-    "original_title": "The Final Destination",
-    "overview": "A horrifying premonition saves a young man and his friends from death during a racetrack accident but terrible fates await them nonetheless.",
-    "popularity": 48.4508,
-    "poster_path": "/5vxXrr1MqGsT4NNeRITpfDnl4Rq.jpg",
-    "release_date": "2009-08-26",
-    "title": "The Final Destination",
-    "video": false,
-    "vote_average": 5.6,
-    "vote_count": 3421
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/r4X2xRrWleVgx0kahP27xRmm3ia.jpg",
-    "genre_ids": [
-      53
-    ],
-    "id": 1083968,
-    "original_language": "en",
-    "original_title": "Locked",
-    "overview": "When Eddie breaks into a luxury SUV, he steps into a deadly trap set by William, a self-proclaimed vigilante delivering his own brand of twisted justice. With no means of escape, Eddie must fight to survive in a ride where escape is an illusion, survival is a nightmare, and justice shifts into high gear.",
-    "popularity": 54.4997,
-    "poster_path": "/hhkiqXpfpufwxVrdSftzeKIANl3.jpg",
-    "release_date": "2025-03-20",
-    "title": "Locked",
-    "video": false,
-    "vote_average": 6.281,
-    "vote_count": 135
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/1YMrOtrW7b4pL2lfD8UciZPOJGs.jpg",
+    "backdrop_path": null,
     "genre_ids": [
       18,
-      53,
-      9648
+      10749
     ],
-    "id": 974576,
-    "original_language": "en",
-    "original_title": "Conclave",
-    "overview": "After the unexpected death of the Pope, Cardinal Lawrence is tasked with managing the covert and ancient ritual of electing a new one. Sequestered in the Vatican with the Catholic Church’s most powerful leaders until the process is complete, Lawrence finds himself at the center of a conspiracy that could lead to its downfall.",
-    "popularity": 48.1652,
-    "poster_path": "/l4WXg5oQPK6GVlISKQNIUGb8rKJ.jpg",
-    "release_date": "2024-10-25",
-    "title": "Conclave",
+    "id": 1141581,
+    "original_language": "hi",
+    "original_title": "Kelas Bintang - Staycation",
+    "overview": "Kelas Bintang is back with this pack of drama called Staycation.",
+    "popularity": 8.5268,
+    "poster_path": "/oZGKXxmVyST8kF3mQRVBpdzY6bb.jpg",
+    "release_date": "2023-06-13",
+    "title": "Kelas Bintang - Staycation",
     "video": false,
-    "vote_average": 7.193,
-    "vote_count": 2475
+    "vote_average": 0,
+    "vote_count": 0
   },
   {
     "adult": false,
-    "backdrop_path": "/pRjCDn51n9otE0AzpGRYGVWP1LB.jpg",
-    "genre_ids": [
-      27,
-      878
-    ],
-    "id": 933260,
-    "original_language": "en",
-    "original_title": "The Substance",
-    "overview": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
-    "popularity": 49.6368,
-    "poster_path": "/evdF1vmLzuzH8EFblqAXBXWRGSi.jpg",
-    "release_date": "2024-09-07",
-    "title": "The Substance",
-    "video": false,
-    "vote_average": 7.1,
-    "vote_count": 4600
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/nyZjhvcmeXcr8H2Xx6JzKEAxPph.jpg",
-    "genre_ids": [
-      27
-    ],
-    "id": 1136721,
-    "original_language": "en",
-    "original_title": "The Glenarma Tapes",
-    "overview": "In Spring 2020 when five students and two faculty members from the Mid Ulster College of Art go missing in a forest on the north coast of Ireland. What happened on the day they disappeared has remained a mystery - until now.",
-    "popularity": 47.9477,
-    "poster_path": "/m0kojZkP1vcK9F8XSWfw9haJHKz.jpg",
-    "release_date": "2024-04-02",
-    "title": "The Glenarma Tapes",
-    "video": false,
-    "vote_average": 6.1,
-    "vote_count": 12
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/qUc0Hol3eP74dbW4YyqT6oRLYgT.jpg",
-    "genre_ids": [
-      878,
-      35,
-      12
-    ],
-    "id": 696506,
-    "original_language": "en",
-    "original_title": "Mickey 17",
-    "overview": "Unlikely hero Mickey Barnes finds himself in the extraordinary circumstance of working for an employer who demands the ultimate commitment to the job… to die, for a living.",
-    "popularity": 50.1218,
-    "poster_path": "/edKpE9B5qN3e559OuMCLZdW1iBZ.jpg",
-    "release_date": "2025-02-28",
-    "title": "Mickey 17",
-    "video": false,
-    "vote_average": 6.897,
-    "vote_count": 1940
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/3lEV4CoKoeT2cZ4fbKEJugZcw6Z.jpg",
-    "genre_ids": [
-      27,
-      9648
-    ],
-    "id": 1244944,
-    "original_language": "en",
-    "original_title": "The Woman in the Yard",
-    "overview": "In the aftermath of her husband's death, widow Ramona's struggle to raise her two kids is hindered by the arrival of a mysterious woman with supernatural abilities.",
-    "popularity": 50.1791,
-    "poster_path": "/n0WS2TsNcS6dtaZKzxipyO7LuCJ.jpg",
-    "release_date": "2025-03-27",
-    "title": "The Woman in the Yard",
-    "video": false,
-    "vote_average": 6.289,
-    "vote_count": 161
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/euYIwmwkmz95mnXvufEmbL6ovhZ.jpg",
+    "backdrop_path": "/pwBtk8ngoMtqn0qv8j1feSFTKUn.jpg",
     "genre_ids": [
       28,
-      12,
+      80,
       18
     ],
-    "id": 558449,
-    "original_language": "en",
-    "original_title": "Gladiator II",
-    "overview": "Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
-    "popularity": 48.3065,
-    "poster_path": "/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
-    "release_date": "2024-11-13",
-    "title": "Gladiator II",
+    "id": 781732,
+    "original_language": "hi",
+    "original_title": "Animal",
+    "overview": "The hardened son of a powerful industrialist returns home after years abroad and vows to take bloody revenge on those threatening his father's life.",
+    "popularity": 8.4111,
+    "poster_path": "/hr9rjR3J0xBBKmlJ4n3gHId9ccx.jpg",
+    "release_date": "2023-12-01",
+    "title": "Animal",
     "video": false,
-    "vote_average": 6.741,
-    "vote_count": 3334
+    "vote_average": 6.275,
+    "vote_count": 140
   },
   {
     "adult": false,
-    "backdrop_path": "/dTGECn8He16tZeBHQTLf6rVydE8.jpg",
+    "backdrop_path": "/okVLmXL5y18dfN2R4ufMZEGaeCd.jpg",
     "genre_ids": [
+      28,
       80,
       53,
       18
     ],
-    "id": 302946,
-    "original_language": "en",
-    "original_title": "The Accountant",
-    "overview": "As a math savant uncooks the books for a new client, the Treasury Department closes in on his activities and the body count starts to rise.",
-    "popularity": 44.545,
-    "poster_path": "/fceheXB5fC4WrLVuWJ6OZv9FXYr.jpg",
-    "release_date": "2016-10-13",
-    "title": "The Accountant",
+    "id": 1160018,
+    "original_language": "hi",
+    "original_title": "किल",
+    "overview": "When an army commando finds out his true love is engaged against her will, he boards a New Dehli-bound train in a daring quest to derail the arranged marriage. But when a gang of knife-wielding thieves begin to terrorize innocent passengers on his train, the commando takes them on, one by one.",
+    "popularity": 8.3588,
+    "poster_path": "/m2zXTuNPkywdYLyWlVyJZW2QOJH.jpg",
+    "release_date": "2024-07-05",
+    "title": "Kill",
     "video": false,
-    "vote_average": 7.109,
-    "vote_count": 6553
+    "vote_average": 7.2,
+    "vote_count": 364
   },
   {
     "adult": false,
-    "backdrop_path": "/v9Du2HC3hlknAvGlWhquRbeifwW.jpg",
+    "backdrop_path": "/kQ35sVT8EBlsX9yilHi1zP4jd3l.jpg",
     "genre_ids": [
-      28,
-      12,
-      53
-    ],
-    "id": 539972,
-    "original_language": "en",
-    "original_title": "Kraven the Hunter",
-    "overview": "Kraven Kravinoff's complex relationship with his ruthless gangster father, Nikolai, starts him down a path of vengeance with brutal consequences, motivating him to become not only the greatest hunter in the world, but also one of its most feared.",
-    "popularity": 50.1027,
-    "poster_path": "/1GvBhRxY6MELDfxFrete6BNhBB5.jpg",
-    "release_date": "2024-12-11",
-    "title": "Kraven the Hunter",
-    "video": false,
-    "vote_average": 6.573,
-    "vote_count": 1680
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg",
-    "genre_ids": [
-      16,
-      12,
       35,
-      10751
-    ],
-    "id": 1022789,
-    "original_language": "en",
-    "original_title": "Inside Out 2",
-    "overview": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation by all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone.",
-    "popularity": 48.1441,
-    "poster_path": "/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
-    "release_date": "2024-06-11",
-    "title": "Inside Out 2",
-    "video": false,
-    "vote_average": 7.553,
-    "vote_count": 5839
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/9qYD7pAOEdYBoQblv5VAMMSVAC8.jpg",
-    "genre_ids": [
-      10749,
       18
     ],
-    "id": 1078600,
-    "original_language": "en",
-    "original_title": "Marked Men: Rule + Shaw",
-    "overview": "Shaw Landon has loved Rule Archer from the moment she laid eyes on him. Rule, a fiery-tempered rebel tattoo artist, doesn’t have time for a good girl pre-med student like Shaw — even if she’s the only one who can see the person he truly is. She lives by other people’s rules; he makes his own. But a short skirt, too many birthday cocktails, and spilled secrets lead to a night neither can forget. Now, Shaw and Rule must figure out how a girl like her and a guy like him are supposed to be together without destroying their love…or each other.",
-    "popularity": 51.8838,
-    "poster_path": "/gZQU8BtCH2IbMZq6QETiU4HXQSR.jpg",
-    "release_date": "2025-01-22",
-    "title": "Marked Men: Rule + Shaw",
-    "video": false,
-    "vote_average": 6.276,
-    "vote_count": 67
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
-    "genre_ids": [
-      18,
-      80
-    ],
-    "id": 238,
-    "original_language": "en",
-    "original_title": "The Godfather",
-    "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
-    "popularity": 42.0585,
-    "poster_path": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
-    "release_date": "1972-03-14",
-    "title": "The Godfather",
-    "video": false,
-    "vote_average": 8.686,
-    "vote_count": 21442
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/lgkPzcOSnTvjeMnuFzozRO5HHw1.jpg",
-    "genre_ids": [
-      16,
-      10751,
-      35,
-      878
-    ],
-    "id": 519182,
-    "original_language": "en",
-    "original_title": "Despicable Me 4",
-    "overview": "Gru and Lucy and their girls—Margo, Edith and Agnes—welcome a new member to the Gru family, Gru Jr., who is intent on tormenting his dad. Gru also faces a new nemesis in Maxime Le Mal and his femme fatale girlfriend Valentina, forcing the family to go on the run.",
-    "popularity": 46.8004,
-    "poster_path": "/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",
-    "release_date": "2024-06-20",
-    "title": "Despicable Me 4",
-    "video": false,
-    "vote_average": 7.046,
-    "vote_count": 2757
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/54mPXhtaUejdQtaCYeJPJP8ZfXX.jpg",
-    "genre_ids": [
-      18,
-      10749
-    ],
-    "id": 715287,
-    "original_language": "ko",
-    "original_title": "새엄마의 욕망",
-    "overview": "Sang-jin, who was envious of her neighbor after getting a beautiful wife, Ask your wife's friend Gian to take over the son's extracurricular teacher, Sang-jin, who left work early, accidentally sees Gian's shower. A man who wants to have sex with his son's tutor, And a son who wants to have a good time with a young stepmom, Ji-an and Jin-hee, who want money, are disappointed with her husband, and Bin-jin gives her body to a young son.",
-    "popularity": 44.9738,
-    "poster_path": "/rYC6UyML4CU4zYiZVbDMrwnGyWW.jpg",
-    "release_date": "2020-05-29",
-    "title": "Stepmom's Desire",
-    "video": false,
-    "vote_average": 6.8,
-    "vote_count": 17
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/jl2YIADk391yc6Qjy9JhgCRkHJk.jpg",
-    "genre_ids": [
-      16,
-      18,
-      35
-    ],
-    "id": 1064486,
-    "original_language": "en",
-    "original_title": "Memoir of a Snail",
-    "overview": "Forcibly separated from her twin brother when they are orphaned, a melancholic misfit learns how to find confidence within herself amid the clutter of misfortunes and everyday life.",
-    "popularity": 43.9105,
-    "poster_path": "/woaN8CbloH0akyX0E72ayxlJAB4.jpg",
-    "release_date": "2024-10-17",
-    "title": "Memoir of a Snail",
-    "video": false,
-    "vote_average": 8.068,
-    "vote_count": 504
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/k24eZq5I3jyz4htPkZCRpnUmBzE.jpg",
-    "genre_ids": [
-      10749,
-      18
-    ],
-    "id": 1156593,
-    "original_language": "es",
-    "original_title": "Culpa tuya",
-    "overview": "The love between Noah and Nick seems unwavering despite their parents' attempts to separate them. But his job and her entry into college open up their lives to new relationships that will shake the foundations of both their relationship and the Leister family itself.",
-    "popularity": 44.7614,
-    "poster_path": "/1sQA7lfcF9yUyoLYC0e6Zo3jmxE.jpg",
-    "release_date": "2024-12-26",
-    "title": "Your Fault",
-    "video": false,
-    "vote_average": 7.144,
-    "vote_count": 1243
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/b3mdmjYTEL70j7nuXATUAD9qgu4.jpg",
-    "genre_ids": [
-      16,
-      14,
-      12
-    ],
-    "id": 823219,
-    "original_language": "lv",
-    "original_title": "Straume",
-    "overview": "A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together.",
-    "popularity": 42.8526,
-    "poster_path": "/imKSymKBK7o73sajciEmndJoVkR.jpg",
-    "release_date": "2024-08-29",
-    "title": "Flow",
-    "video": false,
-    "vote_average": 8.195,
-    "vote_count": 1938
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/kEYWal656zP5Q2Tohm91aw6orlT.jpg",
-    "genre_ids": [
-      18,
-      35,
-      10749
-    ],
-    "id": 1064213,
-    "original_language": "en",
-    "original_title": "Anora",
-    "overview": "A young sex worker from Brooklyn gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as his parents set out to get the marriage annulled.",
-    "popularity": 40.3521,
-    "poster_path": "/7MrgIUeq0DD2iF7GR6wqJfYZNeC.jpg",
-    "release_date": "2024-10-14",
-    "title": "Anora",
-    "video": false,
-    "vote_average": 7,
-    "vote_count": 2165
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/neeNHeXjMF5fXoCJRsOmkNGC7q.jpg",
-    "genre_ids": [
-      18,
-      36
-    ],
-    "id": 872585,
-    "original_language": "en",
-    "original_title": "Oppenheimer",
-    "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
-    "popularity": 40.301,
-    "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
-    "release_date": "2023-07-19",
-    "title": "Oppenheimer",
-    "video": false,
-    "vote_average": 8.061,
-    "vote_count": 10224
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/7cNE2qydew1c8fqnlhWjkE3DHc2.jpg",
-    "genre_ids": [
-      28,
-      18,
-      12,
-      10752
-    ],
-    "id": 927342,
-    "original_language": "ta",
-    "original_title": "அமரன்",
-    "overview": "A heroic true story of Major Mukund Varadarajan, an Indian Army officer who displayed extraordinary bravery during a counterterrorism mission in Kashmir’s Shopian district. The film captures his courage in protecting his nation and the devotion of his wife Indhu Rebecaa Varghese.",
-    "popularity": 40.0106,
-    "poster_path": "/eCB06m1KUGilEOlIzb40nkQhVY0.jpg",
-    "release_date": "2024-10-31",
-    "title": "Amaran",
-    "video": false,
-    "vote_average": 7.4,
-    "vote_count": 228
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/l33oR0mnvf20avWyIMxW02EtQxn.jpg",
-    "genre_ids": [
-      12,
-      18,
-      878
-    ],
-    "id": 157336,
-    "original_language": "en",
-    "original_title": "Interstellar",
-    "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
-    "popularity": 39.9062,
-    "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
-    "release_date": "2014-11-05",
-    "title": "Interstellar",
-    "video": false,
-    "vote_average": 8.455,
-    "vote_count": 37118
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/nSV1NIAK0Sp5dM1oiobtqbJ8Jrv.jpg",
-    "genre_ids": [
-      27,
-      9648
-    ],
-    "id": 9286,
-    "original_language": "en",
-    "original_title": "Final Destination 3",
-    "overview": "High school senior Wendy's premonition of a deadly rollercoaster ride saves her life and a lucky few, but not from death itself — which seeks out those who escaped their fate.",
-    "popularity": 39.8365,
-    "poster_path": "/p7ARuNKUGPGvkBiDtIDvAzYzonX.jpg",
-    "release_date": "2006-02-09",
-    "title": "Final Destination 3",
-    "video": false,
-    "vote_average": 6.116,
-    "vote_count": 4052
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/vMaKc5PwdKIIBt5q7JQjfgyESYT.jpg",
-    "genre_ids": [
-      27,
-      9648
-    ],
-    "id": 19912,
-    "original_language": "en",
-    "original_title": "The Final Destination",
-    "overview": "A horrifying premonition saves a young man and his friends from death during a racetrack accident but terrible fates await them nonetheless.",
-    "popularity": 39.5874,
-    "poster_path": "/5vxXrr1MqGsT4NNeRITpfDnl4Rq.jpg",
-    "release_date": "2009-08-26",
-    "title": "The Final Destination",
-    "video": false,
-    "vote_average": 5.6,
-    "vote_count": 3420
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/mXndmCbpvlqnD6po0EMfxEZcUSn.jpg",
-    "genre_ids": [
-      27,
-      53
-    ],
-    "id": 138843,
-    "original_language": "en",
-    "original_title": "The Conjuring",
-    "overview": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse. Forced to confront a powerful entity, the Warrens find themselves caught in the most terrifying case of their lives.",
-    "popularity": 39.239,
-    "poster_path": "/wVYREutTvI2tmxr6ujrHT704wGF.jpg",
-    "release_date": "2013-07-18",
-    "title": "The Conjuring",
-    "video": false,
-    "vote_average": 7.541,
-    "vote_count": 11843
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/sra8XnL96OyLHENcglmZJg6HA8z.jpg",
-    "genre_ids": [
-      12,
-      28,
-      53
-    ],
-    "id": 954,
-    "original_language": "en",
-    "original_title": "Mission: Impossible",
-    "overview": "When Ethan Hunt, the leader of a crack espionage team whose perilous operation has gone awry with no explanation, discovers that a mole has penetrated the CIA, he's surprised to learn that he's the prime suspect. To clear his name, Hunt now must ferret out the real double agent and, in the process, even the score.",
-    "popularity": 38.3049,
-    "poster_path": "/l5uxY5m5OInWpcExIpKG6AR3rgL.jpg",
-    "release_date": "1996-05-22",
-    "title": "Mission: Impossible",
-    "video": false,
-    "vote_average": 6.997,
-    "vote_count": 9196
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/w102m4HoCP5uxhW8Yh7Hv7QShix.jpg",
-    "genre_ids": [
-      16,
-      10751,
-      35
-    ],
-    "id": 11544,
-    "original_language": "en",
-    "original_title": "Lilo & Stitch",
-    "overview": "As Stitch, a runaway genetic experiment from a faraway planet, wreaks havoc on the Hawaiian Islands, he becomes the mischievous adopted alien \"puppy\" of an independent little girl named Lilo and learns about loyalty, friendship, and ʻohana, the Hawaiian tradition of family.",
-    "popularity": 38.0698,
-    "poster_path": "/m13Vbzv7R2GMAl3GXFrkmMEgCFQ.jpg",
-    "release_date": "2002-06-21",
-    "title": "Lilo & Stitch",
-    "video": false,
-    "vote_average": 7.5,
-    "vote_count": 6451
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/tET23qxvuC7izntC09YOKVgdZ74.jpg",
-    "genre_ids": [
-      18,
-      10749
-    ],
-    "id": 1310861,
-    "original_language": "es",
-    "original_title": "El secreto del orfebre",
-    "overview": "In 1999, a goldsmith revisits his hometown, triggering memories of his summer love affair with a seamstress 25 years prior. Despite their age gap, he vows to rewrite their story but struggles to find her upon his return.",
-    "popularity": 37.1402,
-    "poster_path": "/sPW9fszYL0EG7YJW4NwvnAZbfuq.jpg",
+    "id": 1226572,
+    "original_language": "hi",
+    "original_title": "सुपरबॉय्ज़ ऑफ मालेगाँव",
+    "overview": "The residents of Malegaon look to Bollywood cinema for a much-needed escape from daily drudgery. Amateur filmmaker Nasir Shaikh gets inspired to make a film for the people of Malegaon, by the people of Malegaon. He bands together his ragtag group of friends to bring his vision to life, thereby bringing a fresh lease of life into the town.",
+    "popularity": 7.911,
+    "poster_path": "/l5PDjfWpC9uY5HdF5cbsJ4wjqoq.jpg",
     "release_date": "2025-02-28",
-    "title": "The Goldsmith's Secret",
+    "title": "Superboys of Malegaon",
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 20
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/niOqGpLXfJJOSzJy23oyvymY2vD.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "id": 11518,
+    "original_language": "hi",
+    "original_title": "मोहब्बतें",
+    "overview": "At a prestigious all-male university, three friends seek love outside of the school grounds; at the same time, a newly-hired music teacher seeks to befriend and loosen up the militantly strict headmaster.",
+    "popularity": 7.8068,
+    "poster_path": "/zB7zJQgk4pPoxsPzZP0CqUgHuXN.jpg",
+    "release_date": "2000-10-27",
+    "title": "Mohabbatein",
     "video": false,
     "vote_average": 7,
+    "vote_count": 251
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/pw7MIzPnx89Z0ioZBJEcCogu94J.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "id": 19404,
+    "original_language": "hi",
+    "original_title": "दिलवाले दुल्हनिया ले जायेंगे",
+    "overview": "Raj is a rich, carefree, happy-go-lucky second generation NRI. Simran is the daughter of Chaudhary Baldev Singh, who in spite of being an NRI is very strict about adherence to Indian values. Simran has left for India to be married to her childhood fiancé. Raj leaves for India with a mission at his hands, to claim his lady love under the noses of her whole family. Thus begins a saga.",
+    "popularity": 7.8041,
+    "poster_path": "/rfcy6Gd3PbFIqwZX5U8xnbv7jOc.jpg",
+    "release_date": "1995-10-20",
+    "title": "Dilwale Dulhania Le Jayenge",
+    "video": false,
+    "vote_average": 8.5,
+    "vote_count": 4485
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/uKhBujLqYCcfU1kaxXHNCEyZnT.jpg",
+    "genre_ids": [
+      80,
+      18,
+      53
+    ],
+    "id": 1227128,
+    "original_language": "hi",
+    "original_title": "रेड २",
+    "overview": "Set 7 years after the events of the first film, it follows the return of IRS officer Amay Patnaik (Devgn), who tracks another white-collar crime.",
+    "popularity": 7.7382,
+    "poster_path": "/fzVbLi9PPKMOFtJMnVHKfcRVRTm.jpg",
+    "release_date": "2025-05-01",
+    "title": "Raid 2",
+    "video": false,
+    "vote_average": 6,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/5LtSjMNw6j3LkG29Oa4O0iY5U8.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "id": 872906,
+    "original_language": "hi",
+    "original_title": "जवान",
+    "overview": "An emotional journey of a prison warden, driven by a personal vendetta while keeping up to a promise made years ago, recruits inmates to commit outrageous crimes that shed light on corruption and injustice, in an attempt to get even with his past,  and that leads him to an unexpected reunion.",
+    "popularity": 7.6337,
+    "poster_path": "/iziN1ingpHwHo02jP4yAH30XzJ5.jpg",
+    "release_date": "2023-09-07",
+    "title": "Jawan",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 273
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/e0PVYBaGdKLtvyIp2uEUzT1JUO7.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "id": 20453,
+    "original_language": "hi",
+    "original_title": "3 Idiots",
+    "overview": "Rascal. Joker. Dreamer. Genius... You've never met a college student quite like \"Rancho.\" From the moment he arrives at India's most prestigious university, Rancho's outlandish schemes turn the campus upside down—along with the lives of his two newfound best friends. Together, they make life miserable for \"Virus,\" the school’s uptight and heartless dean. But when Rancho catches the eye of the dean's daughter, Virus sets his sights on flunking out the \"3 idiots\" once and for all.",
+    "popularity": 7.3111,
+    "poster_path": "/66A9MqXOyVFCssoloscw79z8Tew.jpg",
+    "release_date": "2009-12-25",
+    "title": "3 Idiots",
+    "video": false,
+    "vote_average": 7.997,
+    "vote_count": 2474
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/v4Rvu6BMup3uecXgLjKmxO9SkxK.jpg",
+    "genre_ids": [
+      14,
+      27
+    ],
+    "id": 538858,
+    "original_language": "hi",
+    "original_title": "तुम्बाड",
+    "overview": "India, 1918. On the outskirts of Tumbbad, a cursed village where it always rains, Vinayak, along with his mother and his brother, care of a mysterious old woman who keeps the secret of an ancestral treasure that Vinayak gets obsessed with.",
+    "popularity": 7.1417,
+    "poster_path": "/6qeRFImDskoIRkSCFatqeM2rM3k.jpg",
+    "release_date": "2018-10-12",
+    "title": "Tumbbad",
+    "video": false,
+    "vote_average": 7.468,
+    "vote_count": 266
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/nzlO8Z6JH4JUmZ4XuwoFe52xgN1.jpg",
+    "genre_ids": [
+      28,
+      18
+    ],
+    "id": 1306845,
+    "original_language": "hi",
+    "original_title": "जाट",
+    "overview": "After a ruffian accidentally ruins his meal, a traveler retorts violently and demands an apology, unintentionally finding himself in a web of violence, crime and corruption spun by a feared criminal.",
+    "popularity": 6.849,
+    "poster_path": "/guTflsCTgLNqTbpHTi9gJANk1Rf.jpg",
+    "release_date": "2025-04-10",
+    "title": "Jaat",
+    "video": false,
+    "vote_average": 7.2,
     "vote_count": 4
   },
   {
     "adult": false,
-    "backdrop_path": "/3xKJ0nyUTlySmMBCpOcsuSnFPI1.jpg",
+    "backdrop_path": "/bPwdy3zaNnMdZ22u0WCcYu0xxgt.jpg",
     "genre_ids": [
-      27,
-      9648
+      18
     ],
-    "id": 1232546,
-    "original_language": "en",
-    "original_title": "Until Dawn",
-    "overview": "One year after her sister Melanie mysteriously disappeared, Clover and her friends head into the remote valley where she vanished in search of answers. Exploring an abandoned visitor center, they find themselves stalked by a masked killer and horrifically murdered one by one...only to wake up and find themselves back at the beginning of the same evening.",
-    "popularity": 35.7083,
-    "poster_path": "/6O9nkcmZBymDXtxOGJmulqcxJdv.jpg",
-    "release_date": "2025-04-23",
-    "title": "Until Dawn",
+    "id": 7508,
+    "original_language": "hi",
+    "original_title": "तारे ज़मीन पर",
+    "overview": "Ishaan Awasthi is an eight-year-old whose world is filled with wonders that no one else seems to appreciate. Colours, fish, dogs, and kites don't seem important to the adults, who are much more interested in things like homework, marks, and neatness. Ishaan cannot seem to get anything right in class; he is then sent to boarding school, where his life changes forever.",
+    "popularity": 6.3665,
+    "poster_path": "/puHRt6Raovm5ujGCdwLWvRv4NHU.jpg",
+    "release_date": "2007-12-21",
+    "title": "Like Stars on Earth",
     "video": false,
-    "vote_average": 6.3,
-    "vote_count": 179
+    "vote_average": 7.98,
+    "vote_count": 1200
   },
   {
     "adult": false,
-    "backdrop_path": "/lNQD8NdJ37winY0xEwjp9hUFqLX.jpg",
+    "backdrop_path": "/6RV2o8PBCEyw9ylOWViV1CtULIF.jpg",
     "genre_ids": [
-      16,
-      10751
+      18
     ],
-    "id": 1189423,
-    "original_language": "en",
-    "original_title": "The Sloth Lane",
-    "overview": "After a terrifying storm destroys their home, a speedy sloth named Laura and her kooky family move to the big city in their rusted old food truck, Gordito, hoping to make their business a success. The family's delicious food catches the eye of a quick-witted cheetah who will stop at nothing to revive her failing fast-food business.",
-    "popularity": 35.3713,
-    "poster_path": "/toBN1A9AnhoUzXyu9gaVyQVJehp.jpg",
-    "release_date": "2024-07-25",
-    "title": "The Sloth Lane",
+    "id": 1163258,
+    "original_language": "hi",
+    "original_title": "12th Fail",
+    "overview": "Based on the true story of IPS officer Manoj Kumar Sharma, 12th Fail sheds limelight on fearlessly embracing the idea of restarting the academic journey despite the setbacks and challenges and reclaiming one's destiny at a place where millions of students attempt the world's toughest competitive exam: UPSC.",
+    "popularity": 6.1454,
+    "poster_path": "/eebUPRI4Z5e1Z7Hev4JZAwMIFkX.jpg",
+    "release_date": "2023-10-27",
+    "title": "12th Fail",
     "video": false,
-    "vote_average": 6.472,
+    "vote_average": 8,
+    "vote_count": 160
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/qL5MxbkZwHb7u7E0PHeQ8NvvoxW.jpg",
+    "genre_ids": [
+      18,
+      28,
+      10749
+    ],
+    "id": 376812,
+    "original_language": "hi",
+    "original_title": "सुल्तान",
+    "overview": "The ageing wrestler Sultan Ali Khan decides to try his luck on the mat again; to do this, he wants to represent his country at the Olympic Games, but first has to overcome personal issues.",
+    "popularity": 4.9338,
+    "poster_path": "/vPTYtKuV8X5uUd3SqnzO14W6Dti.jpg",
+    "release_date": "2016-07-06",
+    "title": "Sultan",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 234
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/byB5eBTQepTAaAYHq5QbLLU9iTS.jpg",
+    "genre_ids": [
+      28,
+      18,
+      10752
+    ],
+    "id": 554600,
+    "original_language": "hi",
+    "original_title": "Uri: The Surgical Strike",
+    "overview": "Following the roguish terrorist attacks at Uri Army Base camp in Kashmir, India takes the fight to the enemy, in its most successful covert operation till date with one and only one objective of avenging their fallen heroes.",
+    "popularity": 6.062,
+    "poster_path": "/yNySAgpAnWmPpYinim9E0tUzJWG.jpg",
+    "release_date": "2019-01-11",
+    "title": "Uri: The Surgical Strike",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 436
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lFz7HFWLmBVoa7kITzWEsT9tsEL.jpg",
+    "genre_ids": [
+      10749,
+      35,
+      18
+    ],
+    "id": 1216780,
+    "original_language": "hi",
+    "original_title": "नादानियां",
+    "overview": "A privileged Delhi socialite hires a middle-class student to pose as her boyfriend to maintain her social status. Their pretense becomes complicated when genuine feelings develop between them.",
+    "popularity": 8.1988,
+    "poster_path": "/vQsGkLx68lmAdGwNapaaq3qqwKn.jpg",
+    "release_date": "2025-03-07",
+    "title": "Nadaaniyan",
+    "video": false,
+    "vote_average": 6.079,
+    "vote_count": 38
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/fTLZ3H7leVUeBxaqEKDWtn6pIis.jpg",
+    "genre_ids": [
+      28,
+      12,
+      53
+    ],
+    "id": 864692,
+    "original_language": "hi",
+    "original_title": "पठान",
+    "overview": "A soldier caught by enemies and presumed dead comes back to complete his mission, accompanied by old companions and foes.",
+    "popularity": 5.0433,
+    "poster_path": "/cQOuFy19m0B8kpui7enCthaI8rP.jpg",
+    "release_date": "2023-01-25",
+    "title": "Pathaan",
+    "video": false,
+    "vote_average": 6.475,
+    "vote_count": 204
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/l0fNAHLOFReQJsxCOmGWvJDnimn.jpg",
+    "genre_ids": [
+      18,
+      10751,
+      35
+    ],
+    "id": 360814,
+    "original_language": "hi",
+    "original_title": "दंगल",
+    "overview": "Dangal is an extraordinary true story based on the life of Mahavir Singh and his two daughters, Geeta and Babita Phogat. The film traces the inspirational journey of a father who trains his daughters to become world class wrestlers.",
+    "popularity": 5.7256,
+    "poster_path": "/cJRPOLEexI7qp2DKtFfCh7YaaUG.jpg",
+    "release_date": "2016-12-23",
+    "title": "Dangal",
+    "video": false,
+    "vote_average": 7.894,
+    "vote_count": 1034
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/uuw0PRR4sgGi1IV4CYYpEYtez9y.jpg",
+    "genre_ids": [
+      12,
+      35,
+      18
+    ],
+    "id": 960876,
+    "original_language": "hi",
+    "original_title": "डंकी",
+    "overview": "Four friends from a sleepy little village in Punjab share a common dream: to go to England. Their problem is that they have neither the visa nor the ticket. A soldier alights from a train one day, and their lives change. He gives them a soldier's promise: He will take them to the land of their dreams. What follows is a hilarious and heartwarming tale of a perilous journey through the desert and the sea, but most crucially through the hinterlands of their mind.",
+    "popularity": 3.9152,
+    "poster_path": "/kPRb1mbVHGop0egQ7153y0lhzGL.jpg",
+    "release_date": "2023-12-21",
+    "title": "Dunki",
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 79
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/AguDwIJdqUFEUXlmXyixotE0WnT.jpg",
+    "genre_ids": [
+      28,
+      18,
+      53,
+      10752
+    ],
+    "id": 599925,
+    "original_language": "hi",
+    "original_title": "शेरशाह",
+    "overview": "Inspired by the life of Captain Vikram Batra (PVC), the film celebrates his bravery, valiant spirit and honors his invaluable sacrifice during the Kargil War of 1999, at the age of 24.",
+    "popularity": 5.1817,
+    "poster_path": "/zGvFnwoXJKrYnKhoVPytqkqCJ8V.jpg",
+    "release_date": "2021-08-12",
+    "title": "Shershaah",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 97
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hkuN8K3S3OlVtDYxTJhuhdw26jJ.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "id": 192558,
+    "original_language": "hi",
+    "original_title": "आशिकी २",
+    "overview": "A young woman meets a failing musician who launches her singing career, but their relationship is doomed when people assume he's with her for her fame and fortune.",
+    "popularity": 4.5901,
+    "poster_path": "/lMblq8xcQIRRIVdaMg1XC283gU0.jpg",
+    "release_date": "2013-04-26",
+    "title": "Aashiqui 2",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 164
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "id": 1146927,
+    "original_language": "hi",
+    "original_title": "Mobil Goyang",
+    "overview": "",
+    "popularity": 4.9213,
+    "poster_path": "/ztriNMCLVIocSpaxw45VCJ04yUq.jpg",
+    "release_date": "2023-04-24",
+    "title": "Mobil Goyang",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/iQJZMLr5cdn7Al2Av4V1VEzPDoQ.jpg",
+    "genre_ids": [
+      10749,
+      18,
+      35
+    ],
+    "id": 11854,
+    "original_language": "hi",
+    "original_title": "कुछ कुछ होता है",
+    "overview": "Per her mother's last wish, an 8 year old girl sets out to reunite her father with his college best friend who was in love with him.",
+    "popularity": 4.5291,
+    "poster_path": "/5FmtHHDGPofW5Zjns1EM1D8503c.jpg",
+    "release_date": "1998-10-16",
+    "title": "Kuch Kuch Hota Hai",
+    "video": false,
+    "vote_average": 7.461,
+    "vote_count": 394
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/b795kAB6Vbw0P92tyQwQyr4YzGf.jpg",
+    "genre_ids": [
+      28,
+      878,
+      53
+    ],
+    "id": 936622,
+    "original_language": "hi",
+    "original_title": "बड़े मियाँ छोटे मियाँ",
+    "overview": "Two elite soldiers with troubled pasts are enlisted for a daring mission when a deadly masked madman threatens India's defenses.",
+    "popularity": 3.0425,
+    "poster_path": "/ote8HmQOgmoAfqFaqVKsEdgD2q4.jpg",
+    "release_date": "2024-04-11",
+    "title": "Bade Miyan Chote Miyan",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 35
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/v0zWNLExxNzeqvAkaINtYE4o5rM.jpg",
+    "genre_ids": [
+      27,
+      35
+    ],
+    "id": 1112426,
+    "original_language": "hi",
+    "original_title": "स्त्री 2: सरकटे का आतंक",
+    "overview": "After the events of Stree, the town of Chanderi is being haunted again. This time, women are mysteriously abducted by a terrifying headless entity. Once again, it's up to Vicky and his friends to save their town and loved ones.",
+    "popularity": 5.4746,
+    "poster_path": "/nfnhwfUEFuSOxxf4jDdBlY6Lccw.jpg",
+    "release_date": "2024-08-15",
+    "title": "Stree 2",
+    "video": false,
+    "vote_average": 6.595,
+    "vote_count": 58
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/grsqPFaIOnOERVrDykdcvzjOq4t.jpg",
+    "genre_ids": [
+      10749,
+      35,
+      878
+    ],
+    "id": 1110390,
+    "original_language": "hi",
+    "original_title": "तेरी बातों में ऐसा उलझा जिया",
+    "overview": "A robotics engineer searching for his perfect partner finds himself falling in love with a human-like android.",
+    "popularity": 4.5739,
+    "poster_path": "/8swhiVilkhtQHk5l4aPAuxxnUEt.jpg",
+    "release_date": "2024-02-09",
+    "title": "Teri Baaton Mein Aisa Uljha Jiya",
+    "video": false,
+    "vote_average": 5.6,
+    "vote_count": 36
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6JpbbREGqdEtePnCwxJRcTNX2jZ.jpg",
+    "genre_ids": [
+      10749,
+      35,
+      28
+    ],
+    "id": 205022,
+    "original_language": "hi",
+    "original_title": "Chennai Express",
+    "overview": "Rahul embarks on a journey to a small town in Tamil Nadu to fulfill the last wish of his grandfather: to have his ashes immersed in the Holy water of Rameshwaram. En route, he meets a woman hailing from a unique family down South. As they find love through this journey in the exuberant lands of South India, an unanticipated drive awaits them.",
+    "popularity": 4.6465,
+    "poster_path": "/9LZgpUyFEvqHaDVuveE002mhgTi.jpg",
+    "release_date": "2013-08-09",
+    "title": "Chennai Express",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 337
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/pdbML7ol4HvsI1xWX0s9LZpUGfL.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "id": 1190511,
+    "original_language": "hi",
+    "original_title": "सितारे ज़मीन पर",
+    "overview": "A disgraced basketball coach is given the chance to coach a team of players who are intellectually disabled, and soon realizes they just might have what it takes to make it to the national championships.",
+    "popularity": 3.9229,
+    "poster_path": "/2ztRFbp1YSvMSIrr7AqYq6i6pqC.jpg",
+    "release_date": "2025-06-20",
+    "title": "Sitaare Zameen Par",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7jFpkdhPn1s7tc7S71wR64qpVWE.jpg",
+    "genre_ids": [
+      28,
+      18,
+      53,
+      80
+    ],
+    "id": 1083241,
+    "original_language": "hi",
+    "original_title": "बेबी जॉन",
+    "overview": "John's peaceful life with daughter Khushi is disrupted by a sex-trafficking gang. Revealing his past as DCP Satya, he seeks revenge for his family's murder, saving minor girls and punishing the criminals, before starting anew.",
+    "popularity": 5.1705,
+    "poster_path": "/5Oqsh17dq0cIRFPynPNy5elmyxW.jpg",
+    "release_date": "2024-12-25",
+    "title": "Baby John",
+    "video": false,
+    "vote_average": 5.2,
+    "vote_count": 15
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/eUEWTtr7WuYrMjXPG8GNfxIlRiJ.jpg",
+    "genre_ids": [
+      28,
+      18,
+      36
+    ],
+    "id": 611598,
+    "original_language": "hi",
+    "original_title": "सम्राट पृथ्वीराज",
+    "overview": "The true story of legendary Hindu warrior king \"Prithviraj Chauhan\" including his early military successes, love story with Sanyogita & clashes with Muhammad of Ghor, a ruler of the Ghurid dynasty who led the foundation of Muslim rule in the Indian subcontinent.",
+    "popularity": 4.0797,
+    "poster_path": "/itjop20yizH1cwB44tIo5JivPSq.jpg",
+    "release_date": "2022-06-03",
+    "title": "Samrat Prithviraj",
+    "video": false,
+    "vote_average": 6.84,
+    "vote_count": 25
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/p1u5NEfLqHqQlplDgi93WVYQ5vt.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 797223,
+    "original_language": "hi",
+    "original_title": "युध्रा",
+    "overview": "Yudhra, who is struggling with anger issues, is assigned an undercover mission to bring down a powerful drug syndicate headed by Firoz and his son Shafiq. Yudhra accepts the responsibility as he wants to exact revenge against Firoz for his parents's death.",
+    "popularity": 2.8409,
+    "poster_path": "/cwmVHD41mGDQyPyCAsR8x6aMGc2.jpg",
+    "release_date": "2024-09-20",
+    "title": "Yudhra",
+    "video": false,
+    "vote_average": 4,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/wyctjWPgRR3zGsrBT7UHZxZgi5C.jpg",
+    "genre_ids": [
+      28,
+      18,
+      53
+    ],
+    "id": 1236671,
+    "original_language": "hi",
+    "original_title": "दंगे",
+    "overview": "Former friends Xavier and Yuva meet again in college as adversaries when their respective cohorts come to blows during their annual cultural festival.",
+    "popularity": 4.5692,
+    "poster_path": "/qyR4Axt25Ayee1luJgYnY1hE4M8.jpg",
+    "release_date": "2024-03-01",
+    "title": "Dange",
+    "video": false,
+    "vote_average": 5.7,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/50reJgWrWTXK3fvGh8idw71gxAO.jpg",
+    "genre_ids": [
+      18,
+      36,
+      10749
+    ],
+    "id": 432527,
+    "original_language": "hi",
+    "original_title": "पद्मावत",
+    "overview": "Rajputana, India, 13th century. The tyrannical usurper Alauddin Khilji, sultan of Delhi, becomes obsessed with Queen Padmavati, wife of King Ratan Singh of Mewar, and goes to great lengths to satisfy his greed for her.",
+    "popularity": 3.4522,
+    "poster_path": "/5kk71s8Vmvt8XQOojevhTA5QcB0.jpg",
+    "release_date": "2018-01-25",
+    "title": "Padmaavat",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 281
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/sPMBiyjTco4JdKojlfGIz5Wd0jC.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "id": 10757,
+    "original_language": "hi",
+    "original_title": "कभी ख़ुशी कभी ग़म",
+    "overview": "Years after his father disowns his adopted brother for marrying a woman of lower social standing, a young man goes on a mission to reunite his family.",
+    "popularity": 4.7502,
+    "poster_path": "/12BvYKueY0eruZuTYIextEZaCC.jpg",
+    "release_date": "2001-12-14",
+    "title": "Kabhi Khushi Kabhie Gham",
+    "video": false,
+    "vote_average": 7.7,
+    "vote_count": 563
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gxfvtq5eYiClS2X7hxAAPBNrbWA.jpg",
+    "genre_ids": [
+      35,
+      18,
+      878
+    ],
+    "id": 297222,
+    "original_language": "hi",
+    "original_title": "पीके",
+    "overview": "A stranger in the city asks questions no one has asked before. Known only by his initials, the man's innocent questions and childlike curiosity take him on a journey of love, laughter and letting go.",
+    "popularity": 4.2853,
+    "poster_path": "/z2x2Y4tncefsIU7h82gmUM5vnBJ.jpg",
+    "release_date": "2014-12-19",
+    "title": "PK",
+    "video": false,
+    "vote_average": 7.7,
+    "vote_count": 1031
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/qDyFe7gMnom72qfUEYzWrgwB4ss.jpg",
+    "genre_ids": [
+      28
+    ],
+    "id": 62201,
+    "original_language": "hi",
+    "original_title": "शहँशाह",
+    "overview": "Inspector Srivastav is framed by a wily and cunning gangster, J.K., and unable to prove his innocence, hangs himself, leaving behind his wife, and son, Vijay. Years later, Vijay has grown up and has joined the police force as an Inspector. Unlike his dad, he is corrupt and does accept bribes to turn a nelson's eye to crime. The City Police are assigned the task of apprehending a customed man called \"Shahenshah\", who operates at night and targets, tries and kills gangsters in a \"Judge and Executioner \"style. No one knows the real identity of Shahenshah, as he is feared by the police department, and respected by the poor and middle-class.",
+    "popularity": 3.8036,
+    "poster_path": "/g8noCys7ElC73lcluN4kDeUzhYQ.jpg",
+    "release_date": "1988-01-29",
+    "title": "Shahenshah",
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 22
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/b21xN1TVcFeuEKdSGxEjGKfOYhE.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 1020951,
+    "original_language": "hi",
+    "original_title": "चंदू चैंपियन",
+    "overview": "9 bullet wounds (one still in the body), three different sports and an unshakable determination to fulfill the dream of an Olympic Gold later, Muralikant Petkar, India's first Paralympian to finish at the top of the podium, got the recognition by his own country 45 years after he achieved what no athlete from his country could.",
+    "popularity": 5.4011,
+    "poster_path": "/AprEYzaWgMuSQtJXMxz1P5Z3e3P.jpg",
+    "release_date": "2024-06-14",
+    "title": "Chandu Champion",
+    "video": false,
+    "vote_average": 7.056,
     "vote_count": 18
   },
   {
     "adult": false,
-    "backdrop_path": "/kYgQzzjNis5jJalYtIHgrom0gOx.jpg",
-    "genre_ids": [
-      16,
-      10751,
-      28,
-      35,
-      12,
-      14
-    ],
-    "id": 1011985,
-    "original_language": "en",
-    "original_title": "Kung Fu Panda 4",
-    "overview": "Po is gearing up to become the spiritual leader of his Valley of Peace, but also needs someone to take his place as Dragon Warrior. As such, he will train a new kung fu practitioner for the spot and will encounter a villain called the Chameleon who conjures villains from the past.",
-    "popularity": 35.0378,
-    "poster_path": "/nqXsAaQsKw2gKpkfhIgjXNDRqg7.jpg",
-    "release_date": "2024-03-02",
-    "title": "Kung Fu Panda 4",
-    "video": false,
-    "vote_average": 7.065,
-    "vote_count": 3069
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/3ExQ28MVRaBbJFI2br5NjLyXVO1.jpg",
+    "backdrop_path": "/notcxmT6RN93g43BnRI8GvRktZ.jpg",
     "genre_ids": [
       28,
-      35,
-      53
+      18,
+      36,
+      10752
     ],
-    "id": 1212855,
-    "original_language": "en",
-    "original_title": "Fight or Flight",
-    "overview": "A mercenary takes on the job of tracking down a target on a plane but must protect her when they're surrounded by people trying to kill both of them.",
-    "popularity": 34.9612,
-    "poster_path": "/dNyzZaMDS5hmOzWHFgNlgRRPDB0.jpg",
-    "release_date": "2025-04-03",
-    "title": "Fight or Flight",
+    "id": 498448,
+    "original_language": "hi",
+    "original_title": "केसरी",
+    "overview": "In 1897, an army of 21 Sikhs battles 10,000 Afghans to prevent the Saragarhi Fort from being taken down.",
+    "popularity": 4.0791,
+    "poster_path": "/ctjT1pMNAGD9ou0kuhz806tf7kX.jpg",
+    "release_date": "2019-03-21",
+    "title": "Kesari",
     "video": false,
-    "vote_average": 5.865,
-    "vote_count": 96
+    "vote_average": 7.086,
+    "vote_count": 105
   },
   {
     "adult": false,
-    "backdrop_path": "/aBqpGwFVSAHcPNgsLX1Y10XPy7y.jpg",
-    "genre_ids": [
-      18
-    ],
-    "id": 1371094,
-    "original_language": "es",
-    "original_title": "Desmontando un elefante",
-    "overview": "A mother is trapped by both a close bond to her daughter and a day-to-day life whose elephant in the room is her own addiction, which nobody mentions, remaining a taboo.",
-    "popularity": 34.7547,
-    "poster_path": "/M0V6s0WrPsYTd0HxjbZjYAqY9B.jpg",
-    "release_date": "2025-01-10",
-    "title": "Dismantling an Elephant",
-    "video": false,
-    "vote_average": 6,
-    "vote_count": 2
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/uJK0jjJ8QDOQw5lcNBwu059ht4D.jpg",
-    "genre_ids": [
-      10749,
-      18
-    ],
-    "id": 1294203,
-    "original_language": "en",
-    "original_title": "My Fault: London",
-    "overview": "18-year-old Noah moves from America to London, with her mother who's recently fallen in love with William, a wealthy British businessman. Noah meets William’s son, bad-boy Nick, and soon discovers there is an attraction between them neither can avoid. As Noah spends the summer adjusting to her new life, her devastating past will catch up with her while falling in love for the first time.",
-    "popularity": 34.2349,
-    "poster_path": "/ttN5D6GKOwKWHmCzDGctAvaNMAi.jpg",
-    "release_date": "2025-02-12",
-    "title": "My Fault: London",
-    "video": false,
-    "vote_average": 7.5,
-    "vote_count": 391
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/dXoBFj9Yl9HDRcDVQubkuVCh26N.jpg",
-    "genre_ids": [
-      28,
-      35
-    ],
-    "id": 1160956,
-    "original_language": "zh",
-    "original_title": "熊猫计划",
-    "overview": "International action star Jackie Chan is invited to the adoption ceremony of a rare baby panda, but after an international crime syndicate attempts to kidnap the bear, Jackie has to save the bear using his stunt work skills.",
-    "popularity": 34.0517,
-    "poster_path": "/8iMPQl13q89jQhaA5nXb6UiT0t0.jpg",
-    "release_date": "2024-10-01",
-    "title": "Panda Plan",
-    "video": false,
-    "vote_average": 6.863,
-    "vote_count": 190
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/deUWVEgNh2IGjShyymZhaYP40ye.jpg",
-    "genre_ids": [
-      28,
-      12,
-      53
-    ],
-    "id": 1356039,
-    "original_language": "es",
-    "original_title": "Contraataque",
-    "overview": "When a hostage rescue mission creates a new enemy, Capt. Guerrero and his elite soldiers must face an ambush by a criminal group.",
-    "popularity": 34.0452,
-    "poster_path": "/38I76hGcFY6xB47pjm7pZwkfuAF.jpg",
-    "release_date": "2025-02-27",
-    "title": "Counterattack",
-    "video": false,
-    "vote_average": 8.351,
-    "vote_count": 673
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+    "backdrop_path": "/vN2mJ2tvk1TpMiA45ZHMnOCg7q1.jpg",
     "genre_ids": [
       12,
       28,
       878
     ],
-    "id": 299536,
-    "original_language": "en",
-    "original_title": "Avengers: Infinity War",
-    "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
-    "popularity": 33.7208,
-    "poster_path": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
-    "release_date": "2018-04-25",
-    "title": "Avengers: Infinity War",
+    "id": 41517,
+    "original_language": "hi",
+    "original_title": "Ra.One",
+    "overview": "When the titular antagonist of an action game takes on physical form, it's up to the game's less powerful protagonist to save the world.",
+    "popularity": 2.7868,
+    "poster_path": "/mXlS41qbd0bzhO44iPDtJqYtQt8.jpg",
+    "release_date": "2011-10-26",
+    "title": "Ra.One",
     "video": false,
-    "vote_average": 8.2,
-    "vote_count": 30521
+    "vote_average": 5.7,
+    "vote_count": 340
   },
   {
     "adult": false,
-    "backdrop_path": "/2TtpJq1PbeQ36E5FnHVX4O6hVvu.jpg",
+    "backdrop_path": "/dcoqmFVrcPw2lTcuJOxsAmZOG9n.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "id": 556271,
+    "original_language": "hi",
+    "original_title": "कलंक",
+    "overview": "Set in 1945, in Pre-Independent India, the elite, opulent and solemn world of the Chaudhry family, and the wild, mysterious and musical underbelly of the town, Hira Mandi, clash when Roop Chaudhry encounters Zafar, a daredevil from Hira Mandi, unleashing deep-buried truths, secrets of betrayal and affairs that threaten to bring both worlds crashing down.",
+    "popularity": 3.6004,
+    "poster_path": "/aU4DMIzR7u3EHqQ123oLmi9JTbL.jpg",
+    "release_date": "2019-04-17",
+    "title": "Kalank",
+    "video": false,
+    "vote_average": 5.6,
+    "vote_count": 53
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6DqNe4jKvWyQZjlRi9FaCzgMxyx.jpg",
+    "genre_ids": [
+      28,
+      878,
+      53
+    ],
+    "id": 799155,
+    "original_language": "hi",
+    "original_title": "Attack",
+    "overview": "With the Parliament under siege, India’s first super soldier Arjun Shergill is tasked to get hold of the terrorists in time, save the Prime Minister from their clutches and stop a dirty bomb from exploding and destroying Delhi.",
+    "popularity": 3.9803,
+    "poster_path": "/A9FjibQFfkPVrfQcM3dlY6fkYpJ.jpg",
+    "release_date": "2022-04-01",
+    "title": "Attack",
+    "video": false,
+    "vote_average": 6.766,
+    "vote_count": 209
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/c6DH4DO5Gf1MRuFIA8omh2b6psn.jpg",
+    "genre_ids": [
+      80,
+      18,
+      53
+    ],
+    "id": 1233208,
+    "original_language": "hi",
+    "original_title": "संतोष",
+    "overview": "A government scheme sees newly widowed Santosh inherit her husband’s job as a police constable in the rural badlands of Northern India. When a low-caste girl is found raped and murdered, she is pulled into the investigation under the wing of charismatic feminist inspector Sharma.",
+    "popularity": 3.7359,
+    "poster_path": "/c4LdJKjE7Du2ofKsyDrmwZs9u5m.jpg",
+    "release_date": "2025-01-10",
+    "title": "Santosh",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 39
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/g6ls0ftIOS9qqPHn8K1nysq7yMB.jpg",
+    "genre_ids": [
+      18,
+      28
+    ],
+    "id": 143976,
+    "original_language": "hi",
+    "original_title": "ज़िद्दी",
+    "overview": "Omnipresent Bollywood acting dynamo Sunny Deol stars as Deva, the son of an honest lawyer (Anupam Kher) who lives with his brother, Aakash (Sachin Khedekar), and his beloved sister, Guddi (Richa Behl). Imprisoned after a man touches Guddi and sets off his violent, jealous rage, Deva falls into a life of crime, quickly rising to the top of the city's criminal underworld--much to the chagrin of the other crime bosses, who plot his murder. Their attempt to frame him for the murder of an important Minister doesn't go as planned, and Deva suddenly finds himself on the run, with the minister as a hostage, and his brother and sister murdered.",
+    "popularity": 3.5013,
+    "poster_path": "/p8OaWdlGVfpOzTbZo4F0xRzOMOR.jpg",
+    "release_date": "1997-04-11",
+    "title": "Ziddi",
+    "video": false,
+    "vote_average": 5.6,
+    "vote_count": 8
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/emjsLzI7WwCfcEFty4yvA3Bm5AA.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "id": 4251,
+    "original_language": "hi",
+    "original_title": "वीर-ज़ारा",
+    "overview": "Squadron Leader Veer Pratap Singh, a pilot in the Indian Air Force, rescues the stranded Zaara, a woman from Pakistan, following a bus accident, and their lives are forever bound.",
+    "popularity": 3.3421,
+    "poster_path": "/j267YqLvKAHeyykTflxzpgVgviQ.jpg",
+    "release_date": "2004-11-12",
+    "title": "Veer-Zaara",
+    "video": false,
+    "vote_average": 7.4,
+    "vote_count": 276
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4MNRH73XmwBK2ycv3qvLpa07O5F.jpg",
     "genre_ids": [
       28,
       53
     ],
-    "id": 1125899,
-    "original_language": "en",
-    "original_title": "Cleaner",
-    "overview": "When a group of radical activists take over an energy company's annual gala, seizing 300 hostages, an ex-soldier turned window cleaner suspended 50 storeys up on the outside of the building must save those trapped inside, including her younger brother.",
-    "popularity": 33.4283,
-    "poster_path": "/mwzDApMZAGeYCEVjhegKvCzDX0W.jpg",
-    "release_date": "2025-02-19",
-    "title": "Cleaner",
+    "id": 1257960,
+    "original_language": "hi",
+    "original_title": "सिकंदर",
+    "overview": "Sanjay \"Sikandar\" Rajkot, the king of Rajkot, becomes a target for Minister Rakesh Pradhan after he gets in an altercation with his son.",
+    "popularity": 4,
+    "poster_path": "/41s42CRXafa3OuRGvCtfYPEBmse.jpg",
+    "release_date": "2025-03-30",
+    "title": "Sikandar",
     "video": false,
-    "vote_average": 6.615,
-    "vote_count": 252
+    "vote_average": 4.8,
+    "vote_count": 17
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/n9QCm8uagvmXH476u5qFQsW8HkU.jpg",
+    "genre_ids": [
+      35,
+      18,
+      28
+    ],
+    "id": 348892,
+    "original_language": "hi",
+    "original_title": "बजरंगी भाईजान",
+    "overview": "A young mute girl from Pakistan loses herself in India with no way to head back. A devoted man with a magnanimous spirit undertakes the task to get her back to her motherland and unite her with her family.",
+    "popularity": 3.5657,
+    "poster_path": "/vhlliI7HZZlWfo5d6CiyfBAGLrW.jpg",
+    "release_date": "2015-07-17",
+    "title": "Bajrangi Bhaijaan",
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 496
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7w06baRS9VPm5RYz8lawTCLiR4j.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "id": 592508,
+    "original_language": "hi",
+    "original_title": "सूर्यवंशी",
+    "overview": "A fearless, faithful albeit slightly forgetful Mumbai cop, Veer Sooryavanshi, the chief of the Anti-Terrorism Squad in India pulls out all the stops and stunts to thwart a major conspiracy to attack his city.",
+    "popularity": 3.653,
+    "poster_path": "/oCymRm6FG62zrKnXiHHJvDgkYoA.jpg",
+    "release_date": "2021-11-05",
+    "title": "Sooryavanshi",
+    "video": false,
+    "vote_average": 5.8,
+    "vote_count": 163
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/efq4fpiyO31vGDHijeMNHGMkBYB.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "id": 901315,
+    "original_language": "hi",
+    "original_title": "मिस्टर एंड मिसेज माही",
+    "overview": "Poles apart, Mahima and Mahendra find a unifying force in the form of cricket. While one Mahi (Mahendra) is grappling to come to terms with his dream of playing for India getting shattered, he wants to live it through the other Mahi (Mahima.) Mahima is a doctor but Mahendra hasn't seen anyone play like her. Will the clash of dreams unite Mr. and Mrs. Mahi or create boundaries for life?",
+    "popularity": 2.4218,
+    "poster_path": "/x1v8Qzvp46WEpxoBFlqaGfSsAxw.jpg",
+    "release_date": "2024-05-31",
+    "title": "Mr. & Mrs. Mahi",
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 8
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/f9gUtJtjda7Dy1sw3oJ9yWzjJiC.jpg",
+    "genre_ids": [
+      27,
+      35
+    ],
+    "id": 533991,
+    "original_language": "hi",
+    "original_title": "स्त्री",
+    "overview": "Set in the town of Chanderi, Stree is based on the urban legend of Nale Ba that went viral in Karnataka in the 1990s, and features Shraddha Kapoor and Rajkummar Rao in pivotal roles.",
+    "popularity": 3.6459,
+    "poster_path": "/euhgW6hpDYw7nxFDjqHn0eKvQPX.jpg",
+    "release_date": "2018-08-31",
+    "title": "Stree",
+    "video": false,
+    "vote_average": 6.896,
+    "vote_count": 159
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/v3Vk2hIvQ6jYnFp0H4WbGKWKA3l.jpg",
+    "genre_ids": [
+      27,
+      18
+    ],
+    "id": 1084031,
+    "original_language": "hi",
+    "original_title": "छोरी 2",
+    "overview": "Sakshi must rescue her seven year old daughter from being sacrificed by an evil cult to satisfy their resident leader, while fighting societal superstitions and the horror that continues to haunt her and young women around her.",
+    "popularity": 3.825,
+    "poster_path": "/mCgKANxZJW645pXdmJdBb4ysRPk.jpg",
+    "release_date": "2025-04-11",
+    "title": "Chhorii 2",
+    "video": false,
+    "vote_average": 4.3,
+    "vote_count": 5
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3BrGn1hzfT4SlpooyPbpdcajFez.jpg",
+    "genre_ids": [
+      10749,
+      18,
+      35
+    ],
+    "id": 504080,
+    "original_language": "hi",
+    "original_title": "धड़क",
+    "overview": "Madhukar and Parthavi fall head over heels in love with each other, but the fact that they belong to different castes of society, becomes an obstacle in their romance. The lovers dare to go against societal norms and battle all odds for the sake of love.",
+    "popularity": 3.3187,
+    "poster_path": "/vIVKzzPA7hrSZpEwofB7Luo83kO.jpg",
+    "release_date": "2018-07-20",
+    "title": "Dhadak",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 50
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/k6CjO0JQhfm3M0paWvnqkpzB0pL.jpg",
+    "genre_ids": [
+      35,
+      53,
+      18
+    ],
+    "id": 8079,
+    "original_language": "hi",
+    "original_title": "ओम शांति ओम",
+    "overview": "Reincarnated 30 years after being killed in a suspicious on-set fire, a small-time actor is determined to punish the person who ignited the blaze.",
+    "popularity": 3.5771,
+    "poster_path": "/2mnqkI871E0thcIwsB6K6Bhemb2.jpg",
+    "release_date": "2007-11-09",
+    "title": "Om Shanti Om",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 363
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/yLKkuYMcibmNEvb97I4t6eDSSwk.jpg",
+    "genre_ids": [
+      28,
+      18,
+      53,
+      80
+    ],
+    "id": 1014214,
+    "original_language": "hi",
+    "original_title": "सिंघम अगेन",
+    "overview": "The cop universe expands with newer additions while the old ones return led by Bajirao Singham. Singham Again interweaves the mythological epic Ramayana's good vs evil narrative when his wife Avni Kamath gets abducted by Danger Lanka setting Bajirao and his gang of Sangram Bhalerao and Veer Sooryavanshi along with Satya and Shakti Shetty on a mission to rescue her.",
+    "popularity": 4.7751,
+    "poster_path": "/2JbNkHg8m7LaBy61LyrnnlenaxY.jpg",
+    "release_date": "2024-11-01",
+    "title": "Singham Again",
+    "video": false,
+    "vote_average": 4.375,
+    "vote_count": 24
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/uUVXEEyMsyWxrcbmAppUCYg6egV.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "id": 1163194,
+    "original_language": "hi",
+    "original_title": "लापता लेडीज़",
+    "overview": "In 2001, somewhere in rural India, two young brides get accidentally swapped on a train. In the ensuing chaos, they both encounter a host of colourful characters, resulting in hilarious and unexpected consequences.",
+    "popularity": 5.2021,
+    "poster_path": "/yXt07MYeiyQRzS69PMHy0BPjCGP.jpg",
+    "release_date": "2024-03-01",
+    "title": "Lost Ladies",
+    "video": false,
+    "vote_average": 7.75,
+    "vote_count": 94
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4kX80Ea98cEy2Ahy0LSMYtFvJDG.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "id": 1045931,
+    "original_language": "hi",
+    "original_title": "Crew",
+    "overview": "Three ordinary air hostesses from Mumbai embark on a journey to pursue their dreams but find themselves caught up in unexpected misfortunes.",
+    "popularity": 4.6676,
+    "poster_path": "/8mnCtQngfhYt0W0BmkrCePutmvy.jpg",
+    "release_date": "2024-03-29",
+    "title": "Crew",
+    "video": false,
+    "vote_average": 6.858,
+    "vote_count": 53
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/yFwn006ETsYVykpI8OKocgY0Bi3.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "id": 577328,
+    "original_language": "hi",
+    "original_title": "कबीर सिंह",
+    "overview": "Kabir, a genius yet hostile medical student, falls in love with Preeti from his college. When Preeti's father spots the couple kissing, he opposes their relationship and decides to marry her off.",
+    "popularity": 4.012,
+    "poster_path": "/unqiPjtc6CGqs13zho7ZvWU85zu.jpg",
+    "release_date": "2019-06-21",
+    "title": "Kabir Singh",
+    "video": false,
+    "vote_average": 6.4,
+    "vote_count": 139
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/c3c9qcUWA9u99RDipH3JL54FT6J.jpg",
+    "genre_ids": [
+      35,
+      10749,
+      878
+    ],
+    "id": 1301632,
+    "original_language": "hi",
+    "original_title": "भूल चूक माफ",
+    "overview": "Ranjan, a small-town romantic boy from Banaras, lands a government job to marry Titli, but forgets to vow to Lord Shiva, causing him to be trapped in a time loop. A hilarious tale of love, fate, and redemption unfolds, as Ranjan tries to end the loop and get married.",
+    "popularity": 3.2216,
+    "poster_path": "/plWzFq6eVXOm8vpgJG0xUGmifHS.jpg",
+    "release_date": "2025-05-23",
+    "title": "Bhool Chuk Maaf",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/b0omVIe88I2gPIPmX87VYScMsx5.jpg",
+    "genre_ids": [
+      80,
+      53,
+      18,
+      9648
+    ],
+    "id": 1029827,
+    "original_language": "hi",
+    "original_title": "दृश्यम २",
+    "overview": "7 years after the case related to Vijay Salgaonkar and his family was closed, a series of unexpected events bring truth to light that threatens to change everything for the Salgaonkars. Can Vijay save his family this time?",
+    "popularity": 4.2566,
+    "poster_path": "/yJNNwHQuKYNeHFbsxSFR6yK9Dda.jpg",
+    "release_date": "2022-11-18",
+    "title": "Drishyam 2",
+    "video": false,
+    "vote_average": 7.933,
+    "vote_count": 82
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/n19pClzY673UkZvECNZMDO2ViMP.jpg",
+    "genre_ids": [
+      10749,
+      36,
+      18
+    ],
+    "id": 14073,
+    "original_language": "hi",
+    "original_title": "जोधा अकबर",
+    "overview": "A sixteenth century love story about a marriage of alliance that gave birth to true love between a Mughal emperor and a Rajput princess.",
+    "popularity": 3.1667,
+    "poster_path": "/gPjgeywFNTlh9IUuXWy85nn4h8J.jpg",
+    "release_date": "2008-02-15",
+    "title": "Jodhaa Akbar",
+    "video": false,
+    "vote_average": 7.326,
+    "vote_count": 250
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/bifmpGuVdJDPPTU4IuCnsMNBOqD.jpg",
+    "genre_ids": [
+      53
+    ],
+    "id": 441071,
+    "original_language": "hi",
+    "original_title": "नाम शबाना",
+    "overview": "Shabana Khan is the special agent who is entrusted the task of assassinating a deadly arms dealer by the Indian Intelligence Agencies.",
+    "popularity": 2.2079,
+    "poster_path": "/xFHeFrOYzsHgAiZeGAjwJmDMen6.jpg",
+    "release_date": "2017-03-31",
+    "title": "Naam Shabana",
+    "video": false,
+    "vote_average": 5.7,
+    "vote_count": 52
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/rxh0nZxZMZ7jogcCKcMpYZkoq1C.jpg",
+    "genre_ids": [
+      80,
+      18,
+      53
+    ],
+    "id": 1184889,
+    "original_language": "hi",
+    "original_title": "जिगरा",
+    "overview": "When Ankur is wrongfully imprisoned and sentenced to death in a foreign country, his steely sister Satya is driven by a lethal resolve to break him free.",
+    "popularity": 5.1858,
+    "poster_path": "/mhnT27mgtiMNowOhAlMWSqBoSyb.jpg",
+    "release_date": "2024-10-11",
+    "title": "Jigra",
+    "video": false,
+    "vote_average": 6.206,
+    "vote_count": 51
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/sv3clpwOSSZO1c8i9uX4zig6Lzz.jpg",
+    "genre_ids": [
+      53,
+      80,
+      9648,
+      28
+    ],
+    "id": 1252470,
+    "original_language": "hi",
+    "original_title": "सिकंदर का मुकद्दर",
+    "overview": "After an unsolved diamond heist, a hard-nosed cop’s pursuit of his key suspect turns into obsession, until they finally face each other — and the truth.",
+    "popularity": 5.3962,
+    "poster_path": "/eWUh4rgxtgypgnOa6uGMnUt01ux.jpg",
+    "release_date": "2024-11-29",
+    "title": "Sikandar Ka Muqaddar",
+    "video": false,
+    "vote_average": 5.576,
+    "vote_count": 46
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3SmbEb7T2Ypg5vBwLflLeVXkkQ1.jpg",
+    "genre_ids": [
+      28,
+      80
+    ],
+    "id": 44977,
+    "original_language": "hi",
+    "original_title": "धूम ३",
+    "overview": "To avenge his father's death, a circus entertainer trained in magic and acrobatics robs banks to take down a corrupt bank owner. Two cops from Mumbai are assigned to the case.",
+    "popularity": 3.3914,
+    "poster_path": "/rUVTM5EQUQ2I0fcfE46AkvBYWae.jpg",
+    "release_date": "2013-12-20",
+    "title": "Dhoom 3",
+    "video": false,
+    "vote_average": 6.1,
+    "vote_count": 286
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/l9X1D06du4AJeKhivJns9W3TRIs.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "id": 493623,
+    "original_language": "hi",
+    "original_title": "Hichki",
+    "overview": "Hichki presents a positive and inspiring story about a woman who turns her biggest weakness into her biggest strength.",
+    "popularity": 2.69,
+    "poster_path": "/8t4euZR2w7Cfyjre8c6fKASlN8F.jpg",
+    "release_date": "2018-03-23",
+    "title": "Hichki",
+    "video": false,
+    "vote_average": 7.546,
+    "vote_count": 141
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kqSxCsGIT4rqrZTTMpYP8RIzojv.jpg",
+    "genre_ids": [
+      28,
+      12,
+      53
+    ],
+    "id": 720557,
+    "original_language": "hi",
+    "original_title": "Tiger 3",
+    "overview": "Following the events of Tiger Zinda Hai, War, and Pathaan, Avinash Singh Rathore returns as Tiger but this time the battle is within. He has to choose between his country or family as an old enemy is after his life, who claims that his family was killed by Tiger. He holds Tiger captive in Pakistan as the Indian agent's loyalty towards his country faces its biggest test.",
+    "popularity": 3.0883,
+    "poster_path": "/fjzpptTwFoIduPrAUGmlqxaLKhm.jpg",
+    "release_date": "2023-11-12",
+    "title": "Tiger 3",
+    "video": false,
+    "vote_average": 5.765,
+    "vote_count": 51
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4Yr1efAiQ55YdV9R7N4WOntpmZ5.jpg",
+    "genre_ids": [
+      35,
+      27
+    ],
+    "id": 1187058,
+    "original_language": "hi",
+    "original_title": "मुंज्या",
+    "overview": "A young man's visit to his native village unveils a family secret and a vengeful spirit, Munjya, who wants to get married. Now the young man must fight to protect himself and his love from Munjya's clutches leading to a humorously chaotic and terrifying adventure.",
+    "popularity": 3.2214,
+    "poster_path": "/31zAzJs8O7dXcE0laUcBoaaNvwu.jpg",
+    "release_date": "2024-06-07",
+    "title": "Munjya",
+    "video": false,
+    "vote_average": 5.739,
+    "vote_count": 23
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/grHW40Lv8gzahOKHNr4oCuKHwaR.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "id": 1201015,
+    "original_language": "hi",
+    "original_title": "मडगांव एक्सप्रेस",
+    "overview": "Three childhood friends embark on a trip to Goa that goes completely off-track when they wake up in their hotel room to find a cache of cocaine belonging to a don.",
+    "popularity": 3.0009,
+    "poster_path": "/A7ADiZb78s9EFosa4GgEq1fyK8G.jpg",
+    "release_date": "2024-03-22",
+    "title": "Madgaon Express",
+    "video": false,
+    "vote_average": 6,
+    "vote_count": 20
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lJH4Ml80gkbbyBGTIYVbU64tU5R.jpg",
+    "genre_ids": [
+      80,
+      18,
+      10749
+    ],
+    "id": 25510,
+    "original_language": "hi",
+    "original_title": "जन्नत",
+    "overview": "A gambler turns into a cricket bookie banking on his sixth sense for the game. But his urge to make quick money pushes him into match-fixing and he loses control of his life and love.",
+    "popularity": 3.0888,
+    "poster_path": "/4QRFa5FjA27hC3ZnHfzAjeTUt0Q.jpg",
+    "release_date": "2008-05-16",
+    "title": "Jannat",
+    "video": false,
+    "vote_average": 6.1,
+    "vote_count": 37
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/z4k7b66jAHP8sQbEahxss6Ct8BW.jpg",
+    "genre_ids": [
+      18,
+      35,
+      10749
+    ],
+    "id": 61202,
+    "original_language": "hi",
+    "original_title": "ज़िन्दगी ना मिलेगी दोबारा",
+    "overview": "Three friends who were inseparable in childhood decide to go on a three-week-long bachelor road trip to Spain, in order to re-establish their bond and explore thrilling adventures, before one of them gets married. What will they learn of themselves and each other during the adventure?",
+    "popularity": 2.9725,
+    "poster_path": "/gFQRmiPLFS0cIGpC1fyGiiqYz41.jpg",
+    "release_date": "2011-07-15",
+    "title": "Zindagi Na Milegi Dobara",
+    "video": false,
+    "vote_average": 7.564,
+    "vote_count": 361
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vklo3RkM15epMVw41JrqYtGBzwr.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "id": 582375,
+    "original_language": "hi",
+    "original_title": "Notebook",
+    "overview": "An ex-army officer, Kabir, becomes a teacher in Kashmir in a school that is in a miserable condition. Things take a turn when Kabir finds a notebook, left behind by the previous year's teacher Firdaus.",
+    "popularity": 2.018,
+    "poster_path": "/xWGuyAriV4h3vzSSplITsJlIUSX.jpg",
+    "release_date": "2019-03-29",
+    "title": "Notebook",
+    "video": false,
+    "vote_average": 5.786,
+    "vote_count": 21
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1CpOFqgxOFOL2MxTWcIRfg6axy4.jpg",
+    "genre_ids": [
+      28,
+      36,
+      18
+    ],
+    "id": 569594,
+    "original_language": "hi",
+    "original_title": "भारत",
+    "overview": "At the cusp of India's birth as an Independent nation, a family makes an arduous journey to freedom at a cost. A young boy Bharat, makes a promise to his Father that he will keep his family together no matter what.",
+    "popularity": 2.9685,
+    "poster_path": "/aawdjzVsfKvRRIFu9Ni74wZyjc8.jpg",
+    "release_date": "2019-06-05",
+    "title": "Bharat",
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 61
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xjjHH1SxphgYtwCCdAlN5wmYGqR.jpg",
+    "genre_ids": [
+      36,
+      28,
+      12,
+      14
+    ],
+    "id": 734253,
+    "original_language": "hi",
+    "original_title": "आदिपुरुष",
+    "overview": "7000 years ago, Ayodhya's Prince Raghava and Prince Sesh along with the Mighty Vanar Warriors travels to the island of Lanka with an aim to rescue Raghava's wife Janaki, who has been abducted by Lankesh, the king of Lanka.",
+    "popularity": 3.2593,
+    "poster_path": "/1H2xEZOixs0z0JKwyjANZiKNNVJ.jpg",
+    "release_date": "2023-06-16",
+    "title": "Adipurush",
+    "video": false,
+    "vote_average": 4.913,
+    "vote_count": 92
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zUCDf87awNIwV5N4NQdA807dGTP.jpg",
+    "genre_ids": [
+      18,
+      28
+    ],
+    "id": 1379877,
+    "original_language": "hi",
+    "original_title": "आज़ाद",
+    "overview": "In 1920s India, a young stable boy bonds with a spirited horse. Amid rebellion and tyranny, his quest to ride the majestic animal becomes a journey of courage, awakening him to the country's fight for freedom.",
+    "popularity": 3.294,
+    "poster_path": "/yWFpiJcUJfXRbm3om48kNJ0MU7A.jpg",
+    "release_date": "2025-01-17",
+    "title": "Azaad",
+    "video": false,
+    "vote_average": 6,
+    "vote_count": 7
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 1145110,
+    "original_language": "hi",
+    "original_title": "King",
+    "overview": "",
+    "popularity": 3.0791,
+    "poster_path": null,
+    "release_date": "",
+    "title": "King",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/s8ZGl0h1l2KN6jO0Jm5iqSp5djO.jpg",
+    "genre_ids": [
+      80,
+      53,
+      9648,
+      18
+    ],
+    "id": 581361,
+    "original_language": "hi",
+    "original_title": "बदला",
+    "overview": "A dynamic young entrepreneur finds herself locked in a hotel room with the corpse of her dead lover. She hires a prestigious lawyer to defend her and they work together to figure out what actually happened.",
+    "popularity": 3.1579,
+    "poster_path": "/eKpzbERuhogYTwI3PwfVsAHXnuO.jpg",
+    "release_date": "2019-03-08",
+    "title": "Badla",
+    "video": false,
+    "vote_average": 7.4,
+    "vote_count": 145
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jyGiG4wcr0BHpqIXiep5MRCQ7Kz.jpg",
+    "genre_ids": [
+      28,
+      12,
+      18,
+      36,
+      10749,
+      10752
+    ],
+    "id": 4435,
+    "original_language": "hi",
+    "original_title": "अशोक",
+    "overview": "A young Prince Asoka works to perfect his skills in battle and also deals with family conflict. During a struggle with one of his step-brothers, his mother urges Asoka to escape to stay alive. While away, Asoka meets Kaurwaki and falls in love, but must use his skills as a warrior to protect her. A dangerous and heartbreaking web of conspiracy follows, which leads Asoka to embrace a Buddhist path.",
+    "popularity": 2.9877,
+    "poster_path": "/ckFDMqLjhsYo2kH3X5auV1NnjPM.jpg",
+    "release_date": "2001-10-26",
+    "title": "Aśoka",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 150
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/dRot2ng1pN6uJpLPikxDrbkngmu.jpg",
+    "genre_ids": [
+      35,
+      10749,
+      18
+    ],
+    "id": 984101,
+    "original_language": "hi",
+    "original_title": "बैड न्यूज़",
+    "overview": "After a whirlwind marriage with social media influencer Akhil Chadha that ends in divorce, chef Saloni Bagga meets hotelier Gurbir Pannu. One night with Gurbir – and then also with Akhil – leads to Saloni getting pregnant. But who's the father? By a one-in-a-billion twist of fate, Saloni is carrying twins – and not just any twins, each child has a different father!",
+    "popularity": 4.6706,
+    "poster_path": "/qDlqxGATpYBWqGciPB4tmQm3bFT.jpg",
+    "release_date": "2024-07-19",
+    "title": "Bad Newz",
+    "video": false,
+    "vote_average": 4.735,
+    "vote_count": 17
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7XSw1gDV7uJvexJfoKGUIWadVRx.jpg",
+    "genre_ids": [
+      28,
+      35,
+      18,
+      10749
+    ],
+    "id": 884434,
+    "original_language": "hi",
+    "original_title": "शहज़ादा",
+    "overview": "Bantu has grown up suffering his father Valmiki’s vitriolic tongue until he discovers that he’s actually an heir to an influential family, who was exchanged at birth. He moves into their mansion to protect them from a criminal drug lord’s attack and helps the family sort their issues.",
+    "popularity": 2.4311,
+    "poster_path": "/rcKbsGBZCwDs1sVXNkGHqEVLzQW.jpg",
+    "release_date": "2023-02-17",
+    "title": "Shehzada",
+    "video": false,
+    "vote_average": 5.6,
+    "vote_count": 31
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/g0VFxhLingCTYXL1z9nR8YD7WH4.jpg",
+    "genre_ids": [
+      53,
+      9648,
+      18,
+      80
+    ],
+    "id": 1148172,
+    "original_language": "hi",
+    "original_title": "दो पत्ती",
+    "overview": "A puzzling investigation leads a no-nonsense cop down a dark path involving the vicious rivalry between twin sisters and the volatile man they both love.",
+    "popularity": 4.5979,
+    "poster_path": "/cqStHxRVUtFNaNnJtieHeXIackv.jpg",
+    "release_date": "2024-10-25",
+    "title": "Do Patti",
+    "video": false,
+    "vote_average": 7.033,
+    "vote_count": 45
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jAbyybBSXCyKGFy5EXlwW1NhjM.jpg",
+    "genre_ids": [
+      28,
+      53,
+      12
+    ],
+    "id": 585268,
+    "original_language": "hi",
+    "original_title": "War",
+    "overview": "Khalid, entrusted with the task of eliminating former soldier turned rogue Kabir, engages in an epic battle with his mentor who taught him everything.",
+    "popularity": 3.1284,
+    "poster_path": "/7JeHrXR1FU57Y6b90YDpFJMhmVO.jpg",
+    "release_date": "2019-10-02",
+    "title": "War",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 332
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/AcLsfw3TVZGFFT8yRA5StPKk65y.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "id": 14072,
+    "original_language": "hi",
+    "original_title": "रब ने बना दी जोड़ी",
+    "overview": "A lonely 40-ish man, likely to remain a bachelor, has a chance to find the love of his life when he falls for a vivacious young woman.",
+    "popularity": 3.1516,
+    "poster_path": "/m8x6I2qf3R98HtF4DmJXcdxCU64.jpg",
+    "release_date": "2008-12-12",
+    "title": "Rab Ne Bana Di Jodi",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 288
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/pJgSJSMrwg1MOJnYNeQKsJvc39r.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "id": 496328,
+    "original_language": "hi",
+    "original_title": "संजू",
+    "overview": "Sanju explores some of the most crucial chapters from movie star Sanjay Dutt’s dramatic and controversial real life. It gives a lowdown on his tryst with drugs and his trials and tribulations in the Arms Acts case and the 1993 Mumbai blasts.",
+    "popularity": 2.7893,
+    "poster_path": "/q1wkN4VQuBTj1AeyTLLz2w6awMA.jpg",
+    "release_date": "2018-06-29",
+    "title": "Sanju",
+    "video": false,
+    "vote_average": 7.195,
+    "vote_count": 195
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/iBIWEBAlDkDkjVF1kaCHcLfawkV.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "id": 33142,
+    "original_language": "hi",
+    "original_title": "विवाह",
+    "overview": "Poonam, a traditionally brought-up young woman, is to marry Prem, a groom chosen by her uncle. Poonam and Prem's faith and love are to be tested however, when an accident occurs and Poonam might be scarred for life.",
+    "popularity": 2.69,
+    "poster_path": "/e5zFYX3hW1TNeFCzRw7ET2DxRPm.jpg",
+    "release_date": "2006-11-10",
+    "title": "Vivah",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 87
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ArvKQJv3nEpnBoVyjWDUT7TtJOL.jpg",
+    "genre_ids": [
+      80,
+      9648,
+      53,
+      35
+    ],
+    "id": 534780,
+    "original_language": "hi",
+    "original_title": "अंधाधुन",
+    "overview": "A series of mysterious events changes the life of a blind pianist who now must report a crime that was actually never witnessed by him.",
+    "popularity": 2.9472,
+    "poster_path": "/dy3K6hNvwE05siGgiLJcEiwgpdO.jpg",
+    "release_date": "2018-10-05",
+    "title": "Andhadhun",
+    "video": false,
+    "vote_average": 7.639,
+    "vote_count": 539
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4qifcARBYMzaKgIeaPNTYXLikXd.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "id": 381418,
+    "original_language": "hi",
+    "original_title": "सनम तेरी कसम",
+    "overview": "Tough ex-convict Inder and traditional mousy Saraswati fall in love and get married, but a tragedy changes their lives forever. The film is a modern rendition of the legends of Shiva-Sati and the novel Love Story by Eric Segal.",
+    "popularity": 2.8429,
+    "poster_path": "/yx0gPrJqdZei4PX8krLZXmIimSI.jpg",
+    "release_date": "2016-02-05",
+    "title": "Sanam Teri Kasam",
+    "video": false,
+    "vote_average": 7.81,
+    "vote_count": 124
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8cdyb8c5fFr1192L7AEbVpMxcV0.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749,
+      80
+    ],
+    "id": 1146210,
+    "original_language": "hi",
+    "original_title": "हाउसफ़ूल 5",
+    "overview": "India's Biggest Franchise is back with the 5th instalment, and this time it is not just chaos and comedy.... But a KILLER Comedy!",
+    "popularity": 2.7816,
+    "poster_path": "/iGvGkVOfsooO0ZBrhN5i6zXYUCy.jpg",
+    "release_date": "2025-06-06",
+    "title": "Housefull 5",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/61RYedFgX1K07xgVIvdJzukSR4g.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10751,
+      10749
+    ],
+    "id": 848116,
+    "original_language": "hi",
+    "original_title": "रॉकी और रानी की प्रेम कहानी",
+    "overview": "Gym-freak brat Rocky falls in love with Rani, who comes from a well-educated Bengali family. Being from polar opposite worlds, the two decide to switch their families to adjust to each other's cultures and backgrounds and to know if their marriage will survive. Rocky and Rani are trapped in a world where they are united by love but divided by families and the ultimate question is will they fit in?",
+    "popularity": 3.3103,
+    "poster_path": "/vTQIqlxUkOuyf2UKhlM2OUaFGKz.jpg",
+    "release_date": "2023-07-28",
+    "title": "Rocky Aur Rani Kii Prem Kahaani",
+    "video": false,
+    "vote_average": 6.3,
+    "vote_count": 60
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/yYRlnouG1Nue6Yv3S6ftiShRNma.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "id": 413882,
+    "original_language": "hi",
+    "original_title": "ओके जानू",
+    "overview": "Adi and Tara move to Bombay to pursue their dreams. A chance meeting sparks off a heady, no strings attached romance until their careers pull them apart. Will ambition prevail over matters of the heart?",
+    "popularity": 2.3955,
+    "poster_path": "/bEnoj00JrazyPULFuVGZHTcRhCd.jpg",
+    "release_date": "2017-01-12",
+    "title": "Ok Jaanu",
+    "video": false,
+    "vote_average": 5.9,
+    "vote_count": 59
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/eWZw0EeMV9Zx3NyEsUGePNH1Zhm.jpg",
+    "genre_ids": [
+      36,
+      18
+    ],
+    "id": 965087,
+    "original_language": "hi",
+    "original_title": "फुले",
+    "overview": "A biopic on Jyotiba and Savitribai Phule, considered to be a pioneering couple in India’s societal history. They are often credited for underlining the importance of the girls’ education and self-dependence.",
+    "popularity": 2.8661,
+    "poster_path": "/A3Jv2F0p56E3XxX8CSRHbgMDEDI.jpg",
+    "release_date": "2025-04-25",
+    "title": "Phule",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/tiyqwRBKVyLgKwVNicKjKvjaLXf.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "id": 280795,
+    "original_language": "hi",
+    "original_title": "हैदर",
+    "overview": "A young man returns to Kashmir after his father's disappearance to confront his uncle - the man he suspects to have a role in his father's fate.",
+    "popularity": 2.6217,
+    "poster_path": "/lOCotkHPODWdsRDMoLbSdLdVT3L.jpg",
+    "release_date": "2014-10-02",
+    "title": "Haider",
+    "video": false,
+    "vote_average": 7.202,
+    "vote_count": 230
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/a4H5TFw7p7hCzED5zKuNzjBbi5h.jpg",
+    "genre_ids": [
+      18,
+      10402
+    ],
+    "id": 607141,
+    "original_language": "hi",
+    "original_title": "Be Happy",
+    "overview": "A dance-drama film that follows a single father and his witty, wise-beyond-her-years daughter. When his daughter's dream of performing in the country's biggest dance reality show collides with a life-altering crisis, the father is driven to do the unthinkable, showcasing the extraordinary lengths he will go to fulfill her wishes and find happiness.",
+    "popularity": 1.9193,
+    "poster_path": "/6bvW47MtJKo2ipPYJ2xDvdf4zbz.jpg",
+    "release_date": "2025-03-14",
+    "title": "Be Happy",
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 18
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zGCnIADWwpjGllYv8DgT8HIuIQl.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "id": 26022,
+    "original_language": "hi",
+    "original_title": "My Name Is Khan",
+    "overview": "Rizwan Khan, a Muslim from the Borivali section of Mumbai, has Asperger's syndrome. He marries a Hindu single mother, Mandira, in San Francisco. After 9/11, Rizwan is detained by authorities at LAX who treat him as a terrorist because of his condition and his race.",
+    "popularity": 2.7584,
+    "poster_path": "/5Y36lCiNyyV71mjq6LavgiggbhT.jpg",
+    "release_date": "2010-02-10",
+    "title": "My Name Is Khan",
+    "video": false,
+    "vote_average": 8,
+    "vote_count": 1347
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lgrgEf43kYFm9mh6pj8ArcaxUbd.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "id": 191714,
+    "original_language": "hi",
+    "original_title": "The Lunchbox",
+    "overview": "A mistaken delivery in Mumbai's famously efficient lunchbox delivery system (Mumbai's Dabbawallahs) connects a young housewife to a stranger in the dusk of his life. They build a fantasy world together through notes in the lunchbox. Gradually, this fantasy threatens to overwhelm their reality.",
+    "popularity": 2.6962,
+    "poster_path": "/jSOiz1h97i3qwjZJXY8SeLvjPsl.jpg",
+    "release_date": "2013-09-20",
+    "title": "The Lunchbox",
+    "video": false,
+    "vote_average": 7.33,
+    "vote_count": 729
   }
 ]
