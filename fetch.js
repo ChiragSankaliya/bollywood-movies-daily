@@ -14,8 +14,8 @@ async function fetchAllPages() {
     allMovies.push(...data.results);
   }
 
-  fs.writeFileSync('movies.json', JSON.stringify(allMovies, null, 2));
-  console.log('Saved all movies to movies.json');
+  fs.writeFileSync('bollywood.json', JSON.stringify(allMovies, null, 2));
+  console.log('Saved all movies to bollywood.json');
 }
 
 fetchAllPages().catch(console.error);
