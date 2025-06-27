@@ -1,7 +1,8 @@
 const fetch = require('node-fetch').default;
 const fs = require('fs');
 const cron = require('node-cron');
-
+const dayjs = require('dayjs'); // Add this at the top if not yet used (npm install dayjs)
+const today = dayjs().format('YYYY-MM-DD');
 const API_KEY = 'b8766ef4da51902dc6ba35f939e37956';
 const TOTAL_PAGES = 20;
 
@@ -57,7 +58,7 @@ async function fetchUpcomingBollywoodMovies() {
       `&with_original_language=hi` +
       `&sort_by=release_date.asc` +
       `&include_adult=false` +
-      `&include_video=false` +
+      `&release_date.gte=${today}` + // Only future releases
       `&page=${page}`;
 
     try {
@@ -68,7 +69,8 @@ async function fetchUpcomingBollywoodMovies() {
         const filtered = data.results.filter(movie =>
           movie.poster_path &&
           movie.overview &&
-          new Date(movie.release_date) > new Date() // Only future releases
+          movie.release_date &&
+          new Date(movie.release_date) > new Date()
         );
         allUpcoming.push(...filtered);
       }
