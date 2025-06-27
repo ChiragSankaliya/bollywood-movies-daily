@@ -1,9 +1,9 @@
-const fetch = require('node-fetch');
+const fetch = require('node-fetch').default;
 const fs = require('fs');
-const cron = require('node-cron'); // Add this line for scheduling
+const cron = require('node-cron');
 
 const API_KEY = 'b8766ef4da51902dc6ba35f939e37956';
-const TOTAL_PAGES = 5;
+const TOTAL_PAGES = 20;
 
 const categories = [
   { name: 'bollywood', lang: 'hi', media_type: 'movie' },
@@ -47,11 +47,19 @@ async function fetchCategory(category) {
   console.log(`✅ Saved ${allMovies.length} ${category.name} items to ${category.name}.json`);
 }
 
-async function fetchUpcomingMovies() {
+async function fetchUpcomingBollywoodMovies() {
   const allUpcoming = [];
 
   for (let page = 1; page <= TOTAL_PAGES; page++) {
-    const url = `https://api.themoviedb.org/3/movie/upcoming?api_key=${API_KEY}&language=en-US&page=${page}`;
+    const url = `https://api.themoviedb.org/3/discover/movie?` +
+      `api_key=${API_KEY}` +
+      `&language=en-US` +
+      `&with_original_language=hi` +
+      `&sort_by=release_date.asc` +
+      `&include_adult=false` +
+      `&include_video=false` +
+      `&page=${page}`;
+
     try {
       const res = await fetch(url);
       const data = await res.json();
@@ -60,27 +68,27 @@ async function fetchUpcomingMovies() {
         const filtered = data.results.filter(movie =>
           movie.poster_path &&
           movie.overview &&
-          new Date(movie.release_date) > new Date()
+          new Date(movie.release_date) > new Date() // Only future releases
         );
         allUpcoming.push(...filtered);
       }
     } catch (err) {
-      console.error(`❌ Error fetching upcoming movies page ${page}: ${err.message}`);
+      console.error(`❌ Error fetching upcoming Bollywood movies page ${page}: ${err.message}`);
     }
   }
 
   fs.writeFileSync(`upcoming.json`, JSON.stringify(allUpcoming, null, 2));
-  console.log(`✅ Saved ${allUpcoming.length} movies to upcoming.json`);
+  console.log(`✅ Saved ${allUpcoming.length} upcoming Bollywood movies to upcoming.json`);
 }
 
 async function fetchAll() {
   for (const cat of categories) {
     await fetchCategory(cat);
   }
-  await fetchUpcomingMovies();
+  await fetchUpcomingBollywoodMovies(); // 🔁 Only Bollywood, Hindi-dubbed
 }
 
-// ⏰ Run at 12:00 AM India time daily
+// ⏰ Schedule daily at 12:00 AM IST
 cron.schedule('0 0 * * *', () => {
   console.log("🚀 Running daily update at midnight IST");
   fetchAll().catch(console.error);
@@ -89,5 +97,5 @@ cron.schedule('0 0 * * *', () => {
   timezone: "Asia/Kolkata"
 });
 
-// Run immediately on start
+// Run once on start
 fetchAll().catch(console.error);
