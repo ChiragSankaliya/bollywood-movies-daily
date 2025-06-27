@@ -8,8 +8,8 @@ const TOTAL_PAGES = 20;
 
 const categories = [
   { name: 'bollywood', lang: 'hi', media_type: 'movie' },
-  { name: 'hollywood', lang: 'hi', media_type: 'movie' },
-  { name: 'south', lang: 'hi', media_type: 'movie' },
+  { name: 'hollywood', lang: 'en', media_type: 'movie' },
+  { name: 'south', lang: 'te', media_type: 'movie' },
   { name: 'webseries', lang: 'hi', media_type: 'tv' }
 ];
 
