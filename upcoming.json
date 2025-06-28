@@ -23,17 +23,38 @@
     "adult": false,
     "backdrop_path": null,
     "genre_ids": [
-      27,
-      35
+      36,
+      18,
+      28
     ],
-    "id": 1374067,
+    "id": 1383500,
     "original_language": "hi",
-    "original_title": "स्त्री 3",
-    "overview": "The eighth installment in the Maddock Supernatural Cinematic Universe. Plot TBA.",
-    "popularity": 0.2871,
-    "poster_path": "/mCLrSZl4ROUPlDv8VFFVQzTGQQU.jpg",
-    "release_date": "2027-08-13",
-    "title": "Stree 3",
+    "original_title": "रामायण: Part Two",
+    "overview": "Final part of the epic Ramayana Duology.",
+    "popularity": 0.2825,
+    "poster_path": "/qSb13MDWY96bZRyHdSIwjuxaXTC.jpg",
+    "release_date": "2027-10-29",
+    "title": "Ramayana: Part Two",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/pEyGHf9JduAglrmW0kgmdbZdDiK.jpg",
+    "genre_ids": [
+      28,
+      12,
+      53
+    ],
+    "id": 1109086,
+    "original_language": "hi",
+    "original_title": "वॉर 2",
+    "overview": "Sequel to the 2019 action-thriller film War, 6th Movie of the YRF Spy Universe",
+    "popularity": 2.5393,
+    "poster_path": "/dqgJIni5y23diCA0OD6QCjXER9B.jpg",
+    "release_date": "2025-08-14",
+    "title": "War 2",
     "video": false,
     "vote_average": 0,
     "vote_count": 0
