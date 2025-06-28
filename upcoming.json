@@ -1,6 +1,102 @@
 [
   {
     "adult": false,
+    "backdrop_path": "/in5hdAhBrI4lMnVlK0Bx45rJu5g.jpg",
+    "genre_ids": [
+      36,
+      18,
+      10752
+    ],
+    "id": 656908,
+    "original_language": "hi",
+    "original_title": "रामायण",
+    "overview": "First part of the epic Ramayana Duology.",
+    "popularity": 1.7934,
+    "poster_path": "/qSb13MDWY96bZRyHdSIwjuxaXTC.jpg",
+    "release_date": "2026-11-06",
+    "title": "Ramayana: Part One",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      27,
+      35
+    ],
+    "id": 1374067,
+    "original_language": "hi",
+    "original_title": "स्त्री 3",
+    "overview": "The eighth installment in the Maddock Supernatural Cinematic Universe. Plot TBA.",
+    "popularity": 0.2871,
+    "poster_path": "/mCLrSZl4ROUPlDv8VFFVQzTGQQU.jpg",
+    "release_date": "2027-08-13",
+    "title": "Stree 3",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      18
+    ],
+    "id": 1392469,
+    "original_language": "hi",
+    "original_title": "कॉकटेल 2",
+    "overview": "Sequel of Cocktail",
+    "popularity": 0.3525,
+    "poster_path": "/ksY5WMaC0hgM51x0qpIfXUzgChv.jpg",
+    "release_date": "2026-06-11",
+    "title": "Cocktail 2",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/aTyNn3xv21r3lb3wxzcpTQU84ha.jpg",
+    "genre_ids": [
+      35,
+      28,
+      18
+    ],
+    "id": 1311649,
+    "original_language": "hi",
+    "original_title": "Son of Sardaar 2",
+    "overview": "Jassi is back with another adventure... this time in Scotland.",
+    "popularity": 3.137,
+    "poster_path": "/16ZYIQkjJMaZXpRdF6icVXl9Fcd.jpg",
+    "release_date": "2025-07-25",
+    "title": "Son of Sardaar 2",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      27,
+      35
+    ],
+    "id": 1382950,
+    "original_language": "hi",
+    "original_title": "महा मुंज्या",
+    "overview": "The ninth installment in the Maddock Supernatural Cinematic Universe. Plot TBA.",
+    "popularity": 0.1386,
+    "poster_path": "/mCLrSZl4ROUPlDv8VFFVQzTGQQU.jpg",
+    "release_date": "2027-12-24",
+    "title": "Maha Munjya",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
     "backdrop_path": null,
     "genre_ids": [
       18
@@ -31,24 +127,6 @@
     "poster_path": "/h1eubqf8gG35i8Q3uJRaTnzVI2f.jpg",
     "release_date": "2025-06-28",
     "title": "Tara",
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/hgUelwTw7vdlmNGygFpOrdNq4R1.jpg",
-    "genre_ids": [
-      99
-    ],
-    "id": 1503665,
-    "original_language": "hi",
-    "original_title": "A Good Question",
-    "overview": "In Punjab’s Doaba region, a rooftop sculptor grapples with leaving home as his art and community reflect the hopes and sacrifices of migration.",
-    "popularity": 0.0343,
-    "poster_path": "/nTzeaoXWW2dwy1NvNFxCGB2s5lL.jpg",
-    "release_date": "2025-06-29",
-    "title": "A Good Question",
     "video": false,
     "vote_average": 0,
     "vote_count": 0
