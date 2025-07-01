@@ -1,4 +1,23 @@
 [
+    {
+    "adult": false,
+    "backdrop_path": "/1TdCtQaAqZhKRSOSbPi1EPToJxN.jpg",
+    "genre_ids": [
+      27,
+      35
+    ],
+    "id": 980599,
+    "original_language": "hi",
+    "original_title": "भूल भुलैया 3",
+    "overview": "Rooh Baba ventures into a haunted mansion in the kingdom of Raktaghat in West Bengal, where he confronts two vengeful spirits, both asserting to be Manjulika.",
+    "popularity": 2.3906,
+    "poster_path": "/3AfHD1HoaQpQwKH8kxRdBKVmzeU.jpg",
+    "release_date": "2024-11-01",
+    "title": "Bhool Bhulaiyaa 3",
+    "video": false,
+    "vote_average": 5.542,
+    "vote_count": 23
+  },
   {
     "adult": false,
     "backdrop_path": "/4MNRH73XmwBK2ycv3qvLpa07O5F.jpg",
@@ -2317,25 +2336,7 @@
     "vote_average": 6.881,
     "vote_count": 277
   },
-  {
-    "adult": false,
-    "backdrop_path": "/1TdCtQaAqZhKRSOSbPi1EPToJxN.jpg",
-    "genre_ids": [
-      27,
-      35
-    ],
-    "id": 980599,
-    "original_language": "hi",
-    "original_title": "भूल भुलैया 3",
-    "overview": "Rooh Baba ventures into a haunted mansion in the kingdom of Raktaghat in West Bengal, where he confronts two vengeful spirits, both asserting to be Manjulika.",
-    "popularity": 2.3906,
-    "poster_path": "/3AfHD1HoaQpQwKH8kxRdBKVmzeU.jpg",
-    "release_date": "2024-11-01",
-    "title": "Bhool Bhulaiyaa 3",
-    "video": false,
-    "vote_average": 5.542,
-    "vote_count": 23
-  },
+  
   {
     "adult": false,
     "backdrop_path": "/8v8Uc4PfiZk6g87qdq2L87sCDvE.jpg",
