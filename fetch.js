@@ -17,13 +17,18 @@ async function fetchCategory(category) {
   const allMovies = [];
 
   for (let page = 1; page <= TOTAL_PAGES; page++) {
-    const url = `https://api.themoviedb.org/3/discover/${category.media_type}?` +
+    let url = `https://api.themoviedb.org/3/discover/${category.media_type}?` +
       `api_key=${API_KEY}` +
       `&language=en-US` +
       `&with_original_language=${category.lang}` +
       `&sort_by=popularity.desc` +
       `&include_adult=false` +
       `&page=${page}`;
+
+    // 🎯 Apply watch provider filter only for webseries
+    if (category.name === 'webseries') {
+      url += `&with_watch_providers=8,9,337&watch_region=IN`;
+    }
 
     try {
       const res = await fetch(url);
