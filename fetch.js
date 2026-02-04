@@ -10,7 +10,7 @@ const TODAY = new Date().toISOString().split('T')[0];
 // ✅ Categories
 const categories = [
   { name: 'bollywood', lang: 'hi', media_type: 'movie' },
-  { name: 'hollywood', media_type: 'movie', region: 'US' },
+  { name: 'hollywood', media_type: 'movie', country: 'US' },
   { name: 'south', lang: 'te', media_type: 'movie' },
   { name: 'webseries', media_type: 'tv', provider: '8', langs: ['hi', 'en'] }
 ];
@@ -53,13 +53,14 @@ async function fetchCategory(category) {
         .map(l => `&with_original_language=${l}`)
         .join('');
       url += `&with_watch_providers=${category.provider}&watch_region=IN${langQuery}`;
-    } else {
+   } else {
   if (category.name === 'hollywood') {
-    url += `&region=${category.region}`;
+    url += `&with_origin_country=${category.country}`;
   } else {
     url += `&with_original_language=${category.lang}`;
   }
 }
+
 
 
     try {
