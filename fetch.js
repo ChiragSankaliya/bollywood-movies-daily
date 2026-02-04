@@ -10,7 +10,7 @@ const TODAY = new Date().toISOString().split('T')[0];
 // ✅ Categories
 const categories = [
   { name: 'bollywood', lang: 'hi', media_type: 'movie' },
- { name: 'hollywood', media_type: 'movie', lang: 'en' },
+  { name: 'hollywood', lang: 'en', media_type: 'movie' },
   { name: 'south', lang: 'te', media_type: 'movie' },
   { name: 'webseries', media_type: 'tv', provider: '8', langs: ['hi', 'en'] }
 ];
@@ -37,12 +37,9 @@ function parseFormattedDate(dateStr) {
 // ===============================
 function removeDuplicates(items) {
   const map = new Map();
-
   items.forEach(item => {
-    const key = `${item.id}_${item.media_type || 'movie'}`;
-    map.set(key, item); // overwrite duplicates
+    map.set(item.id, item);
   });
-
   return Array.from(map.values());
 }
 
@@ -67,12 +64,9 @@ async function fetchCategory(category) {
         .map(l => `&with_original_language=${l}`)
         .join('');
       url += `&with_watch_providers=${category.provider}&watch_region=IN${langQuery}`;
-    } else if (category.name === 'hollywood') {
-  url += `&with_original_language=en`;
-} else {
-  url += `&with_original_language=${category.lang}`;
-}
-
+    } else {
+      url += `&with_original_language=${category.lang}`;
+    }
 
     try {
       const res = await fetch(url);
@@ -82,6 +76,13 @@ async function fetchCategory(category) {
         const filtered = data.results
           .filter(item => {
             const release = item.release_date || item.first_air_date;
+
+            // ✅ Hollywood: NO release-date restriction
+            if (category.name === 'hollywood') {
+              return item.poster_path && item.overview;
+            }
+
+            // ✅ Other categories: keep original filter
             return (
               release &&
               release <= TODAY &&
@@ -104,10 +105,10 @@ async function fetchCategory(category) {
     }
   }
 
-  // 🔥 REMOVE DUPLICATES HERE
+  // 🔥 Remove duplicates
   allItems = removeDuplicates(allItems);
 
-  // 🔥 SORT latest first
+  // 🔥 Sort latest first
   allItems.sort(
     (a, b) =>
       parseFormattedDate(b.release_date) -
@@ -120,7 +121,7 @@ async function fetchCategory(category) {
   );
 
   console.log(
-    `✅ Saved ${allItems.length} ${category.name} items (duplicate-free)`
+    `✅ Saved ${allItems.length} ${category.name} items`
   );
 }
 
@@ -165,7 +166,6 @@ async function fetchUpcomingBollywoodMovies() {
     }
   }
 
-  // 🔥 REMOVE DUPLICATES
   upcoming = removeDuplicates(upcoming);
 
   fs.writeFileSync(
