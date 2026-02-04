@@ -4,36 +4,54 @@ const fs = require('fs');
 const API_KEY = 'b8766ef4da51902dc6ba35f939e37956';
 const TOTAL_PAGES = 20;
 
-// ✅ Categories including Netflix web series (hi/en only)
+// 📅 Today date (YYYY-MM-DD)
+const TODAY = new Date().toISOString().split('T')[0];
+
+// ✅ Categories
 const categories = [
   { name: 'bollywood', lang: 'hi', media_type: 'movie' },
   { name: 'hollywood', lang: 'en', media_type: 'movie' },
   { name: 'south', lang: 'te', media_type: 'movie' },
-  { name: 'webseries', media_type: 'tv', provider: '8', langs: ['hi', 'en'] } // Netflix India
+  { name: 'webseries', media_type: 'tv', provider: '8', langs: ['hi', 'en'] }
 ];
 
-// ✅ Format date as DD/MM/YYYY
+// ===============================
+// Format date as DD/MM/YYYY
+// ===============================
 function formatDate(dateStr) {
   if (!dateStr) return '';
   const [y, m, d] = dateStr.split('-');
   return `${d}/${m}/${y}`;
 }
 
-// ✅ Fetch by category
+// ===============================
+// Convert DD/MM/YYYY → Date object
+// ===============================
+function parseFormattedDate(dateStr) {
+  const [d, m, y] = dateStr.split('/');
+  return new Date(`${y}-${m}-${d}`);
+}
+
+// ===============================
+// Fetch movies by category
+// ===============================
 async function fetchCategory(category) {
-  const allItems = [];
+  let allItems = [];
 
   for (let page = 1; page <= TOTAL_PAGES; page++) {
-    let url = `https://api.themoviedb.org/3/discover/${category.media_type}?` +
+    let url =
+      `https://api.themoviedb.org/3/discover/${category.media_type}?` +
       `api_key=${API_KEY}` +
       `&language=en-US` +
-      `&sort_by=popularity.desc` +
+      `&sort_by=release_date.desc` +
       `&include_adult=false` +
       `&page=${page}`;
 
-    // 👉 Extra filters for webseries
+    // 🎯 Webseries filters
     if (category.name === 'webseries') {
-      const langQuery = category.langs.map(l => `&with_original_language=${l}`).join('');
+      const langQuery = category.langs
+        .map(l => `&with_original_language=${l}`)
+        .join('');
       url += `&with_watch_providers=${category.provider}&watch_region=IN${langQuery}`;
     } else {
       url += `&with_original_language=${category.lang}`;
@@ -44,40 +62,66 @@ async function fetchCategory(category) {
       const data = await res.json();
 
       if (Array.isArray(data.results)) {
-        const filtered = data.results.filter(item =>
-          item.poster_path &&
-          item.poster_path.trim() !== '' &&
-          item.overview &&
-          item.overview.trim() !== ''
-        ).map(item => ({
-          ...item,
-          release_date: formatDate(item.release_date || item.first_air_date || '') // 🎯 format for all categories
-        }));
+        const filtered = data.results
+          // ✅ Only released movies (<= today)
+          .filter(item => {
+            const release =
+              item.release_date || item.first_air_date;
+            return (
+              release &&
+              release <= TODAY &&
+              item.poster_path &&
+              item.overview
+            );
+          })
+          .map(item => ({
+            ...item,
+            release_date: formatDate(
+              item.release_date || item.first_air_date
+            )
+          }));
 
         allItems.push(...filtered);
       }
     } catch (err) {
-      console.error(`❌ Error fetching page ${page} for ${category.name}: ${err.message}`);
+      console.error(`❌ ${category.name} page ${page}: ${err.message}`);
     }
   }
 
-  fs.writeFileSync(`${category.name}.json`, JSON.stringify(allItems, null, 2));
-  console.log(`✅ Saved ${allItems.length} ${category.name} items to ${category.name}.json`);
+  // ===============================
+  // 🔥 SORT: Latest date first
+  // ===============================
+  allItems.sort(
+    (a, b) =>
+      parseFormattedDate(b.release_date) -
+      parseFormattedDate(a.release_date)
+  );
+
+  fs.writeFileSync(
+    `${category.name}.json`,
+    JSON.stringify(allItems, null, 2)
+  );
+
+  console.log(
+    `✅ Saved ${allItems.length} ${category.name} items (latest first)`
+  );
 }
 
-// ✅ Fetch upcoming Bollywood movies
+// ===============================
+// Fetch upcoming Bollywood (unchanged logic, clean)
+ // ===============================
 async function fetchUpcomingBollywoodMovies() {
-  const allUpcoming = [];
-  const today = new Date().toISOString().split('T')[0]; // YYYY-MM-DD
+  let upcoming = [];
 
   for (let page = 1; page <= TOTAL_PAGES; page++) {
-    const url = `https://api.themoviedb.org/3/discover/movie?` +
+    const url =
+      `https://api.themoviedb.org/3/discover/movie?` +
       `api_key=${API_KEY}` +
       `&language=en-US` +
       `&with_original_language=hi` +
       `&sort_by=release_date.asc` +
       `&include_adult=false` +
-      `&release_date.gte=${today}` +
+      `&release_date.gte=${TODAY}` +
       `&page=${page}`;
 
     try {
@@ -85,28 +129,37 @@ async function fetchUpcomingBollywoodMovies() {
       const data = await res.json();
 
       if (Array.isArray(data.results)) {
-        const filtered = data.results.filter(movie =>
-          movie.poster_path &&
-          movie.overview &&
-          movie.release_date &&
-          new Date(movie.release_date) > new Date()
-        ).map(movie => ({
-          ...movie,
-          release_date: formatDate(movie.release_date)
-        }));
+        const filtered = data.results
+          .filter(movie =>
+            movie.poster_path &&
+            movie.overview &&
+            movie.release_date
+          )
+          .map(movie => ({
+            ...movie,
+            release_date: formatDate(movie.release_date)
+          }));
 
-        allUpcoming.push(...filtered);
+        upcoming.push(...filtered);
       }
     } catch (err) {
-      console.error(`❌ Error fetching upcoming Bollywood movies page ${page}: ${err.message}`);
+      console.error(`❌ Upcoming page ${page}: ${err.message}`);
     }
   }
 
-  fs.writeFileSync(`upcoming.json`, JSON.stringify(allUpcoming, null, 2));
-  console.log(`✅ Saved ${allUpcoming.length} upcoming Bollywood movies to upcoming.json`);
+  fs.writeFileSync(
+    `upcoming.json`,
+    JSON.stringify(upcoming, null, 2)
+  );
+
+  console.log(
+    `✅ Saved ${upcoming.length} upcoming Bollywood movies`
+  );
 }
 
-// ✅ Run all fetches
+// ===============================
+// RUN ALL
+// ===============================
 async function fetchAll() {
   for (const cat of categories) {
     await fetchCategory(cat);
@@ -114,5 +167,4 @@ async function fetchAll() {
   await fetchUpcomingBollywoodMovies();
 }
 
-// ▶️ Manual Run
 fetchAll().catch(console.error);
