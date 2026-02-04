@@ -229,6 +229,26 @@
     "adult": false,
     "backdrop_path": null,
     "genre_ids": [
+      27,
+      9648
+    ],
+    "id": 1536556,
+    "original_language": "en",
+    "original_title": "Grave Echos",
+    "overview": "A Direct Sequel to Grave Mistakes...",
+    "popularity": 0.0479,
+    "poster_path": "/bCfw1weZpSKC3fDzbUvo5Cev0Qo.jpg",
+    "release_date": "17/08/2028",
+    "title": "Grave Echos",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "media_type": "movie"
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
       18
     ],
     "id": 1553031,
@@ -878,6 +898,45 @@
     "poster_path": "/6EAFFAPtA78RZH2Oh9WR0qVNh0c.jpg",
     "release_date": "06/08/2027",
     "title": "A Cold Cut or the Unbearable Echoes of Yearning",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "media_type": "movie"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ozgB1gzShfpPdjAtOEvCurbvEN6.jpg",
+    "genre_ids": [
+      10751,
+      16
+    ],
+    "id": 1403836,
+    "original_language": "en",
+    "original_title": "Bluey: The Movie",
+    "overview": "Based on the TV series of the same name. Plot TBA.",
+    "popularity": 0.8506,
+    "poster_path": "/wUiL0OTK3EPRyQfdQkEU4Ma87V2.jpg",
+    "release_date": "05/08/2027",
+    "title": "Bluey: The Movie",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "media_type": "movie"
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      18
+    ],
+    "id": 1627862,
+    "original_language": "en",
+    "original_title": "Death By A Thousand Cuts",
+    "overview": "In a city that never stops moving, one man tries to keep up with everything.  Set against the backdrop of relentless noise and invisible pressure, Death by a Thousand Cuts is a quiet reckoning with the weight we carry, the masks we wear, and the cracks that begin to show when no one’s looking.  A visceral exploration of burnout, silence, and survival, where nothing explodes, but everything hurts.",
+    "popularity": 0.1579,
+    "poster_path": "/eDVh66noe1BqdpNPQ04e9GQCYLk.jpg",
+    "release_date": "30/07/2027",
+    "title": "Death By A Thousand Cuts",
     "video": false,
     "vote_average": 0,
     "vote_count": 0,
@@ -2600,6 +2659,25 @@
     "adult": false,
     "backdrop_path": null,
     "genre_ids": [
+      14
+    ],
+    "id": 797716,
+    "original_language": "en",
+    "original_title": "The Magnificent Raiders of Dimension War One",
+    "overview": "A collection of rogues must gather information on a mysterious extra-dimensional threat to the galaxy in the 43rd century, and prepare a defense while fending off the first wave of attacks from horrific beings.",
+    "popularity": 0.8364,
+    "poster_path": "/grvdsNcfpWzpPO3qREUEDX12c3.jpg",
+    "release_date": "06/12/2026",
+    "title": "The Magnificent Raiders of Dimension War One",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "media_type": "movie"
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
       27,
       878,
       14
@@ -2627,12 +2705,12 @@
     ],
     "id": 1480310,
     "original_language": "en",
-    "original_title": "On The Edge",
-    "overview": "On the Edge follows Donnie, a cynical but lovable Cuban solenodon, who takes on an outrageous mission: to avoid extinction by rebranding himself as a panda — one of the world’s most beloved endangered species. Alongside an eccentric band of equally overlooked animals, Donnie’s wild journey evolves into a heist-fueled, action-packed tale of identity, belonging and survival.",
+    "original_title": "On the Edge",
+    "overview": "Donnie, a cynical but lovable Cuban solenodon, takes on an outrageous mission: to avoid extinction by rebranding himself as a panda — one of the world’s most beloved endangered species. Alongside an eccentric band of equally overlooked animals, Donnie’s wild journey evolves into a heist-fueled, action-packed tale of identity, belonging and survival.",
     "popularity": 0.1249,
     "poster_path": "/oPkrsaQpjsYYxpIbv5viBu6ulcZ.jpg",
     "release_date": "03/12/2026",
-    "title": "On The Edge",
+    "title": "On the Edge",
     "video": false,
     "vote_average": 0,
     "vote_count": 0,
@@ -3378,48 +3456,6 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/pJJQLHK1aOBdf7UcW6e7VBouc8p.jpg",
-    "genre_ids": [
-      16,
-      10751,
-      14,
-      12
-    ],
-    "id": 791523,
-    "original_language": "en",
-    "original_title": "Wildwood",
-    "overview": "A girl’s desperate quest to save her baby brother unfolds into a spectacular, high-stakes adventure through a forbidden forest full of enchanted creatures, endearing allies, and formidable adversaries—where an entire hidden realm hangs in the balance.",
-    "popularity": 5.3028,
-    "poster_path": "/7F7lXZMObt1oBiYcCGZITaZEayN.jpg",
-    "release_date": "23/10/2026",
-    "title": "Wildwood",
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
-    "backdrop_path": null,
-    "genre_ids": [
-      10749,
-      53
-    ],
-    "id": 1425859,
-    "original_language": "en",
-    "original_title": "Remain",
-    "overview": "Architect Tate Donovan arrives in Cape Cod to design a client’s summer home. Struggling with the loss of his family, he moves into a historic home where he meets Wren, a mysterious young woman who challenges Tate’s perception of the world.",
-    "popularity": 5.561,
-    "poster_path": "/8VGesaF84kaRyAPQdBGUIgORdzf.jpg",
-    "release_date": "22/10/2026",
-    "title": "Remain",
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
     "backdrop_path": "/xWsMCzL9iv8Bm8aRvoFIHe2vnRy.jpg",
     "genre_ids": [
       16,
@@ -3644,7 +3680,7 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/9te2BRQjaNeXxvQKD0c3v63UJ8Q.jpg",
+    "backdrop_path": "/dSkwgsqQMV1aHbeGDmXXg0cybsP.jpg",
     "genre_ids": [
       28,
       12,
@@ -3660,6 +3696,46 @@
     "poster_path": "/bL0kpH1mL82VpZkpkAVn7X1age7.jpg",
     "release_date": "09/10/2026",
     "title": "The Legend of Aang: The Last Airbender",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "media_type": "movie"
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      18
+    ],
+    "id": 1281331,
+    "original_language": "en",
+    "original_title": "The Social Reckoning",
+    "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
+    "popularity": 3.9183,
+    "poster_path": "/99jEXpxTwjOHre03wCJVug9ju6H.jpg",
+    "release_date": "07/10/2026",
+    "title": "The Social Reckoning",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "media_type": "movie"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/qdxEYudYpCTFUSURfCGBQRSQQxZ.jpg",
+    "genre_ids": [
+      14,
+      12,
+      27
+    ],
+    "id": 1590154,
+    "original_language": "en",
+    "original_title": "The Fall of Barsisa",
+    "overview": "A modern re-imagining of the fable of the same name. Three brothers leave their ailing sister in the company of a devout and honourable figure as they are guided by an ambiguous stranger through treacherous terrain in search of a remedy.",
+    "popularity": 0.0286,
+    "poster_path": "/wbzM20VDeJCxg7N1jqlrWTquW4C.jpg",
+    "release_date": "02/10/2026",
+    "title": "The Fall of Barsisa",
     "video": false,
     "vote_average": 0,
     "vote_count": 0,
@@ -3849,12 +3925,12 @@
     ],
     "id": 1486012,
     "original_language": "en",
-    "original_title": "Too Less Time",
+    "original_title": "No More Time",
     "overview": "A sequel to the short film “Too Much Time”. Plot TBA.",
     "popularity": 0.0409,
-    "poster_path": "/i4xWLz1NTN85Y7aBT1xO8kv7kOp.jpg",
+    "poster_path": "/irRsu6ywhCozyS4gxbJJCVlgQLO.jpg",
     "release_date": "26/09/2026",
-    "title": "Too Less Time",
+    "title": "No More Time",
     "video": false,
     "vote_average": 0,
     "vote_count": 0,
@@ -4437,49 +4513,6 @@
     "poster_path": "/92cL0rfm6eK6cUU8UciorsX0Fpg.jpg",
     "release_date": "26/08/2026",
     "title": "Cliffhanger",
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/yGjIKgBcucLPbLh0DzU7KN2WCSk.jpg",
-    "genre_ids": [
-      18,
-      14,
-      9648
-    ],
-    "id": 1620243,
-    "original_language": "en",
-    "original_title": "My Armor",
-    "overview": "A story of April, whose inability to express her grief to her mother leads to a poignant journey of self discovery.",
-    "popularity": 0.0909,
-    "poster_path": "/xvMo8bYV6qHFQNEA0ZKLCVJn8JU.jpg",
-    "release_date": "21/08/2026",
-    "title": "My Armor",
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/d8sy3brkiMrEJZmVei5hJMdVZ2B.jpg",
-    "genre_ids": [
-      35,
-      14,
-      27,
-      18
-    ],
-    "id": 1533249,
-    "original_language": "en",
-    "original_title": "Soul Trader",
-    "overview": "A despondent soul arrives in a strange place where he must confront his (mostly) inner demons.",
-    "popularity": 0.2473,
-    "poster_path": "/cgVnzS0R9YGmCD03GnXrRKacS8n.jpg",
-    "release_date": "21/08/2026",
-    "title": "Soul Trader",
     "video": false,
     "vote_average": 0,
     "vote_count": 0,
@@ -5136,6 +5169,68 @@
   },
   {
     "adult": false,
+    "backdrop_path": "/7qGqpTVWcXo0rjYeAa5gifiZUsT.jpg",
+    "genre_ids": [
+      10402
+    ],
+    "id": 1623373,
+    "original_language": "en",
+    "original_title": "Examstress",
+    "overview": "The second short film by the director of 'Turned Out Nice Again'.",
+    "popularity": 0.0143,
+    "poster_path": "/9U9BIyID70F6Bek5r5W0LndLhFR.jpg",
+    "release_date": "07/07/2026",
+    "title": "Examstress",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "media_type": "movie"
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      878,
+      53,
+      18
+    ],
+    "id": 1549191,
+    "original_language": "en",
+    "original_title": "Do Stars Know Fear?",
+    "overview": "Trapped operative confronts cunning foil amid tense, futuristic space hemisphere.",
+    "popularity": 0.0214,
+    "poster_path": "/eRx2qon6zNQDYaGwctR4GiTyJ8x.jpg",
+    "release_date": "07/07/2026",
+    "title": "Do Stars Know Fear?",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "media_type": "movie"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/h4joiL2rB1mgY7NA3OKHB2u4ARt.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      27,
+      878
+    ],
+    "id": 1537673,
+    "original_language": "en",
+    "original_title": "Eve",
+    "overview": "While visiting her father's apartment, a woman discovers that the man who raised her might be something less than human.",
+    "popularity": 0.1211,
+    "poster_path": "/c11oAIi8qReZIgBN7gIbK5KvXTb.jpg",
+    "release_date": "04/07/2026",
+    "title": "Eve",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "media_type": "movie"
+  },
+  {
+    "adult": false,
     "backdrop_path": "/b6tKyfsspIfB7TwCBxTEpt3nqLO.jpg",
     "genre_ids": [
       36,
@@ -5333,123 +5428,6 @@
     "poster_path": "/6szlKCAZRk20PrB6sVFxs6F0iaa.jpg",
     "release_date": "26/06/2026",
     "title": "Citric Acid",
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
-    "backdrop_path": null,
-    "genre_ids": [
-      28,
-      53
-    ],
-    "id": 1298236,
-    "original_language": "en",
-    "original_title": "Valkryie",
-    "overview": "The upcoming movie from Frameatic Studios.",
-    "popularity": 0.0286,
-    "poster_path": "/3yL3eBko6BvtgApwJsRLowsHA9S.jpg",
-    "release_date": "26/06/2026",
-    "title": "Valkryie",
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/erDoDbYYqeAamcF0g7wZjUIOqZi.jpg",
-    "genre_ids": [
-      18,
-      10749,
-      35
-    ],
-    "id": 1598667,
-    "original_language": "en",
-    "original_title": "National Theatre Live: Les Liaisons Dangereuses",
-    "overview": "BAFTA Award-winner Lesley Manville (Phantom Thread) joins Aidan Turner (Rivals) in a striking new staging of Christopher Hampton’s celebrated adaptation of the classic novel, where among the glittering salons of the super-rich, one misstep can mean ruin.  Marquise de Merteuil is a master in the art of survival. Alongside the magnetic Vicomte de Valmont, they turn seduction into strategy and weaponise desire. But when their alliance collapses into rivalry, the battle between them threatens to destroy everyone in their path.  Filmed live on stage at the National Theatre, Marianne Elliott (Angels in America) directs this thrilling game of love, lies, and social warfare.",
-    "popularity": 0.1197,
-    "poster_path": "/6pTekPCjhNu9W3obHJGV4d9f0MM.jpg",
-    "release_date": "25/06/2026",
-    "title": "National Theatre Live: Les Liaisons Dangereuses",
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/rM3SOvwZcVErOl0lMdXwvyR0JKU.jpg",
-    "genre_ids": [
-      18
-    ],
-    "id": 1520499,
-    "original_language": "en",
-    "original_title": "The Collected Pieces of Eleanor Ross",
-    "overview": "Unsatisfied with her prospects following graduation, struggling artist Eleanor \"Nell\" Ross reflects on her life with her boyfriend over a game of dominoes.",
-    "popularity": 0.0416,
-    "poster_path": "/1wDijGfiHcQIbRJ9FKANT9yufUZ.jpg",
-    "release_date": "24/06/2026",
-    "title": "The Collected Pieces of Eleanor Ross",
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/28PGUwfIkAByymJOb6KkJt5SgYw.jpg",
-    "genre_ids": [
-      28,
-      12,
-      878
-    ],
-    "id": 1081003,
-    "original_language": "en",
-    "original_title": "Supergirl",
-    "overview": "While celebrating her 21st birthday, Kara Zor-El travels across the galaxy with her dog Krypto, during which she meets the young Ruthye Marye Knoll and goes on a \"murderous quest for revenge\".",
-    "popularity": 5.3224,
-    "poster_path": "/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
-    "release_date": "24/06/2026",
-    "title": "Supergirl",
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
-    "backdrop_path": null,
-    "genre_ids": [
-      18
-    ],
-    "id": 1623924,
-    "original_language": "en",
-    "original_title": "THE CAGE WITHIN",
-    "overview": "A true fight isn’t fought in the ring, but inside the mind.  The Cage Within follows Jake, a young fighter struggling with anger, trauma and the weight of expectations, as he tries to break the cycle of violence that shaped him. Between training, silence and fractured relationships, the film observes a man who chooses not to become what hurt him — even when that choice hurts more.  An intimate, restrained drama about masculinity, control and the quiet cost of change.",
-    "popularity": 0.0143,
-    "poster_path": "/kcyb7oY7ibRWIK1DJPxKTT5ejnv.jpg",
-    "release_date": "22/06/2026",
-    "title": "THE CAGE WITHIN",
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/h4UtXeYGHyMjQB930nRN8nteHTF.jpg",
-    "genre_ids": [],
-    "id": 1424261,
-    "original_language": "en",
-    "original_title": "UK Holiday",
-    "overview": "A UK Holiday is not just a journey; it’s an adventure filled with love, laughter, and unforgettable memories. The story revolves around Aakash, a kind-hearted and adventurous young man, who invites his sister Rekha from the USA to visit the UK for a long-awaited family reunion. Rekha, excited to escape her routine, is thrilled to meet their mother, Subhadra, and sisters Priyanka and Deepika, who already reside in the UK. Aakash ensures this holiday becomes a truly special experience. Together, they explore London’s iconic landmarks like the London Eye and Tower Bridge. The journey takes them to the natural wonder of Durdle Door in Dorset and the charming town of Aldershot. Along the way, they share stories, laughter, and moments of deep connection. This feature film captures the essence of holidays—taking a break, reconnecting with loved ones, and creating memories that last a lifetime. UK Holiday is a celebration of family, adventure, and the joy of togetherness.",
-    "popularity": 0.0766,
-    "poster_path": "/4y6dhG9XPTMeO8IcaMjROJp5gGU.jpg",
-    "release_date": "20/06/2026",
-    "title": "UK Holiday",
     "video": false,
     "vote_average": 0,
     "vote_count": 0,
