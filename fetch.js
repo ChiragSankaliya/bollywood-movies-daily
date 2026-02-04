@@ -12,6 +12,7 @@ const categories = [
   { name: 'bollywood', lang: 'hi', media_type: 'movie' },
   { name: 'hollywood', lang: 'en', media_type: 'movie' },
   { name: 'south', lang: 'te', media_type: 'movie' },
+  { name: 'gujarati', lang: 'gu', media_type: 'movie' },
   { name: 'webseries', media_type: 'tv', provider: '8', langs: ['hi', 'en'] }
 ];
 
