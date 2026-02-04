@@ -33,6 +33,20 @@ function parseFormattedDate(dateStr) {
 }
 
 // ===============================
+// 🔥 REMOVE DUPLICATES
+// ===============================
+function removeDuplicates(items) {
+  const map = new Map();
+
+  items.forEach(item => {
+    const key = `${item.id}_${item.media_type || 'movie'}`;
+    map.set(key, item); // overwrite duplicates
+  });
+
+  return Array.from(map.values());
+}
+
+// ===============================
 // Fetch movies by category
 // ===============================
 async function fetchCategory(category) {
@@ -47,21 +61,17 @@ async function fetchCategory(category) {
       `&include_adult=false` +
       `&page=${page}`;
 
-    // 🎯 Webseries filters
+    // 🎯 Filters
     if (category.name === 'webseries') {
       const langQuery = category.langs
         .map(l => `&with_original_language=${l}`)
         .join('');
       url += `&with_watch_providers=${category.provider}&watch_region=IN${langQuery}`;
-   } else {
-  if (category.name === 'hollywood') {
-    url += `&with_origin_country=${category.country}`;
-  } else {
-    url += `&with_original_language=${category.lang}`;
-  }
-}
-
-
+    } else if (category.name === 'hollywood') {
+      url += `&with_origin_country=${category.country}`;
+    } else {
+      url += `&with_original_language=${category.lang}`;
+    }
 
     try {
       const res = await fetch(url);
@@ -69,10 +79,8 @@ async function fetchCategory(category) {
 
       if (Array.isArray(data.results)) {
         const filtered = data.results
-          // ✅ Only released movies (<= today)
           .filter(item => {
-            const release =
-              item.release_date || item.first_air_date;
+            const release = item.release_date || item.first_air_date;
             return (
               release &&
               release <= TODAY &&
@@ -82,6 +90,7 @@ async function fetchCategory(category) {
           })
           .map(item => ({
             ...item,
+            media_type: category.media_type,
             release_date: formatDate(
               item.release_date || item.first_air_date
             )
@@ -94,9 +103,10 @@ async function fetchCategory(category) {
     }
   }
 
-  // ===============================
-  // 🔥 SORT: Latest date first
-  // ===============================
+  // 🔥 REMOVE DUPLICATES HERE
+  allItems = removeDuplicates(allItems);
+
+  // 🔥 SORT latest first
   allItems.sort(
     (a, b) =>
       parseFormattedDate(b.release_date) -
@@ -109,13 +119,13 @@ async function fetchCategory(category) {
   );
 
   console.log(
-    `✅ Saved ${allItems.length} ${category.name} items (latest first)`
+    `✅ Saved ${allItems.length} ${category.name} items (duplicate-free)`
   );
 }
 
 // ===============================
-// Fetch upcoming Bollywood (unchanged logic, clean)
- // ===============================
+// Fetch upcoming Bollywood
+// ===============================
 async function fetchUpcomingBollywoodMovies() {
   let upcoming = [];
 
@@ -143,6 +153,7 @@ async function fetchUpcomingBollywoodMovies() {
           )
           .map(movie => ({
             ...movie,
+            media_type: 'movie',
             release_date: formatDate(movie.release_date)
           }));
 
@@ -152,6 +163,9 @@ async function fetchUpcomingBollywoodMovies() {
       console.error(`❌ Upcoming page ${page}: ${err.message}`);
     }
   }
+
+  // 🔥 REMOVE DUPLICATES
+  upcoming = removeDuplicates(upcoming);
 
   fs.writeFileSync(
     `upcoming.json`,
