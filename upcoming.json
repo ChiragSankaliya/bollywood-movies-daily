@@ -16,7 +16,8 @@
     "title": "Yeh Dil Aashiqanaa",
     "video": false,
     "vote_average": 5.8,
-    "vote_count": 4
+    "vote_count": 4,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -35,7 +36,8 @@
     "title": "Kennedy",
     "video": false,
     "vote_average": 7.4,
-    "vote_count": 5
+    "vote_count": 5,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -55,7 +57,8 @@
     "title": "Animal",
     "video": false,
     "vote_average": 6.113,
-    "vote_count": 172
+    "vote_count": 172,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -75,7 +78,8 @@
     "title": "Bokshi",
     "video": false,
     "vote_average": 6,
-    "vote_count": 1
+    "vote_count": 1,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -95,7 +99,8 @@
     "title": "Jaat",
     "video": false,
     "vote_average": 6.2,
-    "vote_count": 30
+    "vote_count": 30,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -113,7 +118,8 @@
     "title": "Homebound",
     "video": false,
     "vote_average": 7.742,
-    "vote_count": 31
+    "vote_count": 31,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -131,7 +137,8 @@
     "title": "ROOM 110",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -151,7 +158,8 @@
     "title": "Vadh 2",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -170,7 +178,8 @@
     "title": "Bhabiji Ghar Par Hain!",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -189,7 +198,8 @@
     "title": "Oh Laila Tere Peeche Padd Gaye Apni Jaan Nisaar Kar Gaye",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -209,7 +219,8 @@
     "title": "Tu Yaa Main",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -229,7 +240,8 @@
     "title": "O'Romeo",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -247,7 +259,8 @@
     "title": "Haye Hukku Haye Hukku Haaye Haaye Haaye",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -267,7 +280,8 @@
     "title": "Assi",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -286,7 +300,8 @@
     "title": "Do Deewane Seher Mein",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -305,7 +320,8 @@
     "title": "Jim Jam Jelly",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -323,7 +339,8 @@
     "title": "Pati Patni aur Woh Do",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -343,7 +360,8 @@
     "title": "Jab We Met-Re Release",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -361,7 +379,8 @@
     "title": "Gabru",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -380,7 +399,8 @@
     "title": "Dhurandhar: The Revenge",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -398,7 +418,8 @@
     "title": "Rosie: The Saffron Chapter",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -416,7 +437,8 @@
     "title": "Hum Mein Shahenshah Koun",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -437,7 +459,8 @@
     "title": "Chiranjeevi Hanuman: The Eternal",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -456,7 +479,8 @@
     "title": "Battle Of Galwan",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -475,7 +499,8 @@
     "title": "Alpha",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -495,7 +520,8 @@
     "title": "Tu Meri Zindagi Hai",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -514,7 +540,8 @@
     "title": "Love and War",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -534,7 +561,8 @@
     "title": "Drishyam 3",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -554,7 +582,8 @@
     "title": "Ramayana",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -573,7 +602,8 @@
     "title": "King",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -591,7 +621,8 @@
     "title": "The Audition",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -610,7 +641,8 @@
     "title": "Mouthwashing : The Film",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -629,7 +661,8 @@
     "title": "BAHUBURA",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -648,7 +681,8 @@
     "title": "Stree 3",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -668,7 +702,8 @@
     "title": "Bhediya 2:  The Beginning of End",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -687,7 +722,8 @@
     "title": "Chamunda",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -705,7 +741,8 @@
     "title": "Mahavatar",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -724,7 +761,8 @@
     "title": "Maha Munjya",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -744,7 +782,8 @@
     "title": "Pehla Mahayudh",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -764,6 +803,7 @@
     "title": "Doosara Mahayudh",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   }
 ]

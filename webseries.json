@@ -18,6 +18,7 @@
     "name": "Glitter & Gold: Ice Dancing",
     "vote_average": 10,
     "vote_count": 2,
+    "media_type": "tv",
     "release_date": "01/02/2026"
   },
   {
@@ -39,6 +40,7 @@
     "name": "Finding Her Edge",
     "vote_average": 7.5,
     "vote_count": 33,
+    "media_type": "tv",
     "release_date": "22/01/2026"
   },
   {
@@ -60,6 +62,7 @@
     "name": "Free Bert",
     "vote_average": 8,
     "vote_count": 11,
+    "media_type": "tv",
     "release_date": "22/01/2026"
   },
   {
@@ -82,6 +85,7 @@
     "name": "Agatha Christie's Seven Dials",
     "vote_average": 6.282,
     "vote_count": 117,
+    "media_type": "tv",
     "release_date": "15/01/2026"
   },
   {
@@ -105,6 +109,7 @@
     "name": "HIS & HERS",
     "vote_average": 7.129,
     "vote_count": 240,
+    "media_type": "tv",
     "release_date": "08/01/2026"
   },
   {
@@ -128,6 +133,7 @@
     "name": "Run Away",
     "vote_average": 6.704,
     "vote_count": 93,
+    "media_type": "tv",
     "release_date": "01/01/2026"
   },
   {
@@ -150,6 +156,7 @@
     "name": "Man vs Baby",
     "vote_average": 6.829,
     "vote_count": 161,
+    "media_type": "tv",
     "release_date": "11/12/2025"
   },
   {
@@ -172,6 +179,7 @@
     "name": "The Abandons",
     "vote_average": 5.753,
     "vote_count": 85,
+    "media_type": "tv",
     "release_date": "04/12/2025"
   },
   {
@@ -194,6 +202,7 @@
     "name": "Sean Combs: The Reckoning",
     "vote_average": 7.044,
     "vote_count": 57,
+    "media_type": "tv",
     "release_date": "02/12/2025"
   },
   {
@@ -216,6 +225,7 @@
     "name": "The Beast in Me",
     "vote_average": 7.142,
     "vote_count": 179,
+    "media_type": "tv",
     "release_date": "13/11/2025"
   },
   {
@@ -240,6 +250,7 @@
     "name": "The Bad Guys: Breaking In",
     "vote_average": 6.538,
     "vote_count": 26,
+    "media_type": "tv",
     "release_date": "06/11/2025"
   },
   {
@@ -262,6 +273,7 @@
     "name": "Death by Lightning",
     "vote_average": 7.359,
     "vote_count": 64,
+    "media_type": "tv",
     "release_date": "06/11/2025"
   },
   {
@@ -285,6 +297,7 @@
     "name": "Boots",
     "vote_average": 7.9,
     "vote_count": 155,
+    "media_type": "tv",
     "release_date": "09/10/2025"
   },
   {
@@ -307,6 +320,7 @@
     "name": "Monster: The Ed Gein Story",
     "vote_average": 7.231,
     "vote_count": 449,
+    "media_type": "tv",
     "release_date": "03/10/2025"
   },
   {
@@ -329,6 +343,7 @@
     "name": "Wayward",
     "vote_average": 6.311,
     "vote_count": 127,
+    "media_type": "tv",
     "release_date": "25/09/2025"
   },
   {
@@ -350,6 +365,7 @@
     "name": "House of Guinness",
     "vote_average": 7.578,
     "vote_count": 109,
+    "media_type": "tv",
     "release_date": "25/09/2025"
   },
   {
@@ -372,6 +388,7 @@
     "name": "Haunted Hotel",
     "vote_average": 8.036,
     "vote_count": 69,
+    "media_type": "tv",
     "release_date": "19/09/2025"
   },
   {
@@ -395,6 +412,7 @@
     "name": "Black Rabbit",
     "vote_average": 6.993,
     "vote_count": 150,
+    "media_type": "tv",
     "release_date": "18/09/2025"
   },
   {
@@ -417,6 +435,7 @@
     "name": "Hostage",
     "vote_average": 6.605,
     "vote_count": 86,
+    "media_type": "tv",
     "release_date": "21/08/2025"
   },
   {
@@ -439,6 +458,7 @@
     "name": "Playing Gracie Darling",
     "vote_average": 6.409,
     "vote_count": 22,
+    "media_type": "tv",
     "release_date": "14/08/2025"
   },
   {
@@ -461,6 +481,7 @@
     "name": "The Hunting Wives",
     "vote_average": 6.825,
     "vote_count": 63,
+    "media_type": "tv",
     "release_date": "21/07/2025"
   },
   {
@@ -483,6 +504,7 @@
     "name": "UNTAMED",
     "vote_average": 7.3,
     "vote_count": 332,
+    "media_type": "tv",
     "release_date": "17/07/2025"
   },
   {
@@ -506,6 +528,7 @@
     "name": "Too Much",
     "vote_average": 5.7,
     "vote_count": 30,
+    "media_type": "tv",
     "release_date": "10/07/2025"
   },
   {
@@ -528,6 +551,7 @@
     "name": "The Waterfront",
     "vote_average": 7.167,
     "vote_count": 69,
+    "media_type": "tv",
     "release_date": "19/06/2025"
   },
   {
@@ -550,6 +574,7 @@
     "name": "The Survivors",
     "vote_average": 6.679,
     "vote_count": 67,
+    "media_type": "tv",
     "release_date": "06/06/2025"
   },
   {
@@ -574,6 +599,7 @@
     "name": "Dept. Q",
     "vote_average": 7.937,
     "vote_count": 339,
+    "media_type": "tv",
     "release_date": "29/05/2025"
   },
   {
@@ -596,6 +622,7 @@
     "name": "Sirens",
     "vote_average": 6.7,
     "vote_count": 146,
+    "media_type": "tv",
     "release_date": "22/05/2025"
   },
   {
@@ -619,6 +646,7 @@
     "name": "Bet",
     "vote_average": 6.607,
     "vote_count": 84,
+    "media_type": "tv",
     "release_date": "15/05/2025"
   },
   {
@@ -642,6 +670,7 @@
     "name": "Devil May Cry",
     "vote_average": 7.893,
     "vote_count": 280,
+    "media_type": "tv",
     "release_date": "03/04/2025"
   },
   {
@@ -663,6 +692,7 @@
     "name": "PULSE",
     "vote_average": 7.741,
     "vote_count": 83,
+    "media_type": "tv",
     "release_date": "03/04/2025"
   },
   {
@@ -684,6 +714,7 @@
     "name": "The Residence",
     "vote_average": 7.567,
     "vote_count": 275,
+    "media_type": "tv",
     "release_date": "20/03/2025"
   },
   {
@@ -708,6 +739,7 @@
     "name": "Wolf King",
     "vote_average": 7.221,
     "vote_count": 43,
+    "media_type": "tv",
     "release_date": "20/03/2025"
   },
   {
@@ -731,6 +763,7 @@
     "name": "Adolescence",
     "vote_average": 7.8,
     "vote_count": 1386,
+    "media_type": "tv",
     "release_date": "13/03/2025"
   },
   {
@@ -753,6 +786,7 @@
     "name": "Everybody's Live with John Mulaney",
     "vote_average": 5,
     "vote_count": 2,
+    "media_type": "tv",
     "release_date": "12/03/2025"
   },
   {
@@ -775,6 +809,7 @@
     "name": "Zero Day",
     "vote_average": 6.968,
     "vote_count": 406,
+    "media_type": "tv",
     "release_date": "20/02/2025"
   },
   {
@@ -797,6 +832,7 @@
     "name": "Apple Cider Vinegar",
     "vote_average": 6.619,
     "vote_count": 80,
+    "media_type": "tv",
     "release_date": "06/02/2025"
   },
   {
@@ -820,6 +856,7 @@
     "name": "American Primeval",
     "vote_average": 7.659,
     "vote_count": 408,
+    "media_type": "tv",
     "release_date": "09/01/2025"
   },
   {
@@ -844,6 +881,7 @@
     "name": "Missing You",
     "vote_average": 6.063,
     "vote_count": 128,
+    "media_type": "tv",
     "release_date": "01/01/2025"
   },
   {
@@ -868,6 +906,7 @@
     "name": "Jentry Chau vs the Underworld",
     "vote_average": 8.25,
     "vote_count": 38,
+    "media_type": "tv",
     "release_date": "05/12/2024"
   },
   {
@@ -891,6 +930,7 @@
     "name": "Black Doves",
     "vote_average": 7.092,
     "vote_count": 358,
+    "media_type": "tv",
     "release_date": "05/12/2024"
   },
   {
@@ -914,6 +954,7 @@
     "name": "The Madness",
     "vote_average": 6.3,
     "vote_count": 167,
+    "media_type": "tv",
     "release_date": "28/11/2024"
   },
   {
@@ -936,6 +977,7 @@
     "name": "A Man on the Inside",
     "vote_average": 7.471,
     "vote_count": 190,
+    "media_type": "tv",
     "release_date": "21/11/2024"
   },
   {
@@ -958,6 +1000,7 @@
     "name": "Barbie Mysteries",
     "vote_average": 5.167,
     "vote_count": 6,
+    "media_type": "tv",
     "release_date": "01/11/2024"
   },
   {
@@ -979,6 +1022,7 @@
     "name": "Beauty in Black",
     "vote_average": 7.5,
     "vote_count": 98,
+    "media_type": "tv",
     "release_date": "24/10/2024"
   },
   {
@@ -1001,6 +1045,7 @@
     "name": "Tomb Raider: The Legend of Lara Croft",
     "vote_average": 6.33,
     "vote_count": 135,
+    "media_type": "tv",
     "release_date": "10/10/2024"
   },
   {
@@ -1023,6 +1068,7 @@
     "name": "Uzumaki",
     "vote_average": 6.977,
     "vote_count": 152,
+    "media_type": "tv",
     "release_date": "29/09/2024"
   },
   {
@@ -1045,6 +1091,7 @@
     "name": "Nobody Wants This",
     "vote_average": 7.435,
     "vote_count": 240,
+    "media_type": "tv",
     "release_date": "26/09/2024"
   },
   {
@@ -1067,6 +1114,7 @@
     "name": "Monsters: The Lyle and Erik Menendez Story",
     "vote_average": 7.609,
     "vote_count": 474,
+    "media_type": "tv",
     "release_date": "19/09/2024"
   },
   {
@@ -1088,6 +1136,7 @@
     "name": "Live from the Other Side with Tyler Henry",
     "vote_average": 7,
     "vote_count": 4,
+    "media_type": "tv",
     "release_date": "17/09/2024"
   },
   {
@@ -1111,6 +1160,7 @@
     "name": "The Perfect Couple",
     "vote_average": 6.8,
     "vote_count": 296,
+    "media_type": "tv",
     "release_date": "05/09/2024"
   },
   {
@@ -1134,6 +1184,7 @@
     "name": "KAOS",
     "vote_average": 7.232,
     "vote_count": 336,
+    "media_type": "tv",
     "release_date": "29/08/2024"
   },
   {
@@ -1159,6 +1210,7 @@
     "name": "Tales of the Teenage Mutant Ninja Turtles",
     "vote_average": 8,
     "vote_count": 30,
+    "media_type": "tv",
     "release_date": "08/08/2024"
   },
   {
@@ -1181,6 +1233,7 @@
     "name": "The Decameron",
     "vote_average": 5.975,
     "vote_count": 100,
+    "media_type": "tv",
     "release_date": "25/07/2024"
   },
   {
@@ -1204,6 +1257,7 @@
     "name": "A Good Girl's Guide to Murder",
     "vote_average": 7.404,
     "vote_count": 271,
+    "media_type": "tv",
     "release_date": "10/07/2024"
   },
   {
@@ -1227,6 +1281,7 @@
     "name": "Supacell",
     "vote_average": 7.378,
     "vote_count": 241,
+    "media_type": "tv",
     "release_date": "27/06/2024"
   },
   {
@@ -1249,6 +1304,7 @@
     "name": "Eric",
     "vote_average": 6.983,
     "vote_count": 272,
+    "media_type": "tv",
     "release_date": "30/05/2024"
   },
   {
@@ -1274,6 +1330,7 @@
     "name": "Jurassic World: Chaos Theory",
     "vote_average": 8.3,
     "vote_count": 184,
+    "media_type": "tv",
     "release_date": "24/05/2024"
   },
   {
@@ -1295,6 +1352,7 @@
     "name": "Tires",
     "vote_average": 6.508,
     "vote_count": 65,
+    "media_type": "tv",
     "release_date": "23/05/2024"
   },
   {
@@ -1318,6 +1376,7 @@
     "name": "The Fairly OddParents: A New Wish",
     "vote_average": 8.2,
     "vote_count": 46,
+    "media_type": "tv",
     "release_date": "17/05/2024"
   },
   {
@@ -1339,6 +1398,7 @@
     "name": "A Man in Full",
     "vote_average": 6.325,
     "vote_count": 80,
+    "media_type": "tv",
     "release_date": "02/05/2024"
   },
   {
@@ -1362,6 +1422,7 @@
     "name": "Dead Boy Detectives",
     "vote_average": 7.667,
     "vote_count": 287,
+    "media_type": "tv",
     "release_date": "25/04/2024"
   },
   {
@@ -1383,6 +1444,7 @@
     "name": "Baby Reindeer",
     "vote_average": 7.599,
     "vote_count": 1066,
+    "media_type": "tv",
     "release_date": "11/04/2024"
   },
   {
@@ -1404,6 +1466,7 @@
     "name": "Unlocked: A Jail Experiment",
     "vote_average": 6.614,
     "vote_count": 22,
+    "media_type": "tv",
     "release_date": "10/04/2024"
   },
   {
@@ -1425,6 +1488,7 @@
     "name": "RIPLEY",
     "vote_average": 7.992,
     "vote_count": 359,
+    "media_type": "tv",
     "release_date": "04/04/2024"
   },
   {
@@ -1446,6 +1510,7 @@
     "name": "Parish",
     "vote_average": 6.482,
     "vote_count": 56,
+    "media_type": "tv",
     "release_date": "31/03/2024"
   },
   {
@@ -1469,6 +1534,7 @@
     "name": "Testament: The Story of Moses",
     "vote_average": 7.233,
     "vote_count": 60,
+    "media_type": "tv",
     "release_date": "27/03/2024"
   },
   {
@@ -1492,6 +1558,7 @@
     "name": "3 Body Problem",
     "vote_average": 7.452,
     "vote_count": 1367,
+    "media_type": "tv",
     "release_date": "21/03/2024"
   },
   {
@@ -1515,6 +1582,7 @@
     "name": "The Gentlemen",
     "vote_average": 7.856,
     "vote_count": 703,
+    "media_type": "tv",
     "release_date": "07/03/2024"
   },
   {
@@ -1536,6 +1604,7 @@
     "name": "Aníkúlápó: Rise of the Spectre",
     "vote_average": 7,
     "vote_count": 8,
+    "media_type": "tv",
     "release_date": "01/03/2024"
   },
   {
@@ -1560,6 +1629,7 @@
     "name": "Avatar the Last Airbender",
     "vote_average": 7.757,
     "vote_count": 1035,
+    "media_type": "tv",
     "release_date": "22/02/2024"
   },
   {
@@ -1582,6 +1652,7 @@
     "name": "One Day",
     "vote_average": 7.648,
     "vote_count": 274,
+    "media_type": "tv",
     "release_date": "08/02/2024"
   },
   {
@@ -1603,6 +1674,7 @@
     "name": "Full Speed",
     "vote_average": 6.656,
     "vote_count": 16,
+    "media_type": "tv",
     "release_date": "30/01/2024"
   },
   {
@@ -1624,6 +1696,7 @@
     "name": "Dinner Time Live with David Chang",
     "vote_average": 6.8,
     "vote_count": 5,
+    "media_type": "tv",
     "release_date": "25/01/2024"
   },
   {
@@ -1648,6 +1721,7 @@
     "name": "The Brothers Sun",
     "vote_average": 7.563,
     "vote_count": 199,
+    "media_type": "tv",
     "release_date": "04/01/2024"
   },
   {
@@ -1671,6 +1745,7 @@
     "name": "Fool Me Once",
     "vote_average": 7.132,
     "vote_count": 433,
+    "media_type": "tv",
     "release_date": "01/01/2024"
   },
   {
@@ -1693,6 +1768,7 @@
     "name": "Carol & the End of the World",
     "vote_average": 7.4,
     "vote_count": 87,
+    "media_type": "tv",
     "release_date": "15/12/2023"
   },
   {
@@ -1714,6 +1790,7 @@
     "name": "My Life with the Walter Boys",
     "vote_average": 7.763,
     "vote_count": 333,
+    "media_type": "tv",
     "release_date": "07/12/2023"
   },
   {
@@ -1737,6 +1814,7 @@
     "name": "Obliterated",
     "vote_average": 6.943,
     "vote_count": 200,
+    "media_type": "tv",
     "release_date": "30/11/2023"
   },
   {
@@ -1758,6 +1836,7 @@
     "name": "Squid Game: The Challenge",
     "vote_average": 6.453,
     "vote_count": 611,
+    "media_type": "tv",
     "release_date": "22/11/2023"
   },
   {
@@ -1784,6 +1863,7 @@
     "name": "Scott Pilgrim Takes Off",
     "vote_average": 7.976,
     "vote_count": 376,
+    "media_type": "tv",
     "release_date": "17/11/2023"
   },
   {
@@ -1806,6 +1886,7 @@
     "name": "BLUE EYE SAMURAI",
     "vote_average": 8.489,
     "vote_count": 692,
+    "media_type": "tv",
     "release_date": "03/11/2023"
   },
   {
@@ -1827,6 +1908,7 @@
     "name": "All the Light We Cannot See",
     "vote_average": 7.474,
     "vote_count": 286,
+    "media_type": "tv",
     "release_date": "02/11/2023"
   },
   {
@@ -1853,6 +1935,7 @@
     "name": "Unicorn Academy",
     "vote_average": 8,
     "vote_count": 51,
+    "media_type": "tv",
     "release_date": "02/11/2023"
   },
   {
@@ -1874,6 +1957,7 @@
     "name": "Life on Our Planet",
     "vote_average": 8.003,
     "vote_count": 188,
+    "media_type": "tv",
     "release_date": "25/10/2023"
   },
   {
@@ -1898,6 +1982,7 @@
     "name": "Bodies",
     "vote_average": 7.167,
     "vote_count": 487,
+    "media_type": "tv",
     "release_date": "19/10/2023"
   },
   {
@@ -1923,6 +2008,7 @@
     "name": "The Amazing Digital Circus",
     "vote_average": 8.435,
     "vote_count": 138,
+    "media_type": "tv",
     "release_date": "13/10/2023"
   },
   {
@@ -1945,6 +2031,7 @@
     "name": "The Fall of the House of Usher",
     "vote_average": 7.563,
     "vote_count": 750,
+    "media_type": "tv",
     "release_date": "12/10/2023"
   },
   {
@@ -1968,6 +2055,7 @@
     "name": "Castlevania: Nocturne",
     "vote_average": 7.832,
     "vote_count": 250,
+    "media_type": "tv",
     "release_date": "28/09/2023"
   },
   {
@@ -1990,6 +2078,7 @@
     "name": "ONE PIECE",
     "vote_average": 8.12,
     "vote_count": 1471,
+    "media_type": "tv",
     "release_date": "31/08/2023"
   },
   {
@@ -2012,6 +2101,7 @@
     "name": "Captain Fall",
     "vote_average": 6.556,
     "vote_count": 63,
+    "media_type": "tv",
     "release_date": "28/07/2023"
   },
   {
@@ -2035,6 +2125,7 @@
     "name": "Fatal Seduction",
     "vote_average": 6.6,
     "vote_count": 84,
+    "media_type": "tv",
     "release_date": "07/07/2023"
   },
   {
@@ -2058,6 +2149,7 @@
     "name": "LEGO Ninjago: Dragons Rising",
     "vote_average": 8.2,
     "vote_count": 88,
+    "media_type": "tv",
     "release_date": "01/06/2023"
   },
   {
@@ -2081,6 +2173,7 @@
     "name": "FUBAR",
     "vote_average": 6.621,
     "vote_count": 502,
+    "media_type": "tv",
     "release_date": "25/05/2023"
   },
   {
@@ -2103,6 +2196,7 @@
     "name": "XO, Kitty",
     "vote_average": 8.047,
     "vote_count": 572,
+    "media_type": "tv",
     "release_date": "18/05/2023"
   },
   {
@@ -2127,6 +2221,7 @@
     "name": "LEGO DREAMZzz",
     "vote_average": 7.8,
     "vote_count": 24,
+    "media_type": "tv",
     "release_date": "15/05/2023"
   },
   {
@@ -2149,6 +2244,7 @@
     "name": "Mulligan",
     "vote_average": 5.5,
     "vote_count": 31,
+    "media_type": "tv",
     "release_date": "12/05/2023"
   },
   {
@@ -2170,6 +2266,7 @@
     "name": "Queen Charlotte: A Bridgerton Story",
     "vote_average": 7.992,
     "vote_count": 643,
+    "media_type": "tv",
     "release_date": "04/05/2023"
   },
   {
@@ -2192,6 +2289,7 @@
     "name": "The Diplomat",
     "vote_average": 7.592,
     "vote_count": 398,
+    "media_type": "tv",
     "release_date": "20/04/2023"
   },
   {
@@ -2214,6 +2312,7 @@
     "name": "BEEF",
     "vote_average": 7.743,
     "vote_count": 840,
+    "media_type": "tv",
     "release_date": "06/04/2023"
   },
   {
@@ -2236,6 +2335,7 @@
     "name": "Unstable",
     "vote_average": 6.887,
     "vote_count": 75,
+    "media_type": "tv",
     "release_date": "30/03/2023"
   },
   {
@@ -2259,6 +2359,7 @@
     "name": "The Night Agent",
     "vote_average": 7.722,
     "vote_count": 1035,
+    "media_type": "tv",
     "release_date": "23/03/2023"
   },
   {
@@ -2280,6 +2381,7 @@
     "name": "Sullivan's Crossing",
     "vote_average": 8.405,
     "vote_count": 42,
+    "media_type": "tv",
     "release_date": "19/03/2023"
   },
   {
@@ -2303,6 +2405,7 @@
     "name": "Agent Elvis",
     "vote_average": 6.707,
     "vote_count": 58,
+    "media_type": "tv",
     "release_date": "17/03/2023"
   },
   {
@@ -2328,6 +2431,7 @@
     "name": "My Dad the Bounty Hunter",
     "vote_average": 8.31,
     "vote_count": 58,
+    "media_type": "tv",
     "release_date": "09/02/2023"
   },
   {
@@ -2349,6 +2453,7 @@
     "name": "That '90s Show",
     "vote_average": 6.76,
     "vote_count": 198,
+    "media_type": "tv",
     "release_date": "19/01/2023"
   },
   {
@@ -2371,6 +2476,7 @@
     "name": "Kaleidoscope",
     "vote_average": 6.834,
     "vote_count": 449,
+    "media_type": "tv",
     "release_date": "01/01/2023"
   },
   {
@@ -2394,6 +2500,7 @@
     "name": "The Recruit",
     "vote_average": 7.452,
     "vote_count": 433,
+    "media_type": "tv",
     "release_date": "16/12/2022"
   },
   {
@@ -2418,6 +2525,7 @@
     "name": "Sonic Prime",
     "vote_average": 8.232,
     "vote_count": 524,
+    "media_type": "tv",
     "release_date": "15/12/2022"
   },
   {
@@ -2441,6 +2549,7 @@
     "name": "Wednesday",
     "vote_average": 8.359,
     "vote_count": 10262,
+    "media_type": "tv",
     "release_date": "23/11/2022"
   },
   {
@@ -2463,6 +2572,7 @@
     "name": "StoryBots: Answer Time",
     "vote_average": 6.857,
     "vote_count": 21,
+    "media_type": "tv",
     "release_date": "21/11/2022"
   },
   {
@@ -2486,6 +2596,7 @@
     "name": "Guillermo del Toro's Cabinet of Curiosities",
     "vote_average": 7.476,
     "vote_count": 956,
+    "media_type": "tv",
     "release_date": "25/10/2022"
   },
   {
@@ -2508,6 +2619,7 @@
     "name": "ONI: Thunder God's Tale",
     "vote_average": 7.6,
     "vote_count": 34,
+    "media_type": "tv",
     "release_date": "21/10/2022"
   },
   {
@@ -2531,6 +2643,7 @@
     "name": "Batwheels",
     "vote_average": 7,
     "vote_count": 22,
+    "media_type": "tv",
     "release_date": "15/10/2022"
   },
   {
@@ -2553,6 +2666,7 @@
     "name": "The Watcher",
     "vote_average": 7.093,
     "vote_count": 729,
+    "media_type": "tv",
     "release_date": "13/10/2022"
   },
   {
@@ -2577,6 +2691,7 @@
     "name": "Monster High",
     "vote_average": 7.7,
     "vote_count": 53,
+    "media_type": "tv",
     "release_date": "06/10/2022"
   },
   {
@@ -2600,6 +2715,7 @@
     "name": "Inside Man",
     "vote_average": 6.843,
     "vote_count": 348,
+    "media_type": "tv",
     "release_date": "26/09/2022"
   },
   {
@@ -2623,6 +2739,7 @@
     "name": "My Little Pony: Make Your Mark",
     "vote_average": 7.9,
     "vote_count": 81,
+    "media_type": "tv",
     "release_date": "26/09/2022"
   },
   {
@@ -2645,6 +2762,7 @@
     "name": "DAHMER - Monster: The Jeffrey Dahmer Story",
     "vote_average": 7.975,
     "vote_count": 2805,
+    "media_type": "tv",
     "release_date": "21/09/2022"
   },
   {
@@ -2667,6 +2785,7 @@
     "name": "Pantheon",
     "vote_average": 8.014,
     "vote_count": 217,
+    "media_type": "tv",
     "release_date": "01/09/2022"
   },
   {
@@ -2689,6 +2808,7 @@
     "name": "Mo",
     "vote_average": 7.026,
     "vote_count": 77,
+    "media_type": "tv",
     "release_date": "24/08/2022"
   },
   {
@@ -2712,6 +2832,7 @@
     "name": "The Sandman",
     "vote_average": 7.883,
     "vote_count": 2490,
+    "media_type": "tv",
     "release_date": "05/08/2022"
   },
   {
@@ -2737,6 +2858,7 @@
     "name": "Kung Fu Panda: The Dragon Knight",
     "vote_average": 7.5,
     "vote_count": 246,
+    "media_type": "tv",
     "release_date": "14/07/2022"
   },
   {
@@ -2759,6 +2881,7 @@
     "name": "Resident Evil",
     "vote_average": 5.602,
     "vote_count": 590,
+    "media_type": "tv",
     "release_date": "14/07/2022"
   },
   {
@@ -2781,6 +2904,7 @@
     "name": "Web of Make Believe: Death, Lies and the Internet",
     "vote_average": 6.613,
     "vote_count": 31,
+    "media_type": "tv",
     "release_date": "15/06/2022"
   },
   {
@@ -2802,6 +2926,7 @@
     "name": "Surviving Summer",
     "vote_average": 7.28,
     "vote_count": 116,
+    "media_type": "tv",
     "release_date": "03/06/2022"
   },
   {
@@ -2824,6 +2949,7 @@
     "name": "The Lincoln Lawyer",
     "vote_average": 7.6,
     "vote_count": 433,
+    "media_type": "tv",
     "release_date": "13/05/2022"
   },
   {
@@ -2847,6 +2973,7 @@
     "name": "Samurai Rabbit: The Usagi Chronicles",
     "vote_average": 6.2,
     "vote_count": 33,
+    "media_type": "tv",
     "release_date": "28/04/2022"
   },
   {
@@ -2868,6 +2995,7 @@
     "name": "Heartstopper",
     "vote_average": 8.57,
     "vote_count": 1632,
+    "media_type": "tv",
     "release_date": "22/04/2022"
   },
   {
@@ -2893,6 +3021,7 @@
     "name": "The Creature Cases",
     "vote_average": 7.8,
     "vote_count": 16,
+    "media_type": "tv",
     "release_date": "12/04/2022"
   },
   {
@@ -2914,6 +3043,7 @@
     "name": "Is It Cake?",
     "vote_average": 6.9,
     "vote_count": 52,
+    "media_type": "tv",
     "release_date": "18/03/2022"
   },
   {
@@ -2936,6 +3066,7 @@
     "name": "Human Resources",
     "vote_average": 6.574,
     "vote_count": 135,
+    "media_type": "tv",
     "release_date": "18/03/2022"
   },
   {
@@ -2959,6 +3090,7 @@
     "name": "Vikings: Valhalla",
     "vote_average": 7.644,
     "vote_count": 1012,
+    "media_type": "tv",
     "release_date": "25/02/2022"
   },
   {
@@ -2982,6 +3114,7 @@
     "name": "The Cuphead Show!",
     "vote_average": 8,
     "vote_count": 357,
+    "media_type": "tv",
     "release_date": "18/02/2022"
   },
   {
@@ -3003,6 +3136,7 @@
     "name": "jeen-yuhs: A Kanye Trilogy",
     "vote_average": 7.11,
     "vote_count": 68,
+    "media_type": "tv",
     "release_date": "16/02/2022"
   },
   {
@@ -3024,6 +3158,7 @@
     "name": "Inventing Anna",
     "vote_average": 6.8,
     "vote_count": 446,
+    "media_type": "tv",
     "release_date": "11/02/2022"
   },
   {
@@ -3047,6 +3182,7 @@
     "name": "The Woman in the House Across the Street from the Girl in the Window",
     "vote_average": 6.581,
     "vote_count": 488,
+    "media_type": "tv",
     "release_date": "28/01/2022"
   },
   {
@@ -3068,6 +3204,7 @@
     "name": "Stories of a Generation - with Pope Francis",
     "vote_average": 7.1,
     "vote_count": 14,
+    "media_type": "tv",
     "release_date": "25/12/2021"
   },
   {
@@ -3091,6 +3228,7 @@
     "name": "Cowboy Bebop",
     "vote_average": 6.527,
     "vote_count": 448,
+    "media_type": "tv",
     "release_date": "19/11/2021"
   },
   {
@@ -3113,6 +3251,7 @@
     "name": "Arcane",
     "vote_average": 8.753,
     "vote_count": 5643,
+    "media_type": "tv",
     "release_date": "06/11/2021"
   },
   {
@@ -3135,6 +3274,7 @@
     "name": "Inside Job",
     "vote_average": 8.101,
     "vote_count": 932,
+    "media_type": "tv",
     "release_date": "22/10/2021"
   },
   {
@@ -3158,6 +3298,7 @@
     "name": "Chucky",
     "vote_average": 7.826,
     "vote_count": 4143,
+    "media_type": "tv",
     "release_date": "12/10/2021"
   },
   {
@@ -3183,6 +3324,7 @@
     "name": "A Tale Dark & Grimm",
     "vote_average": 7.1,
     "vote_count": 36,
+    "media_type": "tv",
     "release_date": "08/10/2021"
   },
   {
@@ -3204,6 +3346,7 @@
     "name": "OATS Studios",
     "vote_average": 6.639,
     "vote_count": 79,
+    "media_type": "tv",
     "release_date": "01/10/2021"
   },
   {
@@ -3225,6 +3368,7 @@
     "name": "Maid",
     "vote_average": 7.963,
     "vote_count": 849,
+    "media_type": "tv",
     "release_date": "30/09/2021"
   },
   {
@@ -3248,6 +3392,7 @@
     "name": "La Brea",
     "vote_average": 7.419,
     "vote_count": 1558,
+    "media_type": "tv",
     "release_date": "28/09/2021"
   },
   {
@@ -3270,6 +3415,7 @@
     "name": "Midnight Mass",
     "vote_average": 7.5,
     "vote_count": 1131,
+    "media_type": "tv",
     "release_date": "24/09/2021"
   },
   {
@@ -3291,6 +3437,7 @@
     "name": "The Newsreader",
     "vote_average": 7.547,
     "vote_count": 43,
+    "media_type": "tv",
     "release_date": "15/08/2021"
   },
   {
@@ -3312,6 +3459,7 @@
     "name": "Sex/Life",
     "vote_average": 7.052,
     "vote_count": 1365,
+    "media_type": "tv",
     "release_date": "25/06/2021"
   },
   {
@@ -3334,6 +3482,7 @@
     "name": "Sweet Tooth",
     "vote_average": 7.774,
     "vote_count": 1563,
+    "media_type": "tv",
     "release_date": "04/06/2021"
   },
   {
@@ -3356,6 +3505,7 @@
     "name": "Hacks",
     "vote_average": 7.406,
     "vote_count": 314,
+    "media_type": "tv",
     "release_date": "13/05/2021"
   },
   {
@@ -3379,6 +3529,7 @@
     "name": "The Upshaws",
     "vote_average": 7.6,
     "vote_count": 63,
+    "media_type": "tv",
     "release_date": "12/05/2021"
   },
   {
@@ -3403,6 +3554,7 @@
     "name": "Jupiter's Legacy",
     "vote_average": 6.917,
     "vote_count": 744,
+    "media_type": "tv",
     "release_date": "07/05/2021"
   },
   {
@@ -3424,6 +3576,7 @@
     "name": "Girls5eva",
     "vote_average": 6.1,
     "vote_count": 60,
+    "media_type": "tv",
     "release_date": "06/05/2021"
   },
   {
@@ -3446,6 +3599,7 @@
     "name": "Shadow and Bone",
     "vote_average": 7.788,
     "vote_count": 1518,
+    "media_type": "tv",
     "release_date": "23/04/2021"
   },
   {
@@ -3469,6 +3623,7 @@
     "name": "DOTA: Dragon's Blood",
     "vote_average": 7.761,
     "vote_count": 452,
+    "media_type": "tv",
     "release_date": "25/03/2021"
   },
   {
@@ -3491,6 +3646,7 @@
     "name": "Ginny & Georgia",
     "vote_average": 8.043,
     "vote_count": 1748,
+    "media_type": "tv",
     "release_date": "24/02/2021"
   },
   {
@@ -3512,6 +3668,7 @@
     "name": "Behind Her Eyes",
     "vote_average": 7.334,
     "vote_count": 653,
+    "media_type": "tv",
     "release_date": "17/02/2021"
   },
   {
@@ -3535,6 +3692,7 @@
     "name": "Amend: The Fight for America",
     "vote_average": 7.1,
     "vote_count": 169,
+    "media_type": "tv",
     "release_date": "17/02/2021"
   },
   {
@@ -3556,6 +3714,7 @@
     "name": "Firefly Lane",
     "vote_average": 7.749,
     "vote_count": 293,
+    "media_type": "tv",
     "release_date": "03/02/2021"
   },
   {
@@ -3578,6 +3737,7 @@
     "name": "Fate: The Winx Saga",
     "vote_average": 7.97,
     "vote_count": 1529,
+    "media_type": "tv",
     "release_date": "22/01/2021"
   },
   {
@@ -3601,6 +3761,7 @@
     "name": "Gabby's Dollhouse",
     "vote_average": 7.881,
     "vote_count": 88,
+    "media_type": "tv",
     "release_date": "05/01/2021"
   },
   {
@@ -3623,6 +3784,7 @@
     "name": "History of Swear Words",
     "vote_average": 6.54,
     "vote_count": 88,
+    "media_type": "tv",
     "release_date": "05/01/2021"
   },
   {
@@ -3645,6 +3807,7 @@
     "name": "Headspace Guide to Meditation",
     "vote_average": 7.8,
     "vote_count": 80,
+    "media_type": "tv",
     "release_date": "01/01/2021"
   },
   {
@@ -3666,6 +3829,7 @@
     "name": "Bridgerton",
     "vote_average": 8.1,
     "vote_count": 3125,
+    "media_type": "tv",
     "release_date": "25/12/2020"
   },
   {
@@ -3687,6 +3851,7 @@
     "name": "The Real Housewives of Salt Lake City",
     "vote_average": 6,
     "vote_count": 22,
+    "media_type": "tv",
     "release_date": "11/11/2020"
   },
   {
@@ -3710,6 +3875,7 @@
     "name": "Blood of Zeus",
     "vote_average": 7.761,
     "vote_count": 595,
+    "media_type": "tv",
     "release_date": "27/10/2020"
   },
   {
@@ -3731,6 +3897,7 @@
     "name": "The Queen's Gambit",
     "vote_average": 8.449,
     "vote_count": 5290,
+    "media_type": "tv",
     "release_date": "23/10/2020"
   },
   {
@@ -3752,6 +3919,7 @@
     "name": "Grand Army",
     "vote_average": 7.503,
     "vote_count": 178,
+    "media_type": "tv",
     "release_date": "16/10/2020"
   },
   {
@@ -3774,6 +3942,7 @@
     "name": "The Haunting of Bly Manor",
     "vote_average": 7.57,
     "vote_count": 1328,
+    "media_type": "tv",
     "release_date": "09/10/2020"
   },
   {
@@ -3796,6 +3965,7 @@
     "name": "Emily in Paris",
     "vote_average": 7.599,
     "vote_count": 1511,
+    "media_type": "tv",
     "release_date": "02/10/2020"
   },
   {
@@ -3820,6 +3990,7 @@
     "name": "Jurassic World Camp Cretaceous",
     "vote_average": 8.017,
     "vote_count": 1889,
+    "media_type": "tv",
     "release_date": "18/09/2020"
   },
   {
@@ -3843,6 +4014,7 @@
     "name": "Ratched",
     "vote_average": 7.644,
     "vote_count": 1218,
+    "media_type": "tv",
     "release_date": "18/09/2020"
   },
   {
@@ -3865,6 +4037,7 @@
     "name": "Away",
     "vote_average": 6.535,
     "vote_count": 346,
+    "media_type": "tv",
     "release_date": "04/09/2020"
   },
   {
@@ -3887,6 +4060,7 @@
     "name": "Cursed",
     "vote_average": 7.155,
     "vote_count": 961,
+    "media_type": "tv",
     "release_date": "16/07/2020"
   },
   {
@@ -3909,6 +4083,7 @@
     "name": "Brave New World",
     "vote_average": 6.689,
     "vote_count": 219,
+    "media_type": "tv",
     "release_date": "15/07/2020"
   },
   {
@@ -3930,6 +4105,7 @@
     "name": "The Baby-Sitters Club",
     "vote_average": 7.909,
     "vote_count": 495,
+    "media_type": "tv",
     "release_date": "03/07/2020"
   },
   {
@@ -3953,6 +4129,7 @@
     "name": "Warrior Nun",
     "vote_average": 7.948,
     "vote_count": 1285,
+    "media_type": "tv",
     "release_date": "02/07/2020"
   },
   {
@@ -3976,6 +4153,7 @@
     "name": "Unsolved Mysteries",
     "vote_average": 7.698,
     "vote_count": 324,
+    "media_type": "tv",
     "release_date": "01/07/2020"
   },
   {
@@ -3998,6 +4176,7 @@
     "name": "Space Force",
     "vote_average": 6.533,
     "vote_count": 789,
+    "media_type": "tv",
     "release_date": "29/05/2020"
   },
   {
@@ -4020,6 +4199,7 @@
     "name": "Jeffrey Epstein: Filthy Rich",
     "vote_average": 7.066,
     "vote_count": 407,
+    "media_type": "tv",
     "release_date": "27/05/2020"
   },
   {
@@ -4041,6 +4221,7 @@
     "name": "History 101",
     "vote_average": 7.114,
     "vote_count": 105,
+    "media_type": "tv",
     "release_date": "22/05/2020"
   },
   {
@@ -4062,6 +4243,7 @@
     "name": "Sweet Magnolias",
     "vote_average": 7.8,
     "vote_count": 256,
+    "media_type": "tv",
     "release_date": "19/05/2020"
   },
   {
@@ -4084,6 +4266,7 @@
     "name": "Snowpiercer",
     "vote_average": 7.379,
     "vote_count": 1364,
+    "media_type": "tv",
     "release_date": "17/05/2020"
   },
   {
@@ -4106,6 +4289,7 @@
     "name": "Hightown",
     "vote_average": 6.662,
     "vote_count": 108,
+    "media_type": "tv",
     "release_date": "17/05/2020"
   },
   {
@@ -4128,6 +4312,7 @@
     "name": "Never Have I Ever",
     "vote_average": 8.074,
     "vote_count": 1853,
+    "media_type": "tv",
     "release_date": "27/04/2020"
   },
   {
@@ -4149,6 +4334,7 @@
     "name": "The Last Dance",
     "vote_average": 8.263,
     "vote_count": 1428,
+    "media_type": "tv",
     "release_date": "19/04/2020"
   },
   {
@@ -4170,6 +4356,7 @@
     "name": "Too Hot to Handle",
     "vote_average": 6.604,
     "vote_count": 442,
+    "media_type": "tv",
     "release_date": "17/04/2020"
   },
   {
@@ -4193,6 +4380,7 @@
     "name": "Outer Banks",
     "vote_average": 8.3,
     "vote_count": 1138,
+    "media_type": "tv",
     "release_date": "15/04/2020"
   },
   {
@@ -4215,6 +4403,7 @@
     "name": "Tiger King",
     "vote_average": 6.838,
     "vote_count": 544,
+    "media_type": "tv",
     "release_date": "20/03/2020"
   },
   {
@@ -4238,6 +4427,7 @@
     "name": "I Am Not Okay with This",
     "vote_average": 8.008,
     "vote_count": 1922,
+    "media_type": "tv",
     "release_date": "26/02/2020"
   },
   {
@@ -4259,6 +4449,7 @@
     "name": "Love Is Blind",
     "vote_average": 6.2,
     "vote_count": 99,
+    "media_type": "tv",
     "release_date": "13/02/2020"
   },
   {
@@ -4282,6 +4473,7 @@
     "name": "Locke & Key",
     "vote_average": 7.745,
     "vote_count": 1402,
+    "media_type": "tv",
     "release_date": "07/02/2020"
   },
   {
@@ -4304,6 +4496,7 @@
     "name": "The Stranger",
     "vote_average": 7.172,
     "vote_count": 517,
+    "media_type": "tv",
     "release_date": "30/01/2020"
   },
   {
@@ -4327,6 +4520,7 @@
     "name": "Rise of Empires: Ottoman",
     "vote_average": 7.5,
     "vote_count": 335,
+    "media_type": "tv",
     "release_date": "24/01/2020"
   },
   {
@@ -4351,6 +4545,7 @@
     "name": "Kipo and the Age of Wonderbeasts",
     "vote_average": 8.2,
     "vote_count": 227,
+    "media_type": "tv",
     "release_date": "14/01/2020"
   },
   {
@@ -4372,6 +4567,7 @@
     "name": "Medical Police",
     "vote_average": 6.4,
     "vote_count": 138,
+    "media_type": "tv",
     "release_date": "10/01/2020"
   },
   {
@@ -4393,6 +4589,7 @@
     "name": "The Circle",
     "vote_average": 6.828,
     "vote_count": 96,
+    "media_type": "tv",
     "release_date": "01/01/2020"
   },
   {
@@ -4415,6 +4612,7 @@
     "name": "Dracula",
     "vote_average": 6.969,
     "vote_count": 795,
+    "media_type": "tv",
     "release_date": "01/01/2020"
   },
   {
@@ -4436,6 +4634,7 @@
     "name": "Spinning Out",
     "vote_average": 7.832,
     "vote_count": 310,
+    "media_type": "tv",
     "release_date": "01/01/2020"
   },
   {
@@ -4460,6 +4659,7 @@
     "name": "Fast & Furious Spy Racers",
     "vote_average": 7,
     "vote_count": 2200,
+    "media_type": "tv",
     "release_date": "26/12/2019"
   },
   {
@@ -4482,6 +4682,7 @@
     "name": "The Witcher",
     "vote_average": 7.946,
     "vote_count": 6520,
+    "media_type": "tv",
     "release_date": "20/12/2019"
   },
   {
@@ -4503,6 +4704,7 @@
     "name": "Virgin River",
     "vote_average": 7.92,
     "vote_count": 570,
+    "media_type": "tv",
     "release_date": "06/12/2019"
   },
   {
@@ -4524,6 +4726,7 @@
     "name": "The Movies That Made Us",
     "vote_average": 7.242,
     "vote_count": 128,
+    "media_type": "tv",
     "release_date": "29/11/2019"
   },
   {
@@ -4549,6 +4752,7 @@
     "name": "Green Eggs and Ham",
     "vote_average": 8.023,
     "vote_count": 65,
+    "media_type": "tv",
     "release_date": "08/11/2019"
   },
   {
@@ -4572,6 +4776,7 @@
     "name": "The Last Kids on Earth",
     "vote_average": 8.149,
     "vote_count": 47,
+    "media_type": "tv",
     "release_date": "17/09/2019"
   },
   {
@@ -4595,6 +4800,7 @@
     "name": "Top Boy",
     "vote_average": 8.089,
     "vote_count": 146,
+    "media_type": "tv",
     "release_date": "13/09/2019"
   },
   {
@@ -4617,6 +4823,7 @@
     "name": "Unbelievable",
     "vote_average": 7.953,
     "vote_count": 752,
+    "media_type": "tv",
     "release_date": "13/09/2019"
   },
   {
@@ -4640,6 +4847,7 @@
     "name": "The Spy",
     "vote_average": 7.379,
     "vote_count": 313,
+    "media_type": "tv",
     "release_date": "06/09/2019"
   },
   {
@@ -4663,6 +4871,7 @@
     "name": "The Dark Crystal: Age of Resistance",
     "vote_average": 7.8,
     "vote_count": 422,
+    "media_type": "tv",
     "release_date": "30/08/2019"
   },
   {
@@ -4685,6 +4894,7 @@
     "name": "Another Life",
     "vote_average": 6.055,
     "vote_count": 439,
+    "media_type": "tv",
     "release_date": "25/07/2019"
   },
   {
@@ -4708,6 +4918,7 @@
     "name": "SAINT SEIYA: Knights of the Zodiac",
     "vote_average": 7.406,
     "vote_count": 662,
+    "media_type": "tv",
     "release_date": "19/07/2019"
   },
   {
@@ -4729,6 +4940,7 @@
     "name": "Family Reunion",
     "vote_average": 8.042,
     "vote_count": 106,
+    "media_type": "tv",
     "release_date": "10/07/2019"
   },
   {
@@ -4751,6 +4963,7 @@
     "name": "NOS4A2",
     "vote_average": 7.3,
     "vote_count": 409,
+    "media_type": "tv",
     "release_date": "02/06/2019"
   },
   {
@@ -4772,6 +4985,7 @@
     "name": "When They See Us",
     "vote_average": 8.224,
     "vote_count": 976,
+    "media_type": "tv",
     "release_date": "31/05/2019"
   },
   {
@@ -4793,6 +5007,7 @@
     "name": "WHAT / IF",
     "vote_average": 6.4,
     "vote_count": 174,
+    "media_type": "tv",
     "release_date": "24/05/2019"
   },
   {
@@ -4815,6 +5030,7 @@
     "name": "The Society",
     "vote_average": 7.515,
     "vote_count": 591,
+    "media_type": "tv",
     "release_date": "10/05/2019"
   },
   {
@@ -4838,6 +5054,7 @@
     "name": "Dead to Me",
     "vote_average": 7.302,
     "vote_count": 590,
+    "media_type": "tv",
     "release_date": "03/05/2019"
   },
   {
@@ -4859,6 +5076,7 @@
     "name": "I Think You Should Leave with Tim Robinson",
     "vote_average": 6.9,
     "vote_count": 150,
+    "media_type": "tv",
     "release_date": "23/04/2019"
   },
   {
@@ -4882,6 +5100,7 @@
     "name": "The Chosen",
     "vote_average": 8.681,
     "vote_count": 742,
+    "media_type": "tv",
     "release_date": "21/04/2019"
   },
   {
@@ -4905,6 +5124,7 @@
     "name": "Black Summer",
     "vote_average": 6.977,
     "vote_count": 577,
+    "media_type": "tv",
     "release_date": "11/04/2019"
   },
   {
@@ -4927,6 +5147,7 @@
     "name": "Our Planet",
     "vote_average": 8.514,
     "vote_count": 430,
+    "media_type": "tv",
     "release_date": "05/04/2019"
   },
   {
@@ -4948,6 +5169,7 @@
     "name": "Selling Sunset",
     "vote_average": 6.508,
     "vote_count": 59,
+    "media_type": "tv",
     "release_date": "22/03/2019"
   },
   {
@@ -4970,6 +5192,7 @@
     "name": "Love, Death & Robots",
     "vote_average": 8.215,
     "vote_count": 3841,
+    "media_type": "tv",
     "release_date": "15/03/2019"
   },
   {
@@ -4991,6 +5214,7 @@
     "name": "Formula 1: Drive to Survive",
     "vote_average": 8.149,
     "vote_count": 588,
+    "media_type": "tv",
     "release_date": "08/03/2019"
   },
   {
@@ -5013,6 +5237,7 @@
     "name": "After Life",
     "vote_average": 7.89,
     "vote_count": 1009,
+    "media_type": "tv",
     "release_date": "08/03/2019"
   },
   {
@@ -5036,6 +5261,7 @@
     "name": "The Order",
     "vote_average": 7.611,
     "vote_count": 901,
+    "media_type": "tv",
     "release_date": "07/03/2019"
   },
   {
@@ -5059,6 +5285,7 @@
     "name": "The Umbrella Academy",
     "vote_average": 8.493,
     "vote_count": 9852,
+    "media_type": "tv",
     "release_date": "15/02/2019"
   },
   {
@@ -5081,6 +5308,7 @@
     "name": "Russian Doll",
     "vote_average": 7.375,
     "vote_count": 955,
+    "media_type": "tv",
     "release_date": "01/02/2019"
   },
   {
@@ -5103,6 +5331,7 @@
     "name": "Sex Education",
     "vote_average": 8.216,
     "vote_count": 7728,
+    "media_type": "tv",
     "release_date": "11/01/2019"
   },
   {
@@ -5126,6 +5355,7 @@
     "name": "Watership Down",
     "vote_average": 6.9,
     "vote_count": 82,
+    "media_type": "tv",
     "release_date": "22/12/2018"
   },
   {
@@ -5150,6 +5380,7 @@
     "name": "3Below: Tales of Arcadia",
     "vote_average": 7.467,
     "vote_count": 137,
+    "media_type": "tv",
     "release_date": "21/12/2018"
   },
   {
@@ -5172,6 +5403,7 @@
     "name": "Dirty John",
     "vote_average": 6.826,
     "vote_count": 129,
+    "media_type": "tv",
     "release_date": "25/11/2018"
   },
   {
@@ -5194,6 +5426,7 @@
     "name": "Narcos: Mexico",
     "vote_average": 7.922,
     "vote_count": 1451,
+    "media_type": "tv",
     "release_date": "16/11/2018"
   },
   {
@@ -5216,6 +5449,7 @@
     "name": "The Kominsky Method",
     "vote_average": 7.482,
     "vote_count": 328,
+    "media_type": "tv",
     "release_date": "16/11/2018"
   },
   {
@@ -5241,6 +5475,7 @@
     "name": "She-Ra and the Princesses of Power",
     "vote_average": 8.466,
     "vote_count": 795,
+    "media_type": "tv",
     "release_date": "13/11/2018"
   },
   {
@@ -5264,6 +5499,7 @@
     "name": "Chilling Adventures of Sabrina",
     "vote_average": 8.2,
     "vote_count": 3705,
+    "media_type": "tv",
     "release_date": "26/10/2018"
   },
   {
@@ -5287,6 +5523,7 @@
     "name": "The Rookie",
     "vote_average": 8.529,
     "vote_count": 2930,
+    "media_type": "tv",
     "release_date": "16/10/2018"
   },
   {
@@ -5310,6 +5547,7 @@
     "name": "Titans",
     "vote_average": 7.88,
     "vote_count": 2792,
+    "media_type": "tv",
     "release_date": "12/10/2018"
   },
   {
@@ -5332,6 +5570,7 @@
     "name": "The Haunting of Hill House",
     "vote_average": 8.108,
     "vote_count": 2603,
+    "media_type": "tv",
     "release_date": "12/10/2018"
   },
   {
@@ -5353,6 +5592,7 @@
     "name": "New Amsterdam",
     "vote_average": 8.332,
     "vote_count": 1058,
+    "media_type": "tv",
     "release_date": "25/09/2018"
   },
   {
@@ -5376,6 +5616,7 @@
     "name": "Manifest",
     "vote_average": 7.628,
     "vote_count": 1729,
+    "media_type": "tv",
     "release_date": "24/09/2018"
   },
   {
@@ -5399,6 +5640,7 @@
     "name": "Maniac",
     "vote_average": 7.359,
     "vote_count": 951,
+    "media_type": "tv",
     "release_date": "21/09/2018"
   },
   {
@@ -5424,6 +5666,7 @@
     "name": "Hilda",
     "vote_average": 8.374,
     "vote_count": 210,
+    "media_type": "tv",
     "release_date": "21/09/2018"
   },
   {
@@ -5447,6 +5690,7 @@
     "name": "The Dragon Prince",
     "vote_average": 8.213,
     "vote_count": 680,
+    "media_type": "tv",
     "release_date": "14/09/2018"
   },
   {
@@ -5470,6 +5714,7 @@
     "name": "You",
     "vote_average": 8.017,
     "vote_count": 3784,
+    "media_type": "tv",
     "release_date": "09/09/2018"
   },
   {
@@ -5492,6 +5737,7 @@
     "name": "Paradise PD",
     "vote_average": 7.181,
     "vote_count": 385,
+    "media_type": "tv",
     "release_date": "31/08/2018"
   },
   {
@@ -5516,6 +5762,7 @@
     "name": "Bodyguard",
     "vote_average": 7.767,
     "vote_count": 1061,
+    "media_type": "tv",
     "release_date": "26/08/2018"
   },
   {
@@ -5540,6 +5787,7 @@
     "name": "Disenchantment",
     "vote_average": 7.419,
     "vote_count": 1259,
+    "media_type": "tv",
     "release_date": "17/08/2018"
   },
   {
@@ -5562,6 +5810,7 @@
     "name": "Insatiable",
     "vote_average": 7.764,
     "vote_count": 1682,
+    "media_type": "tv",
     "release_date": "10/08/2018"
   },
   {
@@ -5584,6 +5833,7 @@
     "name": "Yellowstone",
     "vote_average": 8.26,
     "vote_count": 2982,
+    "media_type": "tv",
     "release_date": "20/06/2018"
   },
   {
@@ -5603,6 +5853,7 @@
     "name": "Explained",
     "vote_average": 7.5,
     "vote_count": 123,
+    "media_type": "tv",
     "release_date": "23/05/2018"
   },
   {
@@ -5626,6 +5877,7 @@
     "name": "Cobra Kai",
     "vote_average": 8.205,
     "vote_count": 6809,
+    "media_type": "tv",
     "release_date": "02/05/2018"
   },
   {
@@ -5649,6 +5901,7 @@
     "name": "Lost in Space",
     "vote_average": 7.5,
     "vote_count": 1792,
+    "media_type": "tv",
     "release_date": "13/04/2018"
   },
   {
@@ -5671,6 +5924,7 @@
     "name": "Killing Eve",
     "vote_average": 7.922,
     "vote_count": 1435,
+    "media_type": "tv",
     "release_date": "08/04/2018"
   },
   {
@@ -5692,6 +5946,7 @@
     "name": "Alexa & Katie",
     "vote_average": 8.128,
     "vote_count": 215,
+    "media_type": "tv",
     "release_date": "23/03/2018"
   },
   {
@@ -5713,6 +5968,7 @@
     "name": "On My Block",
     "vote_average": 8.3,
     "vote_count": 673,
+    "media_type": "tv",
     "release_date": "16/03/2018"
   },
   {
@@ -5734,6 +5990,7 @@
     "name": "Nailed It!",
     "vote_average": 7.11,
     "vote_count": 73,
+    "media_type": "tv",
     "release_date": "09/03/2018"
   },
   {
@@ -5756,6 +6013,7 @@
     "name": "Good Girls",
     "vote_average": 7.8,
     "vote_count": 663,
+    "media_type": "tv",
     "release_date": "26/02/2018"
   },
   {
@@ -5778,6 +6036,7 @@
     "name": "The Joel McHale Show with Joel McHale",
     "vote_average": 5.829,
     "vote_count": 38,
+    "media_type": "tv",
     "release_date": "18/02/2018"
   },
   {
@@ -5801,6 +6060,7 @@
     "name": "Troy: Fall of a City",
     "vote_average": 5.7,
     "vote_count": 145,
+    "media_type": "tv",
     "release_date": "17/02/2018"
   },
   {
@@ -5822,6 +6082,7 @@
     "name": "Queer Eye",
     "vote_average": 7.41,
     "vote_count": 150,
+    "media_type": "tv",
     "release_date": "07/02/2018"
   },
   {
@@ -5844,6 +6105,7 @@
     "name": "Altered Carbon",
     "vote_average": 7.648,
     "vote_count": 2174,
+    "media_type": "tv",
     "release_date": "02/02/2018"
   },
   {
@@ -5866,6 +6128,7 @@
     "name": "Derry Girls",
     "vote_average": 8.11,
     "vote_count": 365,
+    "media_type": "tv",
     "release_date": "04/01/2018"
   },
   {
@@ -5888,6 +6151,7 @@
     "name": "Godless",
     "vote_average": 7.734,
     "vote_count": 670,
+    "media_type": "tv",
     "release_date": "22/11/2017"
   },
   {
@@ -5910,6 +6174,7 @@
     "name": "Future Man",
     "vote_average": 7.141,
     "vote_count": 561,
+    "media_type": "tv",
     "release_date": "14/11/2017"
   },
   {
@@ -5932,6 +6197,7 @@
     "name": "Beyond Stranger Things",
     "vote_average": 7.4,
     "vote_count": 117,
+    "media_type": "tv",
     "release_date": "27/10/2017"
   },
   {
@@ -5955,6 +6221,7 @@
     "name": "The End of the F***ing World",
     "vote_average": 8.037,
     "vote_count": 3473,
+    "media_type": "tv",
     "release_date": "24/10/2017"
   },
   {
@@ -5976,6 +6243,7 @@
     "name": "The Day I Met El Chapo: The Kate del Castillo Story",
     "vote_average": 5.8,
     "vote_count": 24,
+    "media_type": "tv",
     "release_date": "20/10/2017"
   },
   {
@@ -5998,6 +6266,7 @@
     "name": "MINDHUNTER",
     "vote_average": 8.108,
     "vote_count": 2821,
+    "media_type": "tv",
     "release_date": "13/10/2017"
   },
   {
@@ -6020,6 +6289,7 @@
     "name": "Dynasty",
     "vote_average": 8.076,
     "vote_count": 893,
+    "media_type": "tv",
     "release_date": "11/10/2017"
   },
   {
@@ -6042,6 +6312,7 @@
     "name": "Big Mouth",
     "vote_average": 7.642,
     "vote_count": 1183,
+    "media_type": "tv",
     "release_date": "29/09/2017"
   },
   {
@@ -6063,6 +6334,7 @@
     "name": "The Good Doctor",
     "vote_average": 8.464,
     "vote_count": 12721,
+    "media_type": "tv",
     "release_date": "25/09/2017"
   },
   {
@@ -6086,6 +6358,7 @@
     "name": "Young Sheldon",
     "vote_average": 8.041,
     "vote_count": 2880,
+    "media_type": "tv",
     "release_date": "25/09/2017"
   },
   {
@@ -6109,6 +6382,7 @@
     "name": "Absentia",
     "vote_average": 7.252,
     "vote_count": 367,
+    "media_type": "tv",
     "release_date": "25/09/2017"
   },
   {
@@ -6131,6 +6405,7 @@
     "name": "Alias Grace",
     "vote_average": 7.202,
     "vote_count": 337,
+    "media_type": "tv",
     "release_date": "25/09/2017"
   },
   {
@@ -6153,6 +6428,7 @@
     "name": "American Vandal",
     "vote_average": 7.4,
     "vote_count": 324,
+    "media_type": "tv",
     "release_date": "15/09/2017"
   },
   {
@@ -6175,6 +6451,7 @@
     "name": "Atypical",
     "vote_average": 8.085,
     "vote_count": 1189,
+    "media_type": "tv",
     "release_date": "11/08/2017"
   },
   {
@@ -6198,6 +6475,7 @@
     "name": "Mr. Mercedes",
     "vote_average": 7.138,
     "vote_count": 362,
+    "media_type": "tv",
     "release_date": "09/08/2017"
   },
   {
@@ -6219,6 +6497,7 @@
     "name": "Wet Hot American Summer: Ten Years Later",
     "vote_average": 6.453,
     "vote_count": 127,
+    "media_type": "tv",
     "release_date": "04/08/2017"
   },
   {
@@ -6241,6 +6520,7 @@
     "name": "The Sinner",
     "vote_average": 7.5,
     "vote_count": 1184,
+    "media_type": "tv",
     "release_date": "02/08/2017"
   },
   {
@@ -6263,6 +6543,7 @@
     "name": "Ozark",
     "vote_average": 8.209,
     "vote_count": 2629,
+    "media_type": "tv",
     "release_date": "21/07/2017"
   },
   {
@@ -6284,6 +6565,7 @@
     "name": "Friends from College",
     "vote_average": 6.181,
     "vote_count": 116,
+    "media_type": "tv",
     "release_date": "14/07/2017"
   },
   {
@@ -6307,6 +6589,7 @@
     "name": "Castlevania",
     "vote_average": 8.249,
     "vote_count": 1487,
+    "media_type": "tv",
     "release_date": "07/07/2017"
   },
   {
@@ -6329,6 +6612,7 @@
     "name": "GLOW",
     "vote_average": 7.28,
     "vote_count": 420,
+    "media_type": "tv",
     "release_date": "23/06/2017"
   },
   {
@@ -6352,6 +6636,7 @@
     "name": "Free Rein",
     "vote_average": 7.885,
     "vote_count": 208,
+    "media_type": "tv",
     "release_date": "22/06/2017"
   },
   {
@@ -6374,6 +6659,7 @@
     "name": "Dear White People",
     "vote_average": 5.949,
     "vote_count": 185,
+    "media_type": "tv",
     "release_date": "28/04/2017"
   },
   {
@@ -6397,6 +6683,7 @@
     "name": "Bill Nye Saves the World",
     "vote_average": 3.75,
     "vote_count": 56,
+    "media_type": "tv",
     "release_date": "21/04/2017"
   },
   {
@@ -6418,6 +6705,7 @@
     "name": "Girlboss",
     "vote_average": 6.6,
     "vote_count": 167,
+    "media_type": "tv",
     "release_date": "21/04/2017"
   },
   {
@@ -6440,6 +6728,7 @@
     "name": "13 Reasons Why",
     "vote_average": 7.555,
     "vote_count": 4455,
+    "media_type": "tv",
     "release_date": "31/03/2017"
   },
   {
@@ -6462,6 +6751,7 @@
     "name": "Anne with an E",
     "vote_average": 8.7,
     "vote_count": 4868,
+    "media_type": "tv",
     "release_date": "19/03/2017"
   },
   {
@@ -6485,6 +6775,7 @@
     "name": "Santa Clarita Diet",
     "vote_average": 7.445,
     "vote_count": 777,
+    "media_type": "tv",
     "release_date": "03/02/2017"
   },
   {
@@ -6508,6 +6799,7 @@
     "name": "Riverdale",
     "vote_average": 8.416,
     "vote_count": 13653,
+    "media_type": "tv",
     "release_date": "26/01/2017"
   },
   {
@@ -6532,6 +6824,7 @@
     "name": "A Series of Unfortunate Events",
     "vote_average": 7.398,
     "vote_count": 985,
+    "media_type": "tv",
     "release_date": "13/01/2017"
   },
   {
@@ -6555,6 +6848,7 @@
     "name": "The Worst Witch",
     "vote_average": 7.366,
     "vote_count": 202,
+    "media_type": "tv",
     "release_date": "11/01/2017"
   },
   {
@@ -6576,6 +6870,7 @@
     "name": "Workin' Moms",
     "vote_average": 7.453,
     "vote_count": 117,
+    "media_type": "tv",
     "release_date": "10/01/2017"
   },
   {
@@ -6597,6 +6892,7 @@
     "name": "One Day at a Time",
     "vote_average": 7.763,
     "vote_count": 186,
+    "media_type": "tv",
     "release_date": "06/01/2017"
   },
   {
@@ -6622,6 +6918,7 @@
     "name": "Trollhunters: Tales of Arcadia",
     "vote_average": 8.449,
     "vote_count": 1129,
+    "media_type": "tv",
     "release_date": "23/12/2016"
   },
   {
@@ -6645,6 +6942,7 @@
     "name": "The OA",
     "vote_average": 7.505,
     "vote_count": 1309,
+    "media_type": "tv",
     "release_date": "16/12/2016"
   },
   {
@@ -6667,6 +6965,7 @@
     "name": "Gilmore Girls: A Year in the Life",
     "vote_average": 7.331,
     "vote_count": 422,
+    "media_type": "tv",
     "release_date": "25/11/2016"
   },
   {
@@ -6689,6 +6988,7 @@
     "name": "Roman Empire",
     "vote_average": 6.958,
     "vote_count": 118,
+    "media_type": "tv",
     "release_date": "11/11/2016"
   },
   {
@@ -6711,6 +7011,7 @@
     "name": "Frontier",
     "vote_average": 6.795,
     "vote_count": 329,
+    "media_type": "tv",
     "release_date": "06/11/2016"
   },
   {
@@ -6733,6 +7034,7 @@
     "name": "The Crown",
     "vote_average": 8.2,
     "vote_count": 2285,
+    "media_type": "tv",
     "release_date": "04/11/2016"
   },
   {
@@ -6756,6 +7058,7 @@
     "name": "Dirk Gently's Holistic Detective Agency",
     "vote_average": 7.7,
     "vote_count": 871,
+    "media_type": "tv",
     "release_date": "22/10/2016"
   },
   {
@@ -6778,6 +7081,7 @@
     "name": "Travelers",
     "vote_average": 7.555,
     "vote_count": 824,
+    "media_type": "tv",
     "release_date": "17/10/2016"
   },
   {
@@ -6799,6 +7103,7 @@
     "name": "Kim's Convenience",
     "vote_average": 7.559,
     "vote_count": 152,
+    "media_type": "tv",
     "release_date": "11/10/2016"
   },
   {
@@ -6822,6 +7127,7 @@
     "name": "Van Helsing",
     "vote_average": 7.041,
     "vote_count": 909,
+    "media_type": "tv",
     "release_date": "23/09/2016"
   },
   {
@@ -6844,6 +7150,7 @@
     "name": "Easy",
     "vote_average": 5.984,
     "vote_count": 160,
+    "media_type": "tv",
     "release_date": "22/09/2016"
   },
   {
@@ -6866,6 +7173,7 @@
     "name": "Designated Survivor",
     "vote_average": 7.136,
     "vote_count": 1078,
+    "media_type": "tv",
     "release_date": "21/09/2016"
   },
   {
@@ -6888,6 +7196,7 @@
     "name": "The Good Place",
     "vote_average": 7.972,
     "vote_count": 1887,
+    "media_type": "tv",
     "release_date": "19/09/2016"
   },
   {
@@ -6910,6 +7219,7 @@
     "name": "StartUp",
     "vote_average": 7.189,
     "vote_count": 244,
+    "media_type": "tv",
     "release_date": "06/09/2016"
   },
   {
@@ -6931,6 +7241,7 @@
     "name": "Chesapeake Shores",
     "vote_average": 7.8,
     "vote_count": 140,
+    "media_type": "tv",
     "release_date": "14/08/2016"
   },
   {
@@ -6952,6 +7263,7 @@
     "name": "The Get Down",
     "vote_average": 7.297,
     "vote_count": 185,
+    "media_type": "tv",
     "release_date": "12/08/2016"
   },
   {
@@ -6975,6 +7287,7 @@
     "name": "Stranger Things",
     "vote_average": 8.581,
     "vote_count": 20516,
+    "media_type": "tv",
     "release_date": "15/07/2016"
   },
   {
@@ -6997,6 +7310,7 @@
     "name": "Queen of the South",
     "vote_average": 7.576,
     "vote_count": 456,
+    "media_type": "tv",
     "release_date": "23/06/2016"
   },
   {
@@ -7019,6 +7333,7 @@
     "name": "Chelsea",
     "vote_average": 5.1,
     "vote_count": 76,
+    "media_type": "tv",
     "release_date": "11/05/2016"
   },
   {
@@ -7041,6 +7356,7 @@
     "name": "Marcella",
     "vote_average": 6.923,
     "vote_count": 267,
+    "media_type": "tv",
     "release_date": "04/04/2016"
   },
   {
@@ -7064,6 +7380,7 @@
     "name": "The Ranch",
     "vote_average": 7.388,
     "vote_count": 269,
+    "media_type": "tv",
     "release_date": "01/04/2016"
   },
   {
@@ -7087,6 +7404,7 @@
     "name": "Slasher",
     "vote_average": 6.721,
     "vote_count": 332,
+    "media_type": "tv",
     "release_date": "04/03/2016"
   },
   {
@@ -7109,6 +7427,7 @@
     "name": "Fuller House",
     "vote_average": 7.394,
     "vote_count": 570,
+    "media_type": "tv",
     "release_date": "26/02/2016"
   },
   {
@@ -7131,6 +7450,7 @@
     "name": "Love",
     "vote_average": 7.127,
     "vote_count": 315,
+    "media_type": "tv",
     "release_date": "19/02/2016"
   },
   {
@@ -7153,6 +7473,7 @@
     "name": "Lucifer",
     "vote_average": 8.437,
     "vote_count": 15283,
+    "media_type": "tv",
     "release_date": "25/01/2016"
   },
   {
@@ -7176,6 +7497,7 @@
     "name": "Numberblocks",
     "vote_average": 9,
     "vote_count": 16,
+    "media_type": "tv",
     "release_date": "23/01/2016"
   },
   {
@@ -7201,6 +7523,7 @@
     "name": "Dawn of the Croods",
     "vote_average": 7.4,
     "vote_count": 96,
+    "media_type": "tv",
     "release_date": "24/12/2015"
   },
   {
@@ -7223,6 +7546,7 @@
     "name": "F is for Family",
     "vote_average": 7.398,
     "vote_count": 422,
+    "media_type": "tv",
     "release_date": "18/12/2015"
   },
   {
@@ -7244,6 +7568,7 @@
     "name": "Superstore",
     "vote_average": 7.538,
     "vote_count": 765,
+    "media_type": "tv",
     "release_date": "30/11/2015"
   },
   {
@@ -7266,6 +7591,7 @@
     "name": "Master of None",
     "vote_average": 7.377,
     "vote_count": 558,
+    "media_type": "tv",
     "release_date": "06/11/2015"
   },
   {
@@ -7289,6 +7615,7 @@
     "name": "The Last Kingdom",
     "vote_average": 8.241,
     "vote_count": 1903,
+    "media_type": "tv",
     "release_date": "10/10/2015"
   },
   {
@@ -7314,6 +7641,7 @@
     "name": "Danger Mouse",
     "vote_average": 6.182,
     "vote_count": 22,
+    "media_type": "tv",
     "release_date": "28/09/2015"
   },
   {
@@ -7341,6 +7669,7 @@
     "name": "PJ Masks",
     "vote_average": 6.412,
     "vote_count": 68,
+    "media_type": "tv",
     "release_date": "18/09/2015"
   },
   {
@@ -7363,6 +7692,7 @@
     "name": "Narcos",
     "vote_average": 8.061,
     "vote_count": 3156,
+    "media_type": "tv",
     "release_date": "28/08/2015"
   },
   {
@@ -7387,6 +7717,7 @@
     "name": "Alvinnn!!! and The Chipmunks",
     "vote_average": 7.3,
     "vote_count": 61,
+    "media_type": "tv",
     "release_date": "03/08/2015"
   },
   {
@@ -7408,6 +7739,7 @@
     "name": "Wet Hot American Summer: First Day of Camp",
     "vote_average": 6.402,
     "vote_count": 220,
+    "media_type": "tv",
     "release_date": "31/07/2015"
   },
   {
@@ -7430,6 +7762,7 @@
     "name": "Glitch",
     "vote_average": 6.731,
     "vote_count": 378,
+    "media_type": "tv",
     "release_date": "09/07/2015"
   },
   {
@@ -7454,6 +7787,7 @@
     "name": "Dragons: Race to the Edge",
     "vote_average": 8.4,
     "vote_count": 464,
+    "media_type": "tv",
     "release_date": "26/06/2015"
   },
   {
@@ -7476,6 +7810,7 @@
     "name": "Sense8",
     "vote_average": 7.739,
     "vote_count": 1787,
+    "media_type": "tv",
     "release_date": "05/06/2015"
   },
   {
@@ -7498,6 +7833,7 @@
     "name": "Between",
     "vote_average": 5.865,
     "vote_count": 148,
+    "media_type": "tv",
     "release_date": "21/05/2015"
   },
   {
@@ -7520,6 +7856,7 @@
     "name": "Grace and Frankie",
     "vote_average": 7.679,
     "vote_count": 357,
+    "media_type": "tv",
     "release_date": "08/05/2015"
   },
   {
@@ -7542,6 +7879,7 @@
     "name": "Younger",
     "vote_average": 6.808,
     "vote_count": 227,
+    "media_type": "tv",
     "release_date": "31/03/2015"
   },
   {
@@ -7563,6 +7901,7 @@
     "name": "Bloodline",
     "vote_average": 7.104,
     "vote_count": 383,
+    "media_type": "tv",
     "release_date": "20/03/2015"
   },
   {
@@ -7584,6 +7923,7 @@
     "name": "Unbreakable Kimmy Schmidt",
     "vote_average": 7.127,
     "vote_count": 600,
+    "media_type": "tv",
     "release_date": "06/03/2015"
   },
   {
@@ -7607,6 +7947,7 @@
     "name": "Good Witch",
     "vote_average": 7.7,
     "vote_count": 271,
+    "media_type": "tv",
     "release_date": "28/02/2015"
   },
   {
@@ -7629,6 +7970,7 @@
     "name": "Better Call Saul",
     "vote_average": 8.704,
     "vote_count": 6164,
+    "media_type": "tv",
     "release_date": "08/02/2015"
   },
   {
@@ -7650,6 +7992,7 @@
     "name": "Schitt's Creek",
     "vote_average": 7.756,
     "vote_count": 642,
+    "media_type": "tv",
     "release_date": "13/01/2015"
   },
   {
@@ -7673,6 +8016,7 @@
     "name": "Talking Tom and Friends",
     "vote_average": 7.1,
     "vote_count": 15,
+    "media_type": "tv",
     "release_date": "23/12/2014"
   },
   {
@@ -7695,6 +8039,7 @@
     "name": "Marco Polo",
     "vote_average": 7.349,
     "vote_count": 579,
+    "media_type": "tv",
     "release_date": "12/12/2014"
   },
   {
@@ -7722,6 +8067,7 @@
     "name": "Odd Squad",
     "vote_average": 6.8,
     "vote_count": 33,
+    "media_type": "tv",
     "release_date": "26/11/2014"
   },
   {
@@ -7746,6 +8092,7 @@
     "name": "Bee and PuppyCat",
     "vote_average": 8.178,
     "vote_count": 59,
+    "media_type": "tv",
     "release_date": "06/11/2014"
   },
   {
@@ -7769,6 +8116,7 @@
     "name": "BoJack Horseman",
     "vote_average": 8.541,
     "vote_count": 2741,
+    "media_type": "tv",
     "release_date": "22/08/2014"
   },
   {
@@ -7791,6 +8139,7 @@
     "name": "Outlander",
     "vote_average": 8.181,
     "vote_count": 2761,
+    "media_type": "tv",
     "release_date": "09/08/2014"
   },
   {
@@ -7812,6 +8161,7 @@
     "name": "Tiny House Nation",
     "vote_average": 6.7,
     "vote_count": 12,
+    "media_type": "tv",
     "release_date": "09/07/2014"
   },
   {
@@ -7836,6 +8186,7 @@
     "name": "Rick and Morty",
     "vote_average": 8.683,
     "vote_count": 10635,
+    "media_type": "tv",
     "release_date": "02/12/2013"
   },
   {
@@ -7859,6 +8210,7 @@
     "name": "The Blacklist",
     "vote_average": 7.637,
     "vote_count": 3474,
+    "media_type": "tv",
     "release_date": "23/09/2013"
   },
   {
@@ -7881,6 +8233,7 @@
     "name": "Brooklyn Nine-Nine",
     "vote_average": 8.218,
     "vote_count": 3810,
+    "media_type": "tv",
     "release_date": "17/09/2013"
   },
   {
@@ -7903,6 +8256,7 @@
     "name": "Peaky Blinders",
     "vote_average": 8.526,
     "vote_count": 10767,
+    "media_type": "tv",
     "release_date": "12/09/2013"
   },
   {
@@ -7924,6 +8278,7 @@
     "name": "Beat Bobby Flay",
     "vote_average": 6.1,
     "vote_count": 27,
+    "media_type": "tv",
     "release_date": "24/08/2013"
   },
   {
@@ -7946,6 +8301,7 @@
     "name": "PAW Patrol",
     "vote_average": 7,
     "vote_count": 797,
+    "media_type": "tv",
     "release_date": "12/08/2013"
   },
   {
@@ -7969,6 +8325,7 @@
     "name": "Orange Is the New Black",
     "vote_average": 7.653,
     "vote_count": 2732,
+    "media_type": "tv",
     "release_date": "11/07/2013"
   },
   {
@@ -7990,6 +8347,7 @@
     "name": "Below Deck",
     "vote_average": 7.3,
     "vote_count": 62,
+    "media_type": "tv",
     "release_date": "01/07/2013"
   },
   {
@@ -8015,6 +8373,7 @@
     "name": "Teen Titans Go!",
     "vote_average": 6.5,
     "vote_count": 684,
+    "media_type": "tv",
     "release_date": "23/04/2013"
   },
   {
@@ -8038,6 +8397,7 @@
     "name": "Vikings",
     "vote_average": 8.1,
     "vote_count": 7456,
+    "media_type": "tv",
     "release_date": "03/03/2013"
   },
   {
@@ -8059,6 +8419,7 @@
     "name": "House of Cards",
     "vote_average": 8.004,
     "vote_count": 3052,
+    "media_type": "tv",
     "release_date": "01/02/2013"
   },
   {
@@ -8081,6 +8442,7 @@
     "name": "Comedians in Cars Getting Coffee",
     "vote_average": 7.088,
     "vote_count": 165,
+    "media_type": "tv",
     "release_date": "19/07/2012"
   },
   {
@@ -8103,6 +8465,7 @@
     "name": "Barbie: Life in the Dreamhouse",
     "vote_average": 7.603,
     "vote_count": 423,
+    "media_type": "tv",
     "release_date": "11/05/2012"
   },
   {
@@ -8128,6 +8491,7 @@
     "name": "Ninjago: Masters of Spinjitzu",
     "vote_average": 8,
     "vote_count": 762,
+    "media_type": "tv",
     "release_date": "11/01/2012"
   },
   {
@@ -8149,6 +8513,7 @@
     "name": "MeatEater",
     "vote_average": 8.1,
     "vote_count": 14,
+    "media_type": "tv",
     "release_date": "01/01/2012"
   },
   {
@@ -8172,6 +8537,7 @@
     "name": "Black Mirror",
     "vote_average": 8.284,
     "vote_count": 5949,
+    "media_type": "tv",
     "release_date": "04/12/2011"
   },
   {
@@ -8193,6 +8559,7 @@
     "name": "Suits",
     "vote_average": 8.222,
     "vote_count": 5514,
+    "media_type": "tv",
     "release_date": "23/06/2011"
   },
   {
@@ -8220,6 +8587,7 @@
     "name": "The Amazing World of Gumball",
     "vote_average": 8.548,
     "vote_count": 1684,
+    "media_type": "tv",
     "release_date": "03/05/2011"
   },
   {
@@ -8242,6 +8610,7 @@
     "name": "Shameless",
     "vote_average": 8.169,
     "vote_count": 3177,
+    "media_type": "tv",
     "release_date": "09/01/2011"
   },
   {
@@ -8265,6 +8634,7 @@
     "name": "The Walking Dead",
     "vote_average": 8.1,
     "vote_count": 17476,
+    "media_type": "tv",
     "release_date": "31/10/2010"
   },
   {
@@ -8286,6 +8656,7 @@
     "name": "The Real Housewives of Beverly Hills",
     "vote_average": 6.3,
     "vote_count": 101,
+    "media_type": "tv",
     "release_date": "14/10/2010"
   },
   {
@@ -8311,6 +8682,7 @@
     "name": "My Little Pony: Friendship Is Magic",
     "vote_average": 8.15,
     "vote_count": 705,
+    "media_type": "tv",
     "release_date": "10/10/2010"
   },
   {
@@ -8333,6 +8705,7 @@
     "name": "The Big C",
     "vote_average": 7.1,
     "vote_count": 111,
+    "media_type": "tv",
     "release_date": "16/08/2010"
   },
   {
@@ -8355,6 +8728,7 @@
     "name": "Victorious",
     "vote_average": 8.21,
     "vote_count": 1690,
+    "media_type": "tv",
     "release_date": "27/03/2010"
   },
   {
@@ -8376,6 +8750,7 @@
     "name": "Parenthood",
     "vote_average": 7.464,
     "vote_count": 168,
+    "media_type": "tv",
     "release_date": "02/03/2010"
   },
   {
@@ -8398,6 +8773,7 @@
     "name": "WWE NXT",
     "vote_average": 6.8,
     "vote_count": 124,
+    "media_type": "tv",
     "release_date": "23/02/2010"
   },
   {
@@ -8419,6 +8795,7 @@
     "name": "Spartacus",
     "vote_average": 8.03,
     "vote_count": 2818,
+    "media_type": "tv",
     "release_date": "22/01/2010"
   },
   {
@@ -8442,6 +8819,7 @@
     "name": "Archer",
     "vote_average": 7.955,
     "vote_count": 1378,
+    "media_type": "tv",
     "release_date": "17/09/2009"
   },
   {
@@ -8464,6 +8842,7 @@
     "name": "The Vampire Diaries",
     "vote_average": 8.305,
     "vote_count": 9462,
+    "media_type": "tv",
     "release_date": "10/09/2009"
   },
   {
@@ -8486,6 +8865,7 @@
     "name": "WWE Superstars",
     "vote_average": 7.3,
     "vote_count": 33,
+    "media_type": "tv",
     "release_date": "16/04/2009"
   },
   {
@@ -8508,6 +8888,7 @@
     "name": "Breaking Bad",
     "vote_average": 8.937,
     "vote_count": 17010,
+    "media_type": "tv",
     "release_date": "20/01/2008"
   },
   {
@@ -8531,6 +8912,7 @@
     "name": "Heartland",
     "vote_average": 8.267,
     "vote_count": 571,
+    "media_type": "tv",
     "release_date": "14/10/2007"
   },
   {
@@ -8553,6 +8935,7 @@
     "name": "Gossip Girl",
     "vote_average": 8.181,
     "vote_count": 2260,
+    "media_type": "tv",
     "release_date": "19/09/2007"
   },
   {
@@ -8577,6 +8960,7 @@
     "name": "Shaun the Sheep",
     "vote_average": 7.646,
     "vote_count": 271,
+    "media_type": "tv",
     "release_date": "05/03/2007"
   },
   {
@@ -8600,6 +8984,7 @@
     "name": "Dexter",
     "vote_average": 8.227,
     "vote_count": 5224,
+    "media_type": "tv",
     "release_date": "01/10/2006"
   },
   {
@@ -8623,6 +9008,7 @@
     "name": "H2O: Just Add Water",
     "vote_average": 7.8,
     "vote_count": 689,
+    "media_type": "tv",
     "release_date": "07/07/2006"
   },
   {
@@ -8646,6 +9032,7 @@
     "name": "Weeds",
     "vote_average": 7.479,
     "vote_count": 952,
+    "media_type": "tv",
     "release_date": "07/08/2005"
   },
   {
@@ -8667,6 +9054,7 @@
     "name": "The Office",
     "vote_average": 8.593,
     "vote_count": 4933,
+    "media_type": "tv",
     "release_date": "24/03/2005"
   },
   {
@@ -8690,6 +9078,7 @@
     "name": "House",
     "vote_average": 8.578,
     "vote_count": 7311,
+    "media_type": "tv",
     "release_date": "16/11/2004"
   },
   {
@@ -8712,6 +9101,7 @@
     "name": "Peppa Pig",
     "vote_average": 6.575,
     "vote_count": 729,
+    "media_type": "tv",
     "release_date": "31/05/2004"
   },
   {
@@ -8733,6 +9123,7 @@
     "name": "Trailer Park Boys",
     "vote_average": 7.708,
     "vote_count": 295,
+    "media_type": "tv",
     "release_date": "22/04/2001"
   },
   {
@@ -8755,6 +9146,7 @@
     "name": "Gilmore Girls",
     "vote_average": 7.905,
     "vote_count": 1202,
+    "media_type": "tv",
     "release_date": "05/10/2000"
   },
   {
@@ -8776,6 +9168,7 @@
     "name": "WWE Friday Night SmackDown",
     "vote_average": 7.5,
     "vote_count": 180,
+    "media_type": "tv",
     "release_date": "29/04/1999"
   },
   {
@@ -8797,6 +9190,7 @@
     "name": "Heartbreak High",
     "vote_average": 6.9,
     "vote_count": 41,
+    "media_type": "tv",
     "release_date": "27/02/1994"
   },
   {
@@ -8820,6 +9214,7 @@
     "name": "Power Rangers",
     "vote_average": 7.1,
     "vote_count": 821,
+    "media_type": "tv",
     "release_date": "28/08/1993"
   },
   {
@@ -8841,6 +9236,7 @@
     "name": "Raw",
     "vote_average": 6.805,
     "vote_count": 349,
+    "media_type": "tv",
     "release_date": "11/01/1993"
   },
   {
@@ -8862,6 +9258,7 @@
     "name": "Seinfeld",
     "vote_average": 8.252,
     "vote_count": 2247,
+    "media_type": "tv",
     "release_date": "05/07/1989"
   },
   {
@@ -8884,6 +9281,7 @@
     "name": "A Different World",
     "vote_average": 7,
     "vote_count": 69,
+    "media_type": "tv",
     "release_date": "24/09/1987"
   },
   {
@@ -8906,6 +9304,7 @@
     "name": "Thomas & Friends",
     "vote_average": 6.796,
     "vote_count": 142,
+    "media_type": "tv",
     "release_date": "09/10/1984"
   },
   {
@@ -8928,6 +9327,7 @@
     "name": "Sesame Street",
     "vote_average": 7.087,
     "vote_count": 275,
+    "media_type": "tv",
     "release_date": "10/11/1969"
   }
 ]

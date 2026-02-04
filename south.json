@@ -16,7 +16,8 @@
     "title": "The Conversation",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -34,7 +35,8 @@
     "title": "Om Shanti Shanti Shantihi",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -53,7 +55,8 @@
     "title": "The Cinephile - Monarchy of Madness",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -72,7 +75,8 @@
     "title": "O’Sey Balamma",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -92,7 +96,8 @@
     "title": "Jaambie",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -110,7 +115,8 @@
     "title": "Cheekatilo",
     "video": false,
     "vote_average": 4.7,
-    "vote_count": 3
+    "vote_count": 3,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -129,7 +135,8 @@
     "title": "Sandhya Nama Upasate",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -149,7 +156,8 @@
     "title": "Gamer",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -169,7 +177,8 @@
     "title": "Nari Nari Naduma Murari",
     "video": false,
     "vote_average": 5.8,
-    "vote_count": 4
+    "vote_count": 4,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -188,7 +197,8 @@
     "title": "Anaganaga Oka Raju",
     "video": false,
     "vote_average": 7.167,
-    "vote_count": 6
+    "vote_count": 6,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -208,7 +218,8 @@
     "title": "Bhartha Mahasayulaku Wignyapthi",
     "video": false,
     "vote_average": 5.667,
-    "vote_count": 3
+    "vote_count": 3,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -228,7 +239,8 @@
     "title": "Mana ShankaraVaraPrasad Garu",
     "video": false,
     "vote_average": 6.857,
-    "vote_count": 14
+    "vote_count": 14,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -248,7 +260,8 @@
     "title": "The Rajasaab",
     "video": false,
     "vote_average": 6.2,
-    "vote_count": 15
+    "vote_count": 15,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -264,7 +277,8 @@
     "title": "Nilakanta",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -283,7 +297,8 @@
     "title": "Sakkani Bomma",
     "video": false,
     "vote_average": 9,
-    "vote_count": 1
+    "vote_count": 1,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -302,7 +317,8 @@
     "title": "Psych Siddhartha",
     "video": false,
     "vote_average": 5,
-    "vote_count": 1
+    "vote_count": 1,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -323,7 +339,8 @@
     "title": "11:11",
     "video": false,
     "vote_average": 5,
-    "vote_count": 1
+    "vote_count": 1,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -343,7 +360,8 @@
     "title": "Patang",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -362,7 +380,8 @@
     "title": "Eesha",
     "video": false,
     "vote_average": 2,
-    "vote_count": 1
+    "vote_count": 1,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -382,7 +401,8 @@
     "title": "Shambhala",
     "video": false,
     "vote_average": 6,
-    "vote_count": 3
+    "vote_count": 3,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -401,7 +421,8 @@
     "title": "CHAMPION",
     "video": false,
     "vote_average": 6,
-    "vote_count": 3
+    "vote_count": 3,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -420,7 +441,8 @@
     "title": "Dhandoraa",
     "video": false,
     "vote_average": 7.5,
-    "vote_count": 2
+    "vote_count": 2,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -436,7 +458,8 @@
     "title": "Mario",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -452,7 +475,8 @@
     "title": "Sahakutumbaanam",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -470,7 +494,8 @@
     "title": "Divya Drushti",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -490,7 +515,8 @@
     "title": "Gurram Paapi Reddy",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -511,7 +537,8 @@
     "title": "Mowgli",
     "video": false,
     "vote_average": 6,
-    "vote_count": 2
+    "vote_count": 2,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -529,7 +556,8 @@
     "title": "Veena Saraswathi",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -548,7 +576,8 @@
     "title": "Drive",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -567,7 +596,8 @@
     "title": "Akhanda 2: Thaandavam",
     "video": false,
     "vote_average": 7.2,
-    "vote_count": 8
+    "vote_count": 8,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -585,7 +615,8 @@
     "title": "Oo Banti gaadi Katha",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -605,7 +636,8 @@
     "title": "Not All Movies Are the Same: Dual",
     "video": false,
     "vote_average": 6,
-    "vote_count": 1
+    "vote_count": 1,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -626,7 +658,8 @@
     "title": "Andhra King Taluka",
     "video": false,
     "vote_average": 6.375,
-    "vote_count": 8
+    "vote_count": 8,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -642,7 +675,8 @@
     "title": "Itlu Me Yedhava",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -661,7 +695,8 @@
     "title": "Mufti Police",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -681,7 +716,8 @@
     "title": "Paanch Minar",
     "video": false,
     "vote_average": 7.5,
-    "vote_count": 2
+    "vote_count": 2,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -701,7 +737,8 @@
     "title": "Raju Weds Rambai",
     "video": false,
     "vote_average": 4.222,
-    "vote_count": 9
+    "vote_count": 9,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -720,7 +757,8 @@
     "title": "12A Railway Colony",
     "video": false,
     "vote_average": 5,
-    "vote_count": 2
+    "vote_count": 2,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -740,7 +778,8 @@
     "title": "Premante",
     "video": false,
     "vote_average": 6,
-    "vote_count": 1
+    "vote_count": 1,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -756,7 +795,8 @@
     "title": "Janata Bar",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -774,7 +814,8 @@
     "title": "EGO",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -792,7 +833,8 @@
     "title": "Bra",
     "video": false,
     "vote_average": 10,
-    "vote_count": 1
+    "vote_count": 1,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -811,7 +853,8 @@
     "title": "Eighth Hill - A Sacred Revolution: Tirupati's Dream without Plastic",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -829,7 +872,8 @@
     "title": "Jigris",
     "video": false,
     "vote_average": 10,
-    "vote_count": 1
+    "vote_count": 1,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -849,7 +893,8 @@
     "title": "Santhana Prapthirasthu",
     "video": false,
     "vote_average": 5.5,
-    "vote_count": 2
+    "vote_count": 2,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -868,7 +913,8 @@
     "title": "Enuguthondam Ghatikachalam",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -889,7 +935,8 @@
     "title": "Shutter : The Final Chapter",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -908,7 +955,8 @@
     "title": "Premistunnaa",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -924,7 +972,8 @@
     "title": "Chiranjeeva",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -943,7 +992,8 @@
     "title": "The Great Pre-Wedding Show",
     "video": false,
     "vote_average": 6,
-    "vote_count": 1
+    "vote_count": 1,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -963,7 +1013,8 @@
     "title": "Jatadhara",
     "video": false,
     "vote_average": 4.2,
-    "vote_count": 4
+    "vote_count": 4,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -982,7 +1033,8 @@
     "title": "The Girlfriend",
     "video": false,
     "vote_average": 6.5,
-    "vote_count": 10
+    "vote_count": 10,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1002,7 +1054,8 @@
     "title": "Mass Jathara",
     "video": false,
     "vote_average": 5,
-    "vote_count": 3
+    "vote_count": 3,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1018,7 +1071,8 @@
     "title": "Cuckoo Sings Spring, Unheard",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1037,7 +1091,8 @@
     "title": "Bāhubali: The Epic",
     "video": false,
     "vote_average": 6.056,
-    "vote_count": 27
+    "vote_count": 27,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1057,7 +1112,8 @@
     "title": "Men will be Men",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1076,7 +1132,8 @@
     "title": "Dharmavaram",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1094,7 +1151,8 @@
     "title": "Flashlight",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1112,7 +1170,8 @@
     "title": "Erra Mandaram",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1131,7 +1190,8 @@
     "title": "K-Ramp",
     "video": false,
     "vote_average": 4,
-    "vote_count": 4
+    "vote_count": 4,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1150,7 +1210,8 @@
     "title": "Mithra Mandali",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1168,7 +1229,8 @@
     "title": "Andhela Ravamidhi",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1187,7 +1249,8 @@
     "title": "Sasivadane",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1207,7 +1270,8 @@
     "title": "Trikaali",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1227,7 +1291,8 @@
     "title": "Beauty",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1246,7 +1311,8 @@
     "title": "Beauty",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1265,7 +1331,8 @@
     "title": "Ilanti Cinema Meereppudu Chusundaru",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1281,7 +1348,8 @@
     "title": "Ivan's Day",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1302,7 +1370,8 @@
     "title": "Kishkindhapuri",
     "video": false,
     "vote_average": 5.8,
-    "vote_count": 7
+    "vote_count": 7,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1322,7 +1391,8 @@
     "title": "Mirai",
     "video": false,
     "vote_average": 6.433,
-    "vote_count": 15
+    "vote_count": 15,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1342,7 +1412,8 @@
     "title": "Little Hearts",
     "video": false,
     "vote_average": 7.364,
-    "vote_count": 11
+    "vote_count": 11,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1361,7 +1432,8 @@
     "title": "Ghaati",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1381,7 +1453,8 @@
     "title": "Daksha: The Deadly Conspiracy",
     "video": false,
     "vote_average": 4,
-    "vote_count": 1
+    "vote_count": 1,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1399,7 +1472,8 @@
     "title": "Arjun Chakravarthy: Journey of an Unsung Champion",
     "video": false,
     "vote_average": 8,
-    "vote_count": 2
+    "vote_count": 2,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1418,7 +1492,8 @@
     "title": "Kanya Kumari",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1437,7 +1512,8 @@
     "title": "Sundarakanda",
     "video": false,
     "vote_average": 6,
-    "vote_count": 3
+    "vote_count": 3,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1456,7 +1532,8 @@
     "title": "Meghalu Cheppina Prema Katha",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1474,7 +1551,8 @@
     "title": "Paradha",
     "video": false,
     "vote_average": 7,
-    "vote_count": 2
+    "vote_count": 2,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1493,7 +1571,8 @@
     "title": "Bakasura Restaurant",
     "video": false,
     "vote_average": 7.5,
-    "vote_count": 2
+    "vote_count": 2,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1511,7 +1590,8 @@
     "title": "Mathru",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1529,7 +1609,8 @@
     "title": "Balu Gadi Love Story",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1548,7 +1629,8 @@
     "title": "Forever (Telugu)",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1564,7 +1646,8 @@
     "title": "ALL THE BEST DILEEP",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1582,7 +1665,8 @@
     "title": "Nee Bandinaipoyya",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1601,7 +1685,8 @@
     "title": "Thank You Dear",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1617,7 +1702,8 @@
     "title": "Ranganaayaki",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1637,7 +1723,8 @@
     "title": "Kingdom",
     "video": false,
     "vote_average": 6.75,
-    "vote_count": 24
+    "vote_count": 24,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1655,7 +1742,8 @@
     "title": "Summer breeze",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1675,7 +1763,8 @@
     "title": "Hari Hara Veera Mallu: Part 1 – Sword vs Spirit",
     "video": false,
     "vote_average": 6.5,
-    "vote_count": 6
+    "vote_count": 6,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1694,7 +1783,8 @@
     "title": "Kothapallilo Okappudu",
     "video": false,
     "vote_average": 6,
-    "vote_count": 1
+    "vote_count": 1,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1713,7 +1803,8 @@
     "title": "Junior",
     "video": false,
     "vote_average": 4.2,
-    "vote_count": 3
+    "vote_count": 3,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1733,7 +1824,8 @@
     "title": "Police Vari Heccharika",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1752,7 +1844,8 @@
     "title": "Virgin Boys",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1772,7 +1865,8 @@
     "title": "The 100",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1791,7 +1885,8 @@
     "title": "Oh Bhama Ayyo Rama",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1812,7 +1907,8 @@
     "title": "Lopaliki ra chepta",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1831,7 +1927,8 @@
     "title": "Show Time",
     "video": false,
     "vote_average": 4,
-    "vote_count": 1
+    "vote_count": 1,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1851,7 +1948,8 @@
     "title": "Solo Boy",
     "video": false,
     "vote_average": 7,
-    "vote_count": 1
+    "vote_count": 1,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1870,7 +1968,8 @@
     "title": "Thammudu",
     "video": false,
     "vote_average": 6.2,
-    "vote_count": 5
+    "vote_count": 5,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1889,7 +1988,8 @@
     "title": "Uppu Kappurambu",
     "video": false,
     "vote_average": 6.4,
-    "vote_count": 5
+    "vote_count": 5,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1909,7 +2009,8 @@
     "title": "Kannappa",
     "video": false,
     "vote_average": 4.8,
-    "vote_count": 8
+    "vote_count": 8,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1928,7 +2029,8 @@
     "title": "8 Vasantalu",
     "video": false,
     "vote_average": 7.8,
-    "vote_count": 5
+    "vote_count": 5,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1948,7 +2050,8 @@
     "title": "Kuberaa",
     "video": false,
     "vote_average": 7.2,
-    "vote_count": 16
+    "vote_count": 16,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1964,7 +2067,8 @@
     "title": "Ontarivaadini Nenu",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -1984,7 +2088,8 @@
     "title": "Bhaag!!",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2003,7 +2108,8 @@
     "title": "Gamblers",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2022,7 +2128,8 @@
     "title": "Badmashulu",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2041,7 +2148,8 @@
     "title": "Ghatikachalam",
     "video": false,
     "vote_average": 5.8,
-    "vote_count": 3
+    "vote_count": 3,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2061,7 +2169,8 @@
     "title": "Bhairavam",
     "video": false,
     "vote_average": 3,
-    "vote_count": 1
+    "vote_count": 1,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2082,7 +2191,8 @@
     "title": "Oka Brundavanam",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2101,7 +2211,8 @@
     "title": "Vaibhavam",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2121,7 +2232,8 @@
     "title": "Veeraaraju 1991",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2139,7 +2251,8 @@
     "title": "Lovedale",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2158,7 +2271,8 @@
     "title": "23 (Iravai Moodu)",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2177,7 +2291,8 @@
     "title": "Anaganaga",
     "video": false,
     "vote_average": 7.9,
-    "vote_count": 4
+    "vote_count": 4,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2196,7 +2311,8 @@
     "title": "6 Journey",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2215,7 +2331,8 @@
     "title": "Blind Spot",
     "video": false,
     "vote_average": 4.5,
-    "vote_count": 2
+    "vote_count": 2,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2234,7 +2351,8 @@
     "title": "#Single",
     "video": false,
     "vote_average": 5.556,
-    "vote_count": 9
+    "vote_count": 9,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2253,7 +2371,8 @@
     "title": "Subham",
     "video": false,
     "vote_average": 7,
-    "vote_count": 9
+    "vote_count": 9,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2273,7 +2392,8 @@
     "title": "HIT: The Third Case",
     "video": false,
     "vote_average": 6.967,
-    "vote_count": 45
+    "vote_count": 45,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2293,7 +2413,8 @@
     "title": "Sahanam",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2311,7 +2432,8 @@
     "title": "Relax Meera",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2331,7 +2453,8 @@
     "title": "Diksuchi",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2350,7 +2473,8 @@
     "title": "Mana Iddari Prema Katha",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2369,7 +2493,8 @@
     "title": "Chaurya Paatam",
     "video": false,
     "vote_average": 4,
-    "vote_count": 2
+    "vote_count": 2,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2389,7 +2514,8 @@
     "title": "Sarangapani Jathakam",
     "video": false,
     "vote_average": 7,
-    "vote_count": 2
+    "vote_count": 2,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2408,7 +2534,8 @@
     "title": "Suryapet Junction",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2426,7 +2553,8 @@
     "title": "Jagamerigina Satyam",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2445,7 +2573,8 @@
     "title": "Dear Uma",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2465,7 +2594,8 @@
     "title": "Arjun S/O Vyjayanthi",
     "video": false,
     "vote_average": 6.625,
-    "vote_count": 4
+    "vote_count": 4,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2485,7 +2615,8 @@
     "title": "Odela 2",
     "video": false,
     "vote_average": 6.2,
-    "vote_count": 12
+    "vote_count": 12,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2503,7 +2634,8 @@
     "title": "Akkada Ammai Ikkada Abbai",
     "video": false,
     "vote_average": 5,
-    "vote_count": 1
+    "vote_count": 1,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2523,7 +2655,8 @@
     "title": "Jack",
     "video": false,
     "vote_average": 7.143,
-    "vote_count": 7
+    "vote_count": 7,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2542,7 +2675,8 @@
     "title": "Andhakaaram",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2562,7 +2696,8 @@
     "title": "Saaree",
     "video": false,
     "vote_average": 6,
-    "vote_count": 1
+    "vote_count": 1,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2583,7 +2718,8 @@
     "title": "LYF - Love Your Father",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2603,7 +2739,8 @@
     "title": "28 Degree Celsius",
     "video": false,
     "vote_average": 5,
-    "vote_count": 2
+    "vote_count": 2,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2623,7 +2760,8 @@
     "title": "Madhushala",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2641,7 +2779,8 @@
     "title": "Robinhood",
     "video": false,
     "vote_average": 5.813,
-    "vote_count": 8
+    "vote_count": 8,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2661,7 +2800,8 @@
     "title": "(MAD)²",
     "video": false,
     "vote_average": 7.4,
-    "vote_count": 9
+    "vote_count": 9,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2677,7 +2817,8 @@
     "title": "Kaalamega Karigindhi..?",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2697,7 +2838,8 @@
     "title": "Anaganaga Australia Lo",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2713,7 +2855,8 @@
     "title": "Pelli Kaani Prasad",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2733,7 +2876,8 @@
     "title": "Tuk Tuk",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2751,7 +2895,8 @@
     "title": "FIGMENT",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2770,7 +2915,8 @@
     "title": "Mounaraagam",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2790,7 +2936,8 @@
     "title": "Court: State vs. A Nobody",
     "video": false,
     "vote_average": 7.545,
-    "vote_count": 22
+    "vote_count": 22,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2809,7 +2956,8 @@
     "title": "Dilruba",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2827,7 +2975,8 @@
     "title": "W/O Anirvesh",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2848,7 +2997,8 @@
     "title": "Jigel",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2864,7 +3014,8 @@
     "title": "Legally Veer",
     "video": false,
     "vote_average": 1,
-    "vote_count": 1
+    "vote_count": 1,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2883,7 +3034,8 @@
     "title": "14 Days (Girlfriend Intlo)",
     "video": false,
     "vote_average": 5.7,
-    "vote_count": 3
+    "vote_count": 3,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2902,7 +3054,8 @@
     "title": "Shivangi",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2918,7 +3071,8 @@
     "title": "Baapu - A Father's Story",
     "video": false,
     "vote_average": 6,
-    "vote_count": 1
+    "vote_count": 1,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2937,7 +3091,8 @@
     "title": "Hitman’s Holiday",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2955,7 +3110,8 @@
     "title": "Aarit",
     "video": false,
     "vote_average": 10,
-    "vote_count": 1
+    "vote_count": 1,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2974,7 +3130,8 @@
     "title": "Guard",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -2990,7 +3147,8 @@
     "title": "Takita Tadimi Tandana",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3010,7 +3168,8 @@
     "title": "Mazaka",
     "video": false,
     "vote_average": 7,
-    "vote_count": 6
+    "vote_count": 6,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3026,7 +3185,8 @@
     "title": "The Devil's Chair",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3045,7 +3205,8 @@
     "title": "Ramam Raghavam",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3065,7 +3226,8 @@
     "title": "Nuvvu Nenu",
     "video": false,
     "vote_average": 10,
-    "vote_count": 2
+    "vote_count": 2,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3083,7 +3245,8 @@
     "title": "Thala",
     "video": false,
     "vote_average": 6,
-    "vote_count": 1
+    "vote_count": 1,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3102,7 +3265,8 @@
     "title": "Brahma Anandam",
     "video": false,
     "vote_average": 5.75,
-    "vote_count": 2
+    "vote_count": 2,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3121,7 +3285,8 @@
     "title": "Laila",
     "video": false,
     "vote_average": 5.2,
-    "vote_count": 6
+    "vote_count": 6,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3140,7 +3305,8 @@
     "title": "Bhavani Ward 1997",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3156,7 +3322,8 @@
     "title": "Oka Pathakam Prakaaram",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3177,7 +3344,8 @@
     "title": "Thandel",
     "video": false,
     "vote_average": 6.1,
-    "vote_count": 14
+    "vote_count": 14,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3193,7 +3361,8 @@
     "title": "Punishment",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3212,7 +3381,8 @@
     "title": "Love Is In The Vamsham",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3228,7 +3398,8 @@
     "title": "Racharikam",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3247,7 +3418,8 @@
     "title": "Gopi Galla Goa Trip",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3266,7 +3438,8 @@
     "title": "Coffee With A Killer",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3282,7 +3455,8 @@
     "title": "Pothugadda",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3302,7 +3476,8 @@
     "title": "Ponton's Heart",
     "video": false,
     "vote_average": 7,
-    "vote_count": 1
+    "vote_count": 1,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3321,7 +3496,8 @@
     "title": "BHEEM-A",
     "video": false,
     "vote_average": 8,
-    "vote_count": 1
+    "vote_count": 1,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3339,7 +3515,8 @@
     "title": "Thalli Manasu",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3358,7 +3535,8 @@
     "title": "Hathya",
     "video": false,
     "vote_average": 5,
-    "vote_count": 1
+    "vote_count": 1,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3377,7 +3555,8 @@
     "title": "Gandhi Tatha Chettu",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3396,7 +3575,8 @@
     "title": "Wife Off",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3415,7 +3595,8 @@
     "title": "Mokshapatam",
     "video": false,
     "vote_average": 7,
-    "vote_count": 1
+    "vote_count": 1,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3434,7 +3615,8 @@
     "title": "Sankranthiki Vasthunam",
     "video": false,
     "vote_average": 5.7,
-    "vote_count": 11
+    "vote_count": 11,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3452,7 +3634,8 @@
     "title": "Daaku Maharaaj",
     "video": false,
     "vote_average": 5.6,
-    "vote_count": 16
+    "vote_count": 16,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3471,7 +3654,8 @@
     "title": "Neeli Megha Shyama",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3490,7 +3674,8 @@
     "title": "Game Changer",
     "video": false,
     "vote_average": 4.705,
-    "vote_count": 22
+    "vote_count": 22,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3508,7 +3693,8 @@
     "title": "Friday",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3527,7 +3713,8 @@
     "title": "AVADHI THE TALE OF LOVE",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3547,7 +3734,8 @@
     "title": "Runchod Das",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3565,7 +3753,8 @@
     "title": "Did You Mean It?",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3583,7 +3772,8 @@
     "title": "Drinker Sai",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3601,7 +3791,8 @@
     "title": "Srikakulam SherlockHolmes",
     "video": false,
     "vote_average": 6,
-    "vote_count": 3
+    "vote_count": 3,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3619,7 +3810,8 @@
     "title": "Chivaraku Migiledi",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3637,7 +3829,8 @@
     "title": "RRR: Behind & Beyond",
     "video": false,
     "vote_average": 7,
-    "vote_count": 6
+    "vote_count": 6,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3656,7 +3849,8 @@
     "title": "Bachhala Malli",
     "video": false,
     "vote_average": 4.5,
-    "vote_count": 2
+    "vote_count": 2,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3675,7 +3869,8 @@
     "title": "Oka Manchi Prema Katha",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3693,7 +3888,8 @@
     "title": "Leela Vinodam",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3713,7 +3909,8 @@
     "title": "Fear",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3729,7 +3926,8 @@
     "title": "Thodu Dongalu",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3749,7 +3947,8 @@
     "title": "A Goa Tripp...",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3767,7 +3966,8 @@
     "title": "SORRY",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3788,7 +3988,8 @@
     "title": "Pushpa 2 - The Rule",
     "video": false,
     "vote_average": 6.337,
-    "vote_count": 129
+    "vote_count": 129,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3808,7 +4009,8 @@
     "title": "Roti Kapda Romance",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3828,7 +4030,8 @@
     "title": "Mandira",
     "video": false,
     "vote_average": 1,
-    "vote_count": 1
+    "vote_count": 1,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3847,7 +4050,8 @@
     "title": "Keshava Chandra Ramavath (KCR)",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3867,7 +4071,8 @@
     "title": "Devaki Nandana Vasudeva",
     "video": false,
     "vote_average": 7,
-    "vote_count": 4
+    "vote_count": 4,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3886,7 +4091,8 @@
     "title": "Mechanic Rocky",
     "video": false,
     "vote_average": 5.2,
-    "vote_count": 5
+    "vote_count": 5,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3906,7 +4112,8 @@
     "title": "Zebra",
     "video": false,
     "vote_average": 7,
-    "vote_count": 5
+    "vote_count": 5,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3922,7 +4129,8 @@
     "title": "Repati Velugu",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3940,7 +4148,8 @@
     "title": "Drama Kaiku Mama",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3959,7 +4168,8 @@
     "title": "Gatham",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3977,7 +4187,8 @@
     "title": "Chalaname Chitram",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -3995,7 +4206,8 @@
     "title": "Lilly",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4013,7 +4225,8 @@
     "title": "Avasarama? Ahamkarama!",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4032,7 +4245,8 @@
     "title": "Matka",
     "video": false,
     "vote_average": 5.2,
-    "vote_count": 10
+    "vote_count": 10,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4051,7 +4265,8 @@
     "title": "AATMA RAAVE",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4070,7 +4285,8 @@
     "title": "Eesaraina!?",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4086,7 +4302,8 @@
     "title": "Jathara",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4102,7 +4319,8 @@
     "title": "Jithender Reddy",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4118,7 +4336,8 @@
     "title": "Dhoom Dhaam",
     "video": false,
     "vote_average": 4,
-    "vote_count": 2
+    "vote_count": 2,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4138,7 +4357,8 @@
     "title": "Appudo Ippudo Eppudo",
     "video": false,
     "vote_average": 4,
-    "vote_count": 2
+    "vote_count": 2,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4154,7 +4374,8 @@
     "title": "Telisinavallu",
     "video": false,
     "vote_average": 6,
-    "vote_count": 1
+    "vote_count": 1,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4173,7 +4394,8 @@
     "title": "KA",
     "video": false,
     "vote_average": 6.5,
-    "vote_count": 6
+    "vote_count": 6,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4193,7 +4415,8 @@
     "title": "Lucky Baskhar",
     "video": false,
     "vote_average": 7.565,
-    "vote_count": 69
+    "vote_count": 69,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4211,7 +4434,8 @@
     "title": "Pushpak Vimaan",
     "video": false,
     "vote_average": 9,
-    "vote_count": 1
+    "vote_count": 1,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4229,7 +4453,8 @@
     "title": "Narudi Brathuku Natana",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4247,7 +4472,8 @@
     "title": "Laggam",
     "video": false,
     "vote_average": 5,
-    "vote_count": 1
+    "vote_count": 1,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4266,7 +4492,8 @@
     "title": "Pottel",
     "video": false,
     "vote_average": 6,
-    "vote_count": 1
+    "vote_count": 1,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4284,7 +4511,8 @@
     "title": "Cotton Candy: Prelims (volume 1)",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4303,7 +4531,8 @@
     "title": "AGNISOMA - Embers of Friendship",
     "video": false,
     "vote_average": 10,
-    "vote_count": 1
+    "vote_count": 1,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4321,7 +4550,8 @@
     "title": "1980 Lo Radhekrishna",
     "video": false,
     "vote_average": 5,
-    "vote_count": 1
+    "vote_count": 1,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4340,7 +4570,8 @@
     "title": "Kallu Compound 1995",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4359,7 +4590,8 @@
     "title": "Love Reddy",
     "video": false,
     "vote_average": 4,
-    "vote_count": 1
+    "vote_count": 1,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4377,7 +4609,8 @@
     "title": "Janaka Aithe Ganaka",
     "video": false,
     "vote_average": 6.5,
-    "vote_count": 2
+    "vote_count": 2,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4395,7 +4628,8 @@
     "title": "Maa Nanna Superhero",
     "video": false,
     "vote_average": 7,
-    "vote_count": 2
+    "vote_count": 2,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4414,7 +4648,8 @@
     "title": "Viswam",
     "video": false,
     "vote_average": 3,
-    "vote_count": 2
+    "vote_count": 2,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4432,7 +4667,8 @@
     "title": "Utsavam",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4451,7 +4687,8 @@
     "title": "Dr. A. P. J. Abdul Kalam",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4467,7 +4704,8 @@
     "title": "Tatva",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4483,7 +4721,8 @@
     "title": "Hell is People",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4501,7 +4740,8 @@
     "title": "Pravasa Bharatheeyudu",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4519,7 +4759,8 @@
     "title": "Kali",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4538,7 +4779,8 @@
     "title": "Ramnagar Bunny",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4556,7 +4798,8 @@
     "title": "Balu Gani Talkies",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4575,7 +4818,8 @@
     "title": "Swag",
     "video": false,
     "vote_average": 6,
-    "vote_count": 3
+    "vote_count": 3,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4594,7 +4838,8 @@
     "title": "RTI",
     "video": false,
     "vote_average": 8.4,
-    "vote_count": 13
+    "vote_count": 13,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4613,7 +4858,8 @@
     "title": "Devara: Part 1",
     "video": false,
     "vote_average": 6.91,
-    "vote_count": 210
+    "vote_count": 210,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4631,7 +4877,8 @@
     "title": "BITCH",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4647,7 +4894,8 @@
     "title": "100 Crores",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4663,7 +4911,8 @@
     "title": "Sopathulu",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4683,7 +4932,8 @@
     "title": "Pailam Pilaga",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4702,7 +4952,8 @@
     "title": "Gorre Puranam",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4722,7 +4973,8 @@
     "title": "Hide N Seek",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4738,7 +4990,8 @@
     "title": "#Lifestories",
     "video": false,
     "vote_average": 5,
-    "vote_count": 1
+    "vote_count": 1,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4757,7 +5010,8 @@
     "title": "Make a Wish",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4777,7 +5031,8 @@
     "title": "Mathu Vadalara 2",
     "video": false,
     "vote_average": 6.2,
-    "vote_count": 5
+    "vote_count": 5,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4795,7 +5050,8 @@
     "title": "Kalinga",
     "video": false,
     "vote_average": 4,
-    "vote_count": 3
+    "vote_count": 3,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4813,7 +5069,8 @@
     "title": "Shattered Illusions",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4832,7 +5089,8 @@
     "title": "Uruku Patela",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4848,7 +5106,8 @@
     "title": "Speed 220",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4867,7 +5126,8 @@
     "title": "35 - Chinna Katha Kaadu",
     "video": false,
     "vote_average": 8.4,
-    "vote_count": 5
+    "vote_count": 5,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4886,7 +5146,8 @@
     "title": "Sarangadhariya",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4905,7 +5166,8 @@
     "title": "Saripodhaa Sanivaaram",
     "video": false,
     "vote_average": 6.5,
-    "vote_count": 28
+    "vote_count": 28,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4923,7 +5185,8 @@
     "title": "Brahmavaram PS Paridilo",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4941,7 +5204,8 @@
     "title": "Parakramam",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4959,7 +5223,8 @@
     "title": "Maruthi Nagar Subramanyam",
     "video": false,
     "vote_average": 6.5,
-    "vote_count": 1
+    "vote_count": 1,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4977,7 +5242,8 @@
     "title": "Aay",
     "video": false,
     "vote_average": 6.25,
-    "vote_count": 6
+    "vote_count": 6,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -4996,7 +5262,8 @@
     "title": "EVOL",
     "video": false,
     "vote_average": 3.5,
-    "vote_count": 4
+    "vote_count": 4,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5016,7 +5283,8 @@
     "title": "Double iSmart",
     "video": false,
     "vote_average": 3.955,
-    "vote_count": 11
+    "vote_count": 11,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5036,7 +5304,8 @@
     "title": "Mr Bachchan",
     "video": false,
     "vote_average": 2.8,
-    "vote_count": 4
+    "vote_count": 4,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5056,7 +5325,8 @@
     "title": "Veeranjaneyulu Vihara Yatra",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5074,7 +5344,8 @@
     "title": "Committee Kurrollu",
     "video": false,
     "vote_average": 6.6,
-    "vote_count": 4
+    "vote_count": 4,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5092,7 +5363,8 @@
     "title": "Simbaa",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5108,7 +5380,8 @@
     "title": "Lorry Chapter 1",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5127,7 +5400,8 @@
     "title": "Usha Parinayam",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5147,7 +5421,8 @@
     "title": "Alanaati Ramachandrudu",
     "video": false,
     "vote_average": 7,
-    "vote_count": 1
+    "vote_count": 1,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5166,7 +5441,8 @@
     "title": "Viraaji",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5186,7 +5462,8 @@
     "title": "Average Student Nani",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5204,7 +5481,8 @@
     "title": "Neramu Siksha",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5223,7 +5501,8 @@
     "title": "Buddy",
     "video": false,
     "vote_average": 3.5,
-    "vote_count": 2
+    "vote_count": 2,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5242,7 +5521,8 @@
     "title": "Tiragabadara Saami",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5262,7 +5542,8 @@
     "title": "Shivam Bhaje",
     "video": false,
     "vote_average": 7,
-    "vote_count": 1
+    "vote_count": 1,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5281,7 +5562,8 @@
     "title": "Operation Raavan",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5297,7 +5579,8 @@
     "title": "Atu Nuvve Itu Nuvve",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5317,7 +5600,8 @@
     "title": "Purushothamudu",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5333,7 +5617,8 @@
     "title": "The Birthday Boy",
     "video": false,
     "vote_average": 6.5,
-    "vote_count": 2
+    "vote_count": 2,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5351,7 +5636,8 @@
     "title": "Pekamedalu",
     "video": false,
     "vote_average": 7,
-    "vote_count": 1
+    "vote_count": 1,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5370,7 +5656,8 @@
     "title": "Darling",
     "video": false,
     "vote_average": 5,
-    "vote_count": 1
+    "vote_count": 1,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5386,7 +5673,8 @@
     "title": "Repair",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5405,7 +5693,8 @@
     "title": "THE GRAY",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5424,7 +5713,8 @@
     "title": "Aham Reboot",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5445,7 +5735,8 @@
     "title": "Kalki 2898-AD",
     "video": false,
     "vote_average": 6.43,
-    "vote_count": 164
+    "vote_count": 164,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5461,7 +5752,8 @@
     "title": "Sandeham",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5477,7 +5769,8 @@
     "title": "Padmavyuham Lo Chakradhari",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5496,7 +5789,8 @@
     "title": "Honeymoon Express",
     "video": false,
     "vote_average": 4,
-    "vote_count": 1
+    "vote_count": 1,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5515,7 +5809,8 @@
     "title": "OMG: O Manchi Ghost",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5535,7 +5830,8 @@
     "title": "Don't Smoke Bro",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5553,7 +5849,8 @@
     "title": "Nindha",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5572,7 +5869,8 @@
     "title": "Nee Dhaarey Nee Katha",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5591,7 +5889,8 @@
     "title": "Music Shop Murthy",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5610,7 +5909,8 @@
     "title": "Dear Nanna",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5629,7 +5929,8 @@
     "title": "Yevam",
     "video": false,
     "vote_average": 7,
-    "vote_count": 1
+    "vote_count": 1,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5649,7 +5950,8 @@
     "title": "Harom Hara",
     "video": false,
     "vote_average": 8.5,
-    "vote_count": 2
+    "vote_count": 2,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5669,7 +5971,8 @@
     "title": "Indrani - Epic1: Dharam vs Karam",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5688,7 +5991,8 @@
     "title": "Rush",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5704,7 +6008,8 @@
     "title": "Gold No 1",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5722,7 +6027,8 @@
     "title": "Love Mouli",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5741,7 +6047,8 @@
     "title": "Rakshana",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5761,7 +6068,8 @@
     "title": "Satyabhama",
     "video": false,
     "vote_average": 6.4,
-    "vote_count": 5
+    "vote_count": 5,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5780,7 +6088,8 @@
     "title": "Manamey",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5799,7 +6108,8 @@
     "title": "Gangs of Godavari",
     "video": false,
     "vote_average": 6,
-    "vote_count": 4
+    "vote_count": 4,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5818,7 +6128,8 @@
     "title": "Bhaje Vaayu Vegam",
     "video": false,
     "vote_average": 6.2,
-    "vote_count": 6
+    "vote_count": 6,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5837,7 +6148,8 @@
     "title": "Gam Gam Ganesha",
     "video": false,
     "vote_average": 5.5,
-    "vote_count": 2
+    "vote_count": 2,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5857,7 +6169,8 @@
     "title": "Love Me If You Dare",
     "video": false,
     "vote_average": 4,
-    "vote_count": 2
+    "vote_count": 2,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5876,7 +6189,8 @@
     "title": "Criminal or Devil",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5895,7 +6209,8 @@
     "title": "Raju Yadav",
     "video": false,
     "vote_average": 5,
-    "vote_count": 1
+    "vote_count": 1,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5913,7 +6228,8 @@
     "title": "Scarred",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5933,7 +6249,8 @@
     "title": "Vidya Vasula Aham",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5952,7 +6269,8 @@
     "title": "Laxmi Kataksham",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5971,7 +6289,8 @@
     "title": "Aarambham",
     "video": false,
     "vote_average": 6.7,
-    "vote_count": 3
+    "vote_count": 3,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -5991,7 +6310,8 @@
     "title": "S.I.T Special Investigation Team",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -6009,7 +6329,8 @@
     "title": "Prathinidhi 2",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -6027,7 +6348,8 @@
     "title": "Krishnamma",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -6046,7 +6368,8 @@
     "title": "Kangaroo",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -6065,7 +6388,8 @@
     "title": "Happy Ending",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -6084,7 +6408,8 @@
     "title": "Prasanna Vadanam",
     "video": false,
     "vote_average": 8.2,
-    "vote_count": 2
+    "vote_count": 2,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -6102,7 +6427,8 @@
     "title": "Aa Okkati Adakku",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -6121,7 +6447,8 @@
     "title": "Sabari",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -6140,7 +6467,8 @@
     "title": "Theppa Samudram",
     "video": false,
     "vote_average": 4,
-    "vote_count": 1
+    "vote_count": 1,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -6159,7 +6487,8 @@
     "title": "Parijatha Parvam",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -6178,7 +6507,8 @@
     "title": "Tenant",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -6197,7 +6527,8 @@
     "title": "My Dear Donga",
     "video": false,
     "vote_average": 7,
-    "vote_count": 2
+    "vote_count": 2,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -6215,7 +6546,8 @@
     "title": "Weave of Culture",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -6233,7 +6565,8 @@
     "title": "Roudhra Rupaya",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -6249,7 +6582,8 @@
     "title": "Mercy Killing",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -6267,7 +6601,8 @@
     "title": "Sriranga Neethulu",
     "video": false,
     "vote_average": 7,
-    "vote_count": 1
+    "vote_count": 1,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -6286,7 +6621,8 @@
     "title": "Geethanjali Malli Vachindi",
     "video": false,
     "vote_average": 8.5,
-    "vote_count": 2
+    "vote_count": 2,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -6304,7 +6640,8 @@
     "title": "Kombat",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -6323,7 +6660,8 @@
     "title": "Director",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -6343,7 +6681,8 @@
     "title": "Bharathanatyam",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -6365,7 +6704,8 @@
     "title": "The Family Star",
     "video": false,
     "vote_average": 4.714,
-    "vote_count": 14
+    "vote_count": 14,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -6383,7 +6723,8 @@
     "title": "Kaliyugam Pattanamlo",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -6402,7 +6743,8 @@
     "title": "Thalakona",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -6423,7 +6765,8 @@
     "title": "(Tillu)²",
     "video": false,
     "vote_average": 6.4,
-    "vote_count": 12
+    "vote_count": 12,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -6443,7 +6786,8 @@
     "title": "Market Mahalakshmi",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -6462,7 +6806,8 @@
     "title": "Vivekam: Who Killed Babai",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -6480,7 +6825,8 @@
     "title": "Ananya",
     "video": false,
     "vote_average": 4,
-    "vote_count": 1
+    "vote_count": 1,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -6499,7 +6845,8 @@
     "title": "Om Bheem Bush",
     "video": false,
     "vote_average": 5.8,
-    "vote_count": 5
+    "vote_count": 5,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -6517,7 +6864,8 @@
     "title": "Sweccha",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -6533,7 +6881,8 @@
     "title": "Lambasingi",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -6552,7 +6901,8 @@
     "title": "Vey Dharuvey",
     "video": false,
     "vote_average": 5.5,
-    "vote_count": 2
+    "vote_count": 2,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -6568,7 +6918,8 @@
     "title": "Tantra",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -6584,7 +6935,8 @@
     "title": "Mix Up",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -6604,7 +6956,8 @@
     "title": "Raju Gari Ammayi Naidu Gari Abbayi",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -6622,7 +6975,8 @@
     "title": "We Love Bad Boys",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -6641,7 +6995,8 @@
     "title": "Bhimaa",
     "video": false,
     "vote_average": 2.7,
-    "vote_count": 3
+    "vote_count": 3,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -6662,7 +7017,8 @@
     "title": "Gaami",
     "video": false,
     "vote_average": 6.7,
-    "vote_count": 6
+    "vote_count": 6,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -6678,7 +7034,8 @@
     "title": "Valari",
     "video": false,
     "vote_average": 5,
-    "vote_count": 1
+    "vote_count": 1,
+    "media_type": "movie"
   },
   {
     "adult": false,
@@ -6699,6 +7056,7 @@
     "title": "Radhaamadhavam",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "vote_count": 0,
+    "media_type": "movie"
   }
 ]
