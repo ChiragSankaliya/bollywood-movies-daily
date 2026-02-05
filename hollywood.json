@@ -166,28 +166,6 @@
   },
   {
     "adult": false,
-    "backdrop_path": null,
-    "genre_ids": [
-      16,
-      14,
-      10751,
-      12
-    ],
-    "id": 1205983,
-    "original_language": "en",
-    "original_title": "Frozen IV",
-    "overview": "is it actually happening? a FOURTH Frozen?",
-    "popularity": 3.1106,
-    "poster_path": "/38DqV8yrFbRCoSg1E9ZYehb8BL.jpg",
-    "release_date": "25/12/2028",
-    "title": "Frozen IV",
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
     "backdrop_path": "/aAU7G5R7gLiWb1oTvLNLkSP9pkR.jpg",
     "genre_ids": [
       16,
@@ -2035,6 +2013,45 @@
     "adult": false,
     "backdrop_path": null,
     "genre_ids": [
+      35
+    ],
+    "id": 1603157,
+    "original_language": "en",
+    "original_title": "Fuck Mr Flanagan",
+    "overview": "A journey into the woods causes two stoners to question their friendship and purpose in life - while they try to avoid a devious figure named Mr Flanagan.",
+    "popularity": 0.0261,
+    "poster_path": "/wmRuo7bJeRQFIwR82ODjgYQ3SZi.jpg",
+    "release_date": "31/12/2026",
+    "title": "Fuck Mr Flanagan",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "media_type": "movie"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/uEGHDpslsPu8C8gg9H1fuwxUSgY.jpg",
+    "genre_ids": [
+      18,
+      37
+    ],
+    "id": 1598464,
+    "original_language": "en",
+    "original_title": "Down the Road Apiece",
+    "overview": "A lonely ranch hand in rural West Texas decides to risk the only life he's ever known when he falls for a hard-pressed woman stranded in the nearby town. He makes up his mind to leave with her, but things don't quite work out as planned.",
+    "popularity": 0.0579,
+    "poster_path": "/txvX0We9XKU1IxN61yQg0SiZrK7.jpg",
+    "release_date": "31/12/2026",
+    "title": "Down the Road Apiece",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "media_type": "movie"
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
       27
     ],
     "id": 1596448,
@@ -3432,6 +3449,26 @@
     "poster_path": "/woV0fMgYZiqRw5HaWmmEDwHuIyD.jpg",
     "release_date": "23/10/2026",
     "title": "Faust",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "media_type": "movie"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/sKXnZSeJxKcQhTZnJoY29FXmCL8.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "id": 1290000,
+    "original_language": "en",
+    "original_title": "Wife & Dog",
+    "overview": "A “return to the colourful, back-stabbing world of the British aristocracy”, this pic follows the relentless greed of the Fairbank family and their associates who fuel betrayal and murder in the battle for succession.",
+    "popularity": 0.7187,
+    "poster_path": "/eoyLMVeP1cuQRTU74W5NAFJBvsu.jpg",
+    "release_date": "23/10/2026",
+    "title": "Wife & Dog",
     "video": false,
     "vote_average": 0,
     "vote_count": 0,
@@ -5328,7 +5365,7 @@
     "original_title": "Young Washington",
     "overview": "Against the frontier of colonial America, the untold origin story of a 22-year-old George Washington unfolds—long before the Revolution, long before the Constitution—when a single mistake nearly cost him everything. After triggering the start of the French and Indian War, Washington must reckon with personal failure, devastating loss, and the weight of responsibility. What emerges from the ashes isn’t just a military leader—but a man forged by humility, courage, and conviction.",
     "popularity": 6.4475,
-    "poster_path": "/unvgjp9WxIt2myfPgVLg1yTyuo1.jpg",
+    "poster_path": "/4od0FR7tfweehH8KVatVcdV75T0.jpg",
     "release_date": "04/07/2026",
     "title": "Young Washington",
     "video": false,
@@ -5474,6 +5511,47 @@
     "poster_path": "/wi8dCElGqFZKiufLxuANXjrnL7Z.jpg",
     "release_date": "01/07/2026",
     "title": "Minions 3",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "media_type": "movie"
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      28,
+      35,
+      99
+    ],
+    "id": 1612018,
+    "original_language": "en",
+    "original_title": "Untitled Jackass Film",
+    "overview": "A new Jackass installment.",
+    "popularity": 0.1967,
+    "poster_path": "/9SHuKz1And55Ep7JBmkKu4fROay.jpg",
+    "release_date": "26/06/2026",
+    "title": "Untitled Jackass Film",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "media_type": "movie"
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 1298236,
+    "original_language": "en",
+    "original_title": "Valkryie",
+    "overview": "The upcoming movie from Frameatic Studios.",
+    "popularity": 0.0214,
+    "poster_path": "/3yL3eBko6BvtgApwJsRLowsHA9S.jpg",
+    "release_date": "26/06/2026",
+    "title": "Valkryie",
     "video": false,
     "vote_average": 0,
     "vote_count": 0,

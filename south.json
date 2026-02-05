@@ -1069,8 +1069,8 @@
     "release_date": "29/10/2025",
     "title": "Bāhubali: The Epic",
     "video": false,
-    "vote_average": 6.056,
-    "vote_count": 27,
+    "vote_average": 6.089,
+    "vote_count": 28,
     "media_type": "movie"
   },
   {
@@ -3717,27 +3717,6 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/pN5lZRvcORLq0FbCEasSO9gavLb.jpg",
-    "genre_ids": [
-      28,
-      18,
-      53
-    ],
-    "id": 1409797,
-    "original_language": "te",
-    "original_title": "రన్‌చోడ్ దాస్",
-    "overview": "When a college feud spirals out of control, Das must navigate escalating violence and personal vendettas, ultimately choosing strategy over brute force to protect those around him.",
-    "popularity": 0,
-    "poster_path": "/rX5xKYXl4TX6krPaA59iesuGLNe.jpg",
-    "release_date": "30/12/2024",
-    "title": "Runchod Das",
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
     "backdrop_path": "/rA499Hnp5rVpQuLmTrJXuGgBIfZ.jpg",
     "genre_ids": [
       18
@@ -4858,25 +4837,6 @@
     "video": false,
     "vote_average": 6.91,
     "vote_count": 210,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/6czTgBS43sQerrJDromEABKDrMU.jpg",
-    "genre_ids": [
-      18
-    ],
-    "id": 1360977,
-    "original_language": "te",
-    "original_title": "BITCH",
-    "overview": "A conversational social commentary that goes through a series of discussions, exploring the intrapersonal struggle between standing up for your morals and wanting to be part of a group.  The second short film from the makers of 02:30 ( TWO THIRTY), made on a zero budget, but with tonnes of passion for cinema.",
-    "popularity": 0.0487,
-    "poster_path": "/7FpJoBtEv8jkdlmsIx3xLVOF3rA.jpg",
-    "release_date": "24/09/2024",
-    "title": "BITCH",
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0,
     "media_type": "movie"
   },
   {
@@ -6637,26 +6597,6 @@
     "poster_path": "/hSeb9Fmqu9hzHmoqqiSeP8sk3I9.jpg",
     "release_date": "08/04/2024",
     "title": "Kombat",
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
-    "backdrop_path": null,
-    "genre_ids": [
-      53,
-      18
-    ],
-    "id": 1264140,
-    "original_language": "te",
-    "original_title": "Director",
-    "overview": "A Student, an Aspiring Director gets into Mysterious Situations after getting into College leaving him to tackle the Unforeseen Consequences!",
-    "popularity": 0.0143,
-    "poster_path": "/e4RAHpKj8341MKSGiyXz8JSBfSS.jpg",
-    "release_date": "05/04/2024",
-    "title": "Director",
     "video": false,
     "vote_average": 0,
     "vote_count": 0,
