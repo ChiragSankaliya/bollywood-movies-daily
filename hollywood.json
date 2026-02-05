@@ -3098,6 +3098,26 @@
   },
   {
     "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      16,
+      35
+    ],
+    "id": 1629234,
+    "original_language": "en",
+    "original_title": "Thera: The Inverted Planet",
+    "overview": "On another world much like our own, a young Samoyed named Seamus Alessandro O'Shaughnessy discovers a lost girl named Dakota who has unfathomable magic! Seamus must overcome great challenges both physical & emotional alongside his best friend Carolina Oriqueda Campbell-Keeshond to save the city of Esproct from the Menace known as The Blurred Blaze! Can our heroes defeat their foes while simultaneously protecting an innocent child in the process? And who exactly is The Blurred Blaze?",
+    "popularity": 0.0214,
+    "poster_path": "/mpavJo6TuHj1LFW7zRrXEFQtl2Y.jpg",
+    "release_date": "02/11/2026",
+    "title": "Thera: The Inverted Planet",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "media_type": "movie"
+  },
+  {
+    "adult": false,
     "backdrop_path": "/zGsIsw1K6Sx9UG5cj3LpMLjETDf.jpg",
     "genre_ids": [
       18,
