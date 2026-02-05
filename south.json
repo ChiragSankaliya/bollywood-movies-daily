@@ -5485,27 +5485,6 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/gFLXdnD8pu5fa4rkqV1NUAL8oxe.jpg",
-    "genre_ids": [
-      28,
-      9648,
-      53
-    ],
-    "id": 1324173,
-    "original_language": "te",
-    "original_title": "శివం భజే",
-    "overview": "Chandrasekhar, a humble loan recovery agent gets unwittingly entangled into a sinister international conspiracy to cause mass destruction in India. Realizing it's divine orchestration to avert an impending disaster, he stands up to face the dangers.",
-    "popularity": 0.6822,
-    "poster_path": "/gmmXxCKT4E24PMfnMGRm7xPNuc7.jpg",
-    "release_date": "01/08/2024",
-    "title": "Shivam Bhaje",
-    "video": false,
-    "vote_average": 7,
-    "vote_count": 1,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
     "backdrop_path": "/ooOQjo9Ckq4QBtge9LA5rdjrm7o.jpg",
     "genre_ids": [
       80,
