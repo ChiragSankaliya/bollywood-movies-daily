@@ -113,7 +113,7 @@ async function fetchCategory(category) {
 }
 
 // ===============================
-// UPCOMING BOLLYWOOD
+// UPCOMING BOLLYWOOD (AUTO CLEAN)
 // ===============================
 async function fetchUpcomingBollywoodMovies() {
   let upcoming = [];
@@ -123,7 +123,6 @@ async function fetchUpcomingBollywoodMovies() {
       `https://api.themoviedb.org/3/discover/movie?` +
       `api_key=${API_KEY}` +
       `&with_original_language=hi` +
-      `&release_date.gte=${TODAY}` +
       `&sort_by=release_date.asc` +
       `&page=${page}`;
 
@@ -134,7 +133,12 @@ async function fetchUpcomingBollywoodMovies() {
       if (!data.results) continue;
 
       const filtered = data.results
-        .filter(m => m.poster_path && m.overview && m.release_date)
+        .filter(m =>
+          m.poster_path &&
+          m.overview &&
+          m.release_date &&
+          m.release_date >= TODAY   // ⭐ ONLY FUTURE MOVIES
+        )
         .map(m => ({
           ...m,
           media_type: 'movie',
@@ -146,7 +150,15 @@ async function fetchUpcomingBollywoodMovies() {
     } catch {}
   }
 
+  // Remove duplicates
   upcoming = removeDuplicates(upcoming);
+
+  // 🔥 EXTRA SAFETY CLEAN (remove past movies from previous runs)
+  upcoming = upcoming.filter(movie => {
+    const [d, m, y] = movie.release_date.split('/');
+    const date = `${y}-${m}-${d}`;
+    return date >= TODAY;
+  });
 
   fs.writeFileSync(`upcoming.json`, JSON.stringify(upcoming, null, 2));
   console.log(`Saved ${upcoming.length} upcoming movies`);
