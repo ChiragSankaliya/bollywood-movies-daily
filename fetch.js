@@ -20,7 +20,7 @@ const categories = [
     name: 'webseries',
     media_type: 'tv',
     region: 'IN',
-    providers: '8|119|337|121|232|237|515'
+    providers: '8|119|337|121'
   }
 ];
 
@@ -64,6 +64,7 @@ async function fetchCategory(category) {
         `&with_origin_country=IN` +
         `&with_watch_providers=${category.providers}` +
         `&sort_by=popularity.desc` +
+        `&with_genres=18,80` +
         `&vote_count.gte=150`;
     }
 
