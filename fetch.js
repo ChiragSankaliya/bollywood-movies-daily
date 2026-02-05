@@ -169,4 +169,3 @@ async function fetchAll() {
 }
 
 fetchAll();
-```
