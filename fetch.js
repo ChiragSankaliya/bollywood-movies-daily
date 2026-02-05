@@ -113,16 +113,19 @@ async function fetchCategory(category) {
 }
 
 // ===============================
-// UPCOMING BOLLYWOOD (AUTO CLEAN)
+// UPCOMING BOLLYWOOD (FIXED)
 // ===============================
 async function fetchUpcomingBollywoodMovies() {
   let upcoming = [];
 
   for (let page = 1; page <= TOTAL_PAGES; page++) {
+
     const url =
       `https://api.themoviedb.org/3/discover/movie?` +
       `api_key=${API_KEY}` +
       `&with_original_language=hi` +
+      `&include_adult=false` +
+      `&release_date.gte=${TODAY}` +          // ✅ IMPORTANT
       `&sort_by=release_date.asc` +
       `&page=${page}`;
 
@@ -130,39 +133,45 @@ async function fetchUpcomingBollywoodMovies() {
       const res = await fetch(url);
       const data = await res.json();
 
-      if (!data.results) continue;
+      if (!Array.isArray(data.results)) continue;
 
       const filtered = data.results
-        .filter(m =>
-          m.poster_path &&
-          m.overview &&
-          m.release_date &&
-          m.release_date >= TODAY   // ⭐ ONLY FUTURE MOVIES
+        .filter(movie =>
+          movie.poster_path &&
+          movie.overview &&
+          movie.release_date &&
+          movie.release_date >= TODAY          // ✅ DOUBLE SAFETY
         )
-        .map(m => ({
-          ...m,
+        .map(movie => ({
+          ...movie,
           media_type: 'movie',
-          release_date: formatDate(m.release_date)
+          release_date: formatDate(movie.release_date)
         }));
 
       upcoming.push(...filtered);
 
-    } catch {}
+    } catch (err) {
+      console.log('Upcoming error page', page);
+    }
   }
 
-  // Remove duplicates
+  // 🔥 Remove duplicates
   upcoming = removeDuplicates(upcoming);
 
-  // 🔥 EXTRA SAFETY CLEAN (remove past movies from previous runs)
+  // 🔥 FINAL CLEAN (old data auto removed)
   upcoming = upcoming.filter(movie => {
     const [d, m, y] = movie.release_date.split('/');
-    const date = `${y}-${m}-${d}`;
-    return date >= TODAY;
+    return `${y}-${m}-${d}` >= TODAY;
   });
 
-  fs.writeFileSync(`upcoming.json`, JSON.stringify(upcoming, null, 2));
-  console.log(`Saved ${upcoming.length} upcoming movies`);
+  fs.writeFileSync(
+    'upcoming.json',
+    JSON.stringify(upcoming, null, 2)
+  );
+
+  console.log(`✅ Saved ${upcoming.length} upcoming movies`);
 }
+
 
 // ===============================
 async function fetchAll() {
