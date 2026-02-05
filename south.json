@@ -3717,6 +3717,27 @@
   },
   {
     "adult": false,
+    "backdrop_path": "/pN5lZRvcORLq0FbCEasSO9gavLb.jpg",
+    "genre_ids": [
+      28,
+      18,
+      53
+    ],
+    "id": 1409797,
+    "original_language": "te",
+    "original_title": "రన్‌చోడ్ దాస్",
+    "overview": "When a college feud spirals out of control, Das must navigate escalating violence and personal vendettas, ultimately choosing strategy over brute force to protect those around him.",
+    "popularity": 0,
+    "poster_path": "/rX5xKYXl4TX6krPaA59iesuGLNe.jpg",
+    "release_date": "30/12/2024",
+    "title": "Runchod Das",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "media_type": "movie"
+  },
+  {
+    "adult": false,
     "backdrop_path": "/rA499Hnp5rVpQuLmTrJXuGgBIfZ.jpg",
     "genre_ids": [
       18
@@ -4050,26 +4071,6 @@
     "video": false,
     "vote_average": 7,
     "vote_count": 4,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/y9X4Sqc265J2P5dNspnCfMvWbWG.jpg",
-    "genre_ids": [
-      28,
-      18
-    ],
-    "id": 1102353,
-    "original_language": "te",
-    "original_title": "మెకానిక్ రాకీ",
-    "overview": "Rakesh, a happy-go-lucky young mechanic, must take on the ruthless land grabber Rankireddy to save his beloved ancestral car garage, uncovering unexpected truths.",
-    "popularity": 0.3444,
-    "poster_path": "/muEYTKq3R4aQd44aa3GxcTM5taF.jpg",
-    "release_date": "22/11/2024",
-    "title": "Mechanic Rocky",
-    "video": false,
-    "vote_average": 5.2,
-    "vote_count": 5,
     "media_type": "movie"
   },
   {
@@ -4841,6 +4842,25 @@
   },
   {
     "adult": false,
+    "backdrop_path": "/6czTgBS43sQerrJDromEABKDrMU.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 1360977,
+    "original_language": "te",
+    "original_title": "BITCH",
+    "overview": "A conversational social commentary that goes through a series of discussions, exploring the intrapersonal struggle between standing up for your morals and wanting to be part of a group.  The second short film from the makers of 02:30 ( TWO THIRTY), made on a zero budget, but with tonnes of passion for cinema.",
+    "popularity": 0.0487,
+    "poster_path": "/7FpJoBtEv8jkdlmsIx3xLVOF3rA.jpg",
+    "release_date": "24/09/2024",
+    "title": "BITCH",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "media_type": "movie"
+  },
+  {
+    "adult": false,
     "backdrop_path": "/1MvuU7EoCNrgIwblc38ctdpLUUu.jpg",
     "genre_ids": [],
     "id": 1364617,
@@ -5106,26 +5126,6 @@
     "video": false,
     "vote_average": 0,
     "vote_count": 0,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/yxQACC8pPE5RpRU8nFVU830LL6u.jpg",
-    "genre_ids": [
-      28,
-      53
-    ],
-    "id": 1194915,
-    "original_language": "te",
-    "original_title": "స‌రిపోదా శ‌నివారం",
-    "overview": "Set in Sokulapalem, bound by a promise to his mother, Surya, an LIC agent leads a normal life on six days, maintains a careful ledger of everyone made him angry,unleashing his anger only on Saturdays, solely for justifiable reasons. A tragic incident pits him on a collision course with the ruthless and borderline-manic cop Daya.",
-    "popularity": 0.5764,
-    "poster_path": "/e2yVhbMkpi4JvvdIhvRpS0Muge7.jpg",
-    "release_date": "29/08/2024",
-    "title": "Saripodhaa Sanivaaram",
-    "video": false,
-    "vote_average": 6.5,
-    "vote_count": 28,
     "media_type": "movie"
   },
   {
@@ -5485,6 +5485,27 @@
   },
   {
     "adult": false,
+    "backdrop_path": "/gFLXdnD8pu5fa4rkqV1NUAL8oxe.jpg",
+    "genre_ids": [
+      28,
+      9648,
+      53
+    ],
+    "id": 1324173,
+    "original_language": "te",
+    "original_title": "శివం భజే",
+    "overview": "Chandrasekhar, a humble loan recovery agent gets unwittingly entangled into a sinister international conspiracy to cause mass destruction in India. Realizing it's divine orchestration to avert an impending disaster, he stands up to face the dangers.",
+    "popularity": 0.6822,
+    "poster_path": "/gmmXxCKT4E24PMfnMGRm7xPNuc7.jpg",
+    "release_date": "01/08/2024",
+    "title": "Shivam Bhaje",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 1,
+    "media_type": "movie"
+  },
+  {
+    "adult": false,
     "backdrop_path": "/ooOQjo9Ckq4QBtge9LA5rdjrm7o.jpg",
     "genre_ids": [
       80,
@@ -5785,26 +5806,6 @@
     "poster_path": "/23gkDOQvoUodOxnN4O1iWy7V396.jpg",
     "release_date": "21/06/2024",
     "title": "Nindha",
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/19THWQzZwjvMCNi2d7hf2Amooqz.jpg",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "id": 1454589,
-    "original_language": "te",
-    "original_title": "Nee Dhaarey Nee Katha",
-    "overview": "Nee Dhaarey Nee Katha explores the theme of perseverance, through the lens of music. The film moves through seemingly lighthearted instances and conversations in engaging with the message of pursuing what makes one fulfilled.",
-    "popularity": 0.0362,
-    "poster_path": "/ktrZhhHfAcycawdWdYXwtXNzUjc.jpg",
-    "release_date": "14/06/2024",
-    "title": "Nee Dhaarey Nee Katha",
     "video": false,
     "vote_average": 0,
     "vote_count": 0,
@@ -6583,6 +6584,26 @@
   },
   {
     "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      53,
+      18
+    ],
+    "id": 1264140,
+    "original_language": "te",
+    "original_title": "Director",
+    "overview": "A Student, an Aspiring Director gets into Mysterious Situations after getting into College leaving him to tackle the Unforeseen Consequences!",
+    "popularity": 0.0143,
+    "poster_path": "/e4RAHpKj8341MKSGiyXz8JSBfSS.jpg",
+    "release_date": "05/04/2024",
+    "title": "Director",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "media_type": "movie"
+  },
+  {
+    "adult": false,
     "backdrop_path": "/oGDPhLImuHzBOVoJ64lYdMSs97j.jpg",
     "genre_ids": [
       53,
@@ -6936,45 +6957,6 @@
     "video": false,
     "vote_average": 6.7,
     "vote_count": 6,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/3I3eNgsqxA1TxMjpmm7rglP5WVa.jpg",
-    "genre_ids": [],
-    "id": 1254651,
-    "original_language": "te",
-    "original_title": "Valari",
-    "overview": "What happens when your past comes back to haunt you in the most supernatural way? And what if you don't even remember it?",
-    "popularity": 5.3014,
-    "poster_path": "/tD6KoIon6m5P0Du76MNGkGL4QYX.jpg",
-    "release_date": "06/03/2024",
-    "title": "Valari",
-    "video": false,
-    "vote_average": 5,
-    "vote_count": 1,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/30nKTk39rmTI3iMmopX5N4p3Eg7.jpg",
-    "genre_ids": [
-      18,
-      10749,
-      28,
-      35
-    ],
-    "id": 1306834,
-    "original_language": "te",
-    "original_title": "రాధ మాధవం",
-    "overview": "Madhava's love life troubles him for his life goals accomplishment, How will he achive his goal along with his partner ?",
-    "popularity": 0.0214,
-    "poster_path": "/mSJTZEKUOWG8fqh9hYrN9PBl20z.jpg",
-    "release_date": "01/03/2024",
-    "title": "Radhaamadhavam",
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0,
     "media_type": "movie"
   }
 ]

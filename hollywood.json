@@ -1448,27 +1448,6 @@
   },
   {
     "adult": false,
-    "backdrop_path": null,
-    "genre_ids": [
-      80,
-      18,
-      10749
-    ],
-    "id": 615121,
-    "original_language": "en",
-    "original_title": "The Thomas Crown Affair",
-    "overview": "A reimagining of the 1968 film, but set in Europe.  Plot TBA.",
-    "popularity": 0.3924,
-    "poster_path": "/6mCsYbD41NGZTlj4kklYsxfcK8Y.jpg",
-    "release_date": "04/03/2027",
-    "title": "The Thomas Crown Affair",
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
     "backdrop_path": "/etB2OT0nUknOAPZV7EgbEbt6HJh.jpg",
     "genre_ids": [
       10751,
@@ -2567,27 +2546,6 @@
     "poster_path": "/8HkIe2i4ScpCkcX9SzZ9IPasqWV.jpg",
     "release_date": "16/12/2026",
     "title": "Avengers: Doomsday",
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/15S93xjOnJYFcgwkv4jsKVlcoIR.jpg",
-    "genre_ids": [
-      53,
-      12,
-      878
-    ],
-    "id": 352084,
-    "original_language": "en",
-    "original_title": "G.O.D. Tech",
-    "overview": "You are following the lives of a family who have chosen not to take the microchip implant but instead live a life with no home and consistently on the run from the one world government known as the F.A.T.H.E.R.",
-    "popularity": 0.2161,
-    "poster_path": "/ahXHKVZrJHyb3XGzcslTi6dsCYo.jpg",
-    "release_date": "15/12/2026",
-    "title": "G.O.D. Tech",
     "video": false,
     "vote_average": 0,
     "vote_count": 0,
@@ -3735,29 +3693,6 @@
     "poster_path": "/aAtsAukFvHWsQFaBn2HqR0rd3RJ.jpg",
     "release_date": "09/10/2026",
     "title": "Other Mommy",
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/dSkwgsqQMV1aHbeGDmXXg0cybsP.jpg",
-    "genre_ids": [
-      28,
-      12,
-      16,
-      14,
-      10751
-    ],
-    "id": 980431,
-    "original_language": "en",
-    "original_title": "The Legend of Aang: The Last Airbender",
-    "overview": "Avatar Aang, the world’s last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
-    "popularity": 1.1386,
-    "poster_path": "/bL0kpH1mL82VpZkpkAVn7X1age7.jpg",
-    "release_date": "09/10/2026",
-    "title": "The Legend of Aang: The Last Airbender",
     "video": false,
     "vote_average": 0,
     "vote_count": 0,
@@ -5496,7 +5431,7 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/qzC83tXMb9es4z0vVFLoJ2rj47J.jpg",
+    "backdrop_path": "/8nhMldEBLpAbJkcOlb4b1Y5nfhB.jpg",
     "genre_ids": [
       10751,
       35,
@@ -5552,6 +5487,46 @@
     "poster_path": "/3yL3eBko6BvtgApwJsRLowsHA9S.jpg",
     "release_date": "26/06/2026",
     "title": "Valkryie",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "media_type": "movie"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/erDoDbYYqeAamcF0g7wZjUIOqZi.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      35
+    ],
+    "id": 1598667,
+    "original_language": "en",
+    "original_title": "National Theatre Live: Les Liaisons Dangereuses",
+    "overview": "BAFTA Award-winner Lesley Manville (Phantom Thread) joins Aidan Turner (Rivals) in a striking new staging of Christopher Hampton’s celebrated adaptation of the classic novel, where among the glittering salons of the super-rich, one misstep can mean ruin.  Marquise de Merteuil is a master in the art of survival. Alongside the magnetic Vicomte de Valmont, they turn seduction into strategy and weaponise desire. But when their alliance collapses into rivalry, the battle between them threatens to destroy everyone in their path.  Filmed live on stage at the National Theatre, Marianne Elliott (Angels in America) directs this thrilling game of love, lies, and social warfare.",
+    "popularity": 0.0845,
+    "poster_path": "/6pTekPCjhNu9W3obHJGV4d9f0MM.jpg",
+    "release_date": "25/06/2026",
+    "title": "National Theatre Live: Les Liaisons Dangereuses",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "media_type": "movie"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/rM3SOvwZcVErOl0lMdXwvyR0JKU.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 1520499,
+    "original_language": "en",
+    "original_title": "The Collected Pieces of Eleanor Ross",
+    "overview": "Unsatisfied with her prospects following graduation, struggling artist Eleanor \"Nell\" Ross reflects on her life with her boyfriend over a game of dominoes.",
+    "popularity": 0.0409,
+    "poster_path": "/1wDijGfiHcQIbRJ9FKANT9yufUZ.jpg",
+    "release_date": "24/06/2026",
+    "title": "The Collected Pieces of Eleanor Ross",
     "video": false,
     "vote_average": 0,
     "vote_count": 0,
