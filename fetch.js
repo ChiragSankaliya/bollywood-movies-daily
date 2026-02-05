@@ -67,14 +67,6 @@ async function fetchCategory(category) {
         `&with_genres=18,80` +
         `&vote_count.gte=150`;
     }
-
-    // ================= SOUTH =================
-    else if (category.name === 'south') {
-      url +=
-        `&sort_by=release_date.desc` +
-        `&with_original_language=${category.langs.join('|')}`;
-    }
-
     // ================= NORMAL MOVIES =================
     else {
       url +=
