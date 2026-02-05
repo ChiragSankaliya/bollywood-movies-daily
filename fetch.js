@@ -1,7 +1,7 @@
 const fetch = require('node-fetch').default;
 const fs = require('fs');
 
-const API_KEY = 'PUT_YOUR_API_KEY_HERE';
+const API_KEY = 'b8766ef4da51902dc6ba35f939e37956';
 const TOTAL_PAGES = 20;
 
 const TODAY = new Date().toISOString().split('T')[0];
