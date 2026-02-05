@@ -12,7 +12,7 @@ const TODAY = new Date().toISOString().split('T')[0];
 const categories = [
   { name: 'bollywood', media_type: 'movie', lang: 'hi' },
   { name: 'hollywood', media_type: 'movie', lang: 'en' },
-  { name: 'south', media_type: 'movie', langs: ['ta','te','ml','kn'] },
+  { name: 'south', media_type: 'movie', langs: 'te' },
   { name: 'gujarati', media_type: 'movie', lang: 'gu' },
 
   // ⭐ FIXED INDIAN OTT WEB SERIES
