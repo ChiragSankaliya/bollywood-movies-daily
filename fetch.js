@@ -13,7 +13,7 @@ const categories = [
   { name: 'hollywood', lang: 'en', media_type: 'movie' },
   { name: 'south', lang: 'te', media_type: 'movie' },
   { name: 'gujarati', lang: 'gu', media_type: 'movie' },
-  { name: 'webseries', media_type: 'tv', lang: 'hi', with_networks: [213,1024]}
+  { name: 'webseries', media_type: 'tv', lang: 'hi'}
 ];
 
 // ===============================
