@@ -1,0 +1,166 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/rGkjtv6UdL1ysDmZuBjbNl3PAA1.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "id": 132117,
+    "origin_country": [
+      "IN"
+    ],
+    "original_language": "hi",
+    "original_name": "फर्जी",
+    "overview": "Sunny, a brilliant small-time artist is catapulted into the high-stakes world of counterfeiting when he creates the perfect fake currency note, even as Michael, a fiery, unorthodox task force officer wants to rid the country of the counterfeiting menace. In this thrilling cat-and-mouse race, losing is not an option!",
+    "popularity": 7.1143,
+    "poster_path": "/cTS86RwEBIDgCgUmjWQTSoPsK6p.jpg",
+    "first_air_date": "2023-02-10",
+    "name": "Farzi",
+    "vote_average": 7.7,
+    "vote_count": 154,
+    "media_type": "tv",
+    "release_date": "10/02/2023"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/tPUEME9NpRo4l3lxdVJRwp5stx5.jpg",
+    "genre_ids": [
+      10759,
+      18
+    ],
+    "id": 103759,
+    "origin_country": [
+      "IN"
+    ],
+    "original_language": "hi",
+    "original_name": "Betaal",
+    "overview": "A remote village becomes the arena of a breathless battle when an undead East India Company officer and his battalion of zombie redcoats attack a squad of modern-day soldiers.",
+    "popularity": 1.2,
+    "poster_path": "/87nmt1R1W34fNOb31fvDnw15fUa.jpg",
+    "first_air_date": "2020-05-24",
+    "name": "Betaal",
+    "vote_average": 6.508,
+    "vote_count": 186,
+    "media_type": "tv",
+    "release_date": "24/05/2020"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/A5Se8NXM14WtpByB4zXnf0Ez1v0.jpg",
+    "genre_ids": [
+      18,
+      10759
+    ],
+    "id": 96853,
+    "origin_country": [
+      "IN"
+    ],
+    "original_language": "hi",
+    "original_name": "The Forgotten Army - Azaadi Ke Liye",
+    "overview": "The dynamic story of Lt. Sodhi and his daredevil band of men and women who fought a heroic battle for the independence of India as part of the Indian National Army which was forged out of British defeat in Singapore during WWII and led by the charismatic, indomitable Indian leader Netaji Subhash Chandra Bose.",
+    "popularity": 2.811,
+    "poster_path": "/1DNHbHlAWPMQYQzjoWsw0IqobT2.jpg",
+    "first_air_date": "2020-01-24",
+    "name": "The Forgotten Army",
+    "vote_average": 6.88,
+    "vote_count": 158,
+    "media_type": "tv",
+    "release_date": "24/01/2020"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/eEzKigDI64OomZV6VTJvoPGmVu1.jpg",
+    "genre_ids": [
+      18,
+      10759
+    ],
+    "id": 93352,
+    "origin_country": [
+      "IN"
+    ],
+    "original_language": "hi",
+    "original_name": "द फ़ैमिली मैन",
+    "overview": "The story of a middle-class man who works for a special cell of the National Investigation Agency. While he tries to protect the nation from terrorists, he also has to protect his family from the impact of his secretive, high-pressure, and low paying job.",
+    "popularity": 6.5597,
+    "poster_path": "/tE1NUJqw9gV6AVjQ1GTK78LbWJ9.jpg",
+    "first_air_date": "2019-09-20",
+    "name": "The Family Man",
+    "vote_average": 7.711,
+    "vote_count": 171,
+    "media_type": "tv",
+    "release_date": "20/09/2019"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3dV7pWAdwIPKR2lMIACMfObXdgK.jpg",
+    "genre_ids": [
+      80,
+      10759,
+      18
+    ],
+    "id": 84105,
+    "origin_country": [
+      "IN"
+    ],
+    "original_language": "hi",
+    "original_name": "Mirzapur",
+    "overview": "The iron-fisted Akhandanand Tripathi is a millionaire carpet exporter and the mafia don of Mirzapur. His son, Munna, is an unworthy, power-hungry heir who will stop at nothing to inherit his father's legacy. An incident at a wedding procession forces him to cross paths with Ramakant Pandit, an upstanding lawyer, and his sons, Guddu and Bablu. It snowballs into a game of ambition, power and greed that threatens the fabric of this lawless city.",
+    "popularity": 6.9128,
+    "poster_path": "/1rxLUFVrtTo82OxhbDXJDiJVkwL.jpg",
+    "first_air_date": "2018-11-15",
+    "name": "Mirzapur",
+    "vote_average": 8.02,
+    "vote_count": 171,
+    "media_type": "tv",
+    "release_date": "15/11/2018"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/mDqK7bgPLAdIB40dWnTDOJofwdt.jpg",
+    "genre_ids": [
+      9648,
+      10765,
+      18
+    ],
+    "id": 80707,
+    "origin_country": [
+      "IN"
+    ],
+    "original_language": "hi",
+    "original_name": "GHOUL",
+    "overview": "A newly minted military interrogator arrives at a covert detention center to discover that some of the terrorists held there are not of this world.",
+    "popularity": 1.7682,
+    "poster_path": "/r3cbfNl77zK7XhFMNpdbxy0B7gW.jpg",
+    "first_air_date": "2018-08-24",
+    "name": "GHOUL",
+    "vote_average": 6.813,
+    "vote_count": 216,
+    "media_type": "tv",
+    "release_date": "24/08/2018"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/qtac9X9lSLqZFbxS71347N8MiID.jpg",
+    "genre_ids": [
+      18,
+      80,
+      10759
+    ],
+    "id": 79352,
+    "origin_country": [
+      "IN"
+    ],
+    "original_language": "hi",
+    "original_name": "Sacred Games",
+    "overview": "A link in their pasts leads an honest cop to a fugitive gang boss, whose cryptic warning spurs the officer on a quest to save Mumbai from cataclysm.",
+    "popularity": 4.0651,
+    "poster_path": "/uEbNtFbK4At9WBDGap23lt1qO9n.jpg",
+    "first_air_date": "2018-07-06",
+    "name": "Sacred Games",
+    "vote_average": 7.828,
+    "vote_count": 236,
+    "media_type": "tv",
+    "release_date": "06/07/2018"
+  }
+]
