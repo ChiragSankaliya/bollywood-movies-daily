@@ -73,12 +73,12 @@
     "original_title": "ఇరుముడి",
     "overview": "An alcoholic with a violent past—living peacefully with his daughter beside a waterfall—decides to take Ayyappa Deeksha (a 41-day spiritual vow and period of intense austerity) at her request.",
     "popularity": 9.6936,
-    "poster_path": "/dVFtTKMWW1aq7aWq30wjwOP6W3J.jpg",
+    "poster_path": "/sPePQmJRKkB14sGjB7zBkLJkaTW.jpg",
     "release_date": "20/08/2026",
     "softcore": false,
     "video": false,
-    "vote_average": 6.556,
-    "vote_count": 9,
+    "vote_average": 6.6,
+    "vote_count": 10,
     "media_type": "movie"
   },
   {
@@ -159,7 +159,7 @@
     "original_title": "Agadha",
     "overview": "A solitary girl encounters a towering twelve-handed mystical idol in a torch lit shadowy cave, creating an atmosphere of spirituality and dark intrigue.",
     "popularity": 2.1918,
-    "poster_path": "/uJED75zmkitxQcQ30tuVnyLawmG.jpg",
+    "poster_path": "/4L5NLTVWoEEqYfdfmAgHL6ieXA2.jpg",
     "release_date": "14/08/2026",
     "softcore": false,
     "video": false,
@@ -2184,8 +2184,8 @@
     "release_date": "27/02/2026",
     "softcore": false,
     "video": false,
-    "vote_average": 6,
-    "vote_count": 5,
+    "vote_average": 6.167,
+    "vote_count": 6,
     "media_type": "movie"
   },
   {
@@ -7193,28 +7193,6 @@
     "video": false,
     "vote_average": 0,
     "vote_count": 0,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/9GoB8QJsKaP8RLJ9NPuDziQ1IVq.jpg",
-    "genre_ids": [
-      28,
-      10751,
-      10749
-    ],
-    "id": 1390695,
-    "title": "Devaki Nandana Vasudeva",
-    "original_language": "te",
-    "original_title": "దేవకీ నందన వాసుదేవ",
-    "overview": "Haunted by an astrological prophecy, Kamsaraja relentlessly torments his sister's family, believing her child will be his doom. Even in imprisonment, Krishna protects the family from Kamsaraja's evil plans.",
-    "popularity": 0.8067,
-    "poster_path": "/2mXXuHkXfZrMjdCzbo2fo8E3bkn.jpg",
-    "release_date": "22/11/2024",
-    "softcore": false,
-    "video": false,
-    "vote_average": 6.2,
-    "vote_count": 6,
     "media_type": "movie"
   }
 ]
