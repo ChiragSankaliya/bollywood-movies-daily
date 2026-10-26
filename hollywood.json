@@ -166,27 +166,6 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/2DFlJCi9QtRQSVcNdnPvOvLcH0A.jpg",
-    "genre_ids": [
-      18,
-      36
-    ],
-    "id": 1096831,
-    "title": "Maserati: The Brothers",
-    "original_language": "en",
-    "original_title": "Maserati: The Brothers",
-    "overview": "Chronicles the Maserati family's journey, from its founding in 1914 to becoming a renowned Italian luxury car manufacturer, alongside rivals Ferrari and Lamborghini.",
-    "popularity": 2.8865,
-    "poster_path": "/gea9QG89U94JQQUJElNg1cKo3M0.jpg",
-    "release_date": "03/12/2026",
-    "softcore": false,
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
     "backdrop_path": "/n32q6TVuhIBacyCOGwfGULOKG95.jpg",
     "genre_ids": [
       27,
@@ -200,88 +179,6 @@
     "popularity": 3.6698,
     "poster_path": "/wEWBAW30FvUsVhbbAyXQwAy3nwP.jpg",
     "release_date": "03/12/2026",
-    "softcore": false,
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
-    "backdrop_path": null,
-    "genre_ids": [],
-    "id": 1706293,
-    "title": "Controlled: Can I Trust My Partner?",
-    "original_language": "en",
-    "original_title": "Controlled: Can I Trust My Partner?",
-    "overview": "Daisy Maskell investigates the shocking surge in partner abuse among under-30s, and enlists her boyfriend to help her expose the sinister ‘stalkerware’ apps used to spy on victims.",
-    "popularity": 1.0307,
-    "poster_path": "/xG6EQHttYlMhBlBYGiptzkYfML8.jpg",
-    "release_date": "02/12/2026",
-    "softcore": false,
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/zr143lb7ZwqRUVSW1qPRoClbAFj.jpg",
-    "genre_ids": [
-      18,
-      10749
-    ],
-    "id": 1702771,
-    "title": "Since We’ve No Place To Go",
-    "original_language": "en",
-    "original_title": "Since We’ve No Place To Go",
-    "overview": "After a stranger arrives at their Christmas gathering, a family must grapple with the loss of their matriarch.",
-    "popularity": 0.6261,
-    "poster_path": "/qkDfikClvmUwPXngJVeqSZKCLii.jpg",
-    "release_date": "01/12/2026",
-    "softcore": false,
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
-    "backdrop_path": null,
-    "genre_ids": [
-      14,
-      35,
-      10402
-    ],
-    "id": 1699787,
-    "title": "The Wonderful Wizard Of Ha's",
-    "original_language": "en",
-    "original_title": "The Wonderful Wizard Of Ha's",
-    "overview": "When a cosmic warp strikes a commuter tracks, a stylish teenager named Dorthy Ross ( Soroya Clayton-Wright) and her trusty dog poodle Smarty  are transported from the ordinary world straight into Stardust City—a glittering, neon-lit fantasy metropolis. Arriving in style aboard a custom-built, purple clockwork locomotive, she is greeted by the glamorous The Good Witch of the South ( Joh'Vonnie Monroe ), who welcomes her with a show-stopping musical number.  But the party is short-lived. Armed with a pink shirt, a purple poodle skirt, and a magical pair of silver slippers, the young trendsetter must navigate the dangers of the Yellow Brick Road after the Wicked Witch crashes the celebration. Packed with high-fashion aesthetics, explosive blue-diamond wand fireworks, and a soulful, show-stopping soundtrack, The Wonderful Wizard of Ha's is a bold, comedic, and modern reimagining of L. Frank Baum’s classic 1900 tale.",
-    "popularity": 1.3289,
-    "poster_path": "/cto0tbzfoO9msDVkKTRKsMu9gfr.jpg",
-    "release_date": "30/11/2026",
-    "softcore": false,
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
-    "backdrop_path": null,
-    "genre_ids": [
-      35,
-      10749
-    ],
-    "id": 1698841,
-    "title": "Till Death Do Us Part",
-    "original_language": "en",
-    "original_title": "Till Death Do Us Part",
-    "overview": "A husband suspects that his wife is having an affair and goes through extreme lengths to try and see if he's right.",
-    "popularity": 1.3573,
-    "poster_path": "/bGQKgldefltJtNrwgQYLYMCo0zC.jpg",
-    "release_date": "28/11/2026",
     "softcore": false,
     "video": false,
     "vote_average": 0,
@@ -313,128 +210,6 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/2tK6Od9J60WpN66irx4XAc0JNOW.jpg",
-    "genre_ids": [
-      18,
-      10751
-    ],
-    "id": 1280115,
-    "title": "Way of the Warrior Kid",
-    "original_language": "en",
-    "original_title": "Way of the Warrior Kid",
-    "overview": "Jake is an injured Navy SEAL who becomes a mentor for his shy, struggling nephew Marc. Using the principles of his military training, Jake teaches Marc how to be a Warrior Kid as he enters high school.",
-    "popularity": 3.1245,
-    "poster_path": "/onZIFslULiG6aKgGFMZkAAWy2QV.jpg",
-    "release_date": "24/11/2026",
-    "softcore": false,
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
-    "backdrop_path": null,
-    "genre_ids": [],
-    "id": 1697998,
-    "title": "Pretty Boy",
-    "original_language": "en",
-    "original_title": "Pretty Boy",
-    "overview": "It's easy to be a pretty boy, but it's not easy to love one",
-    "popularity": 0.4783,
-    "poster_path": "/yX9ex14hNAVHutomnWVftTH01Kp.jpg",
-    "release_date": "20/11/2026",
-    "softcore": false,
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/34eWzsWpZa17DqT8KeL5InlvRK7.jpg",
-    "genre_ids": [
-      28,
-      53,
-      80
-    ],
-    "id": 1615596,
-    "title": "Best Pancakes in the County",
-    "original_language": "en",
-    "original_title": "Best Pancakes in the County",
-    "overview": "Over the course of one explosive night, a small-town diner becomes the epicenter of a deadly standoff involving rogue federal agents, a fast-talking con man with a dangerous past, and a waitress harboring secrets of her own.",
-    "popularity": 4.399,
-    "poster_path": "/wXVYDQl2ENk3NhT1ETS4C8cAEOC.jpg",
-    "release_date": "20/11/2026",
-    "softcore": false,
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
-    "backdrop_path": null,
-    "genre_ids": [
-      10749
-    ],
-    "id": 1698629,
-    "title": "Christmas En Pointe",
-    "original_language": "en",
-    "original_title": "Christmas En Pointe",
-    "overview": "Years after breaking off their engagement, a small-town dance teacher and an ambitious senator returning home for Christmas are thrown back together to save her struggling studio, rekindling the love they once lost.",
-    "popularity": 1.786,
-    "poster_path": "/sgLWEkXBp9oLvdTUlNklrSySfOE.jpg",
-    "release_date": "19/11/2026",
-    "softcore": false,
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
-    "backdrop_path": null,
-    "genre_ids": [
-      35,
-      10749
-    ],
-    "id": 1698273,
-    "title": "Trifecta",
-    "original_language": "en",
-    "original_title": "Trifecta",
-    "overview": "On the night of her 21st birthday, a sexually frustrated virgin tries to convince her celibate boyfriend to have sex with her.",
-    "popularity": 1.2041,
-    "poster_path": "/sro25wiAQiKsShaENQa5hEmHm1H.jpg",
-    "release_date": "16/11/2026",
-    "softcore": false,
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/sYUKZYBM8TAhadV83EmNJiOAVqx.jpg",
-    "genre_ids": [
-      18
-    ],
-    "id": 1624945,
-    "title": "One Sweet Hour",
-    "original_language": "en",
-    "original_title": "One Sweet Hour",
-    "overview": "An ageing Elvis impersonator finally faces up to his demons as he travels through the Irish midlands with his long-lost brother, who has recently quit his life in a monastery.",
-    "popularity": 2.0801,
-    "poster_path": "/dz8VMnHlt6LZ4gMhK5KVWxBUUfG.jpg",
-    "release_date": "16/11/2026",
-    "softcore": false,
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
     "backdrop_path": null,
     "genre_ids": [
       18
@@ -457,110 +232,6 @@
     "adult": false,
     "backdrop_path": null,
     "genre_ids": [
-      28,
-      53
-    ],
-    "id": 1290511,
-    "title": "Five by Five",
-    "original_language": "en",
-    "original_title": "Five by Five",
-    "overview": "Set three decades prior to 'Echo 8,' the prequel 'Five By Five' unveils the enigmatic Agent 5's grief-stricken existence and his gradual spiral into chaos white climbing Zodiac's hierarchy.",
-    "popularity": 1.0128,
-    "poster_path": "/iLpWkrqqhMcedaLBfTNbEaRyd2D.jpg",
-    "release_date": "14/11/2026",
-    "softcore": false,
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/suSAjZRAEE3HVrPG0Ukir1eSVr.jpg",
-    "genre_ids": [
-      99
-    ],
-    "id": 1637730,
-    "title": "Whiddy",
-    "original_language": "en",
-    "original_title": "Whiddy",
-    "overview": "A small rural community in Ireland welcomes in a major, global oil company with open arms but just 10 years and numerous oil spills later, that dream turns into an unimaginable nightmare. 50 lives lost in a tragedy that silenced and divided the community and still haunts it to this day.",
-    "popularity": 1.3204,
-    "poster_path": "/spRPrwVmD08aXiZV951G5PQGVLb.jpg",
-    "release_date": "13/11/2026",
-    "softcore": false,
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/AgaKymBzU5EMuOnc8KzN85KXuIi.jpg",
-    "genre_ids": [
-      37,
-      18,
-      16
-    ],
-    "id": 1628639,
-    "title": "The Death of Marion Wayne",
-    "original_language": "en",
-    "original_title": "The Death of Marion Wayne",
-    "overview": "Marion Wayne is a chaotic gunslinger traveling the country with his small gang. When he gets captured by the law he learns of an indifference of power within the law, and upon breaking out of prison he pursues a revenge arc to balance the system.",
-    "popularity": 1.1215,
-    "poster_path": "/kw6rdjrOYntiCWpLOU8fke51b6B.jpg",
-    "release_date": "13/11/2026",
-    "softcore": false,
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
-    "backdrop_path": null,
-    "genre_ids": [
-      878
-    ],
-    "id": 1518204,
-    "title": "Allen",
-    "original_language": "en",
-    "original_title": "Allen",
-    "overview": "Twenty years after Petey lost the best friend he ever had, Allen's back...",
-    "popularity": 1.8295,
-    "poster_path": "/kF775EnLgKaBdJl3BGt4uue3cRh.jpg",
-    "release_date": "12/11/2026",
-    "softcore": false,
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/iNKyRudHcd2oXV5eaWE0LbixkX3.jpg",
-    "genre_ids": [
-      18,
-      36
-    ],
-    "id": 1131943,
-    "title": "Madden",
-    "original_language": "en",
-    "original_title": "Madden",
-    "overview": "Chronicles John Madden's incredible journey alongside best friend and true original Al Davis—from a Super Bowl-winning partnership with the Raiders, to becoming football’s most recognizable voice, to building the worldwide Madden NFL video game.",
-    "popularity": 8.5306,
-    "poster_path": "/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg",
-    "release_date": "11/11/2026",
-    "softcore": false,
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
-    "backdrop_path": null,
-    "genre_ids": [
       18,
       10749
     ],
@@ -572,50 +243,6 @@
     "popularity": 2.0531,
     "poster_path": "/tji0q57LIau3Rd8EqUYurH2zwK7.jpg",
     "release_date": "10/11/2026",
-    "softcore": false,
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
-    "backdrop_path": null,
-    "genre_ids": [
-      99,
-      35
-    ],
-    "id": 1702763,
-    "title": "Big and Large: A Basketball Story",
-    "original_language": "en",
-    "original_title": "Big and Large: A Basketball Story",
-    "overview": "The story behind the intramural basketball team known as \"Tha Biggest Tha Largest,\" a team made for the big fellas, and their road to the championship in their inaugural season.",
-    "popularity": 0.9334,
-    "poster_path": "/7WQ835POpOKuRlYkfkg2foq8K5W.jpg",
-    "release_date": "10/11/2026",
-    "softcore": false,
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/xTLtwuNgA5qIfvllI9oEGx0rzpC.jpg",
-    "genre_ids": [
-      28,
-      878,
-      53,
-      10751
-    ],
-    "id": 1705813,
-    "title": "Target: Captain Black!",
-    "original_language": "en",
-    "original_title": "Target: Captain Black!",
-    "overview": "Brand New Super Space Theatre Movie",
-    "popularity": 1.6883,
-    "poster_path": "/3wT81Yw6GaYrXV5QZipeUiEhQ9N.jpg",
-    "release_date": "09/11/2026",
     "softcore": false,
     "video": false,
     "vote_average": 0,
@@ -2199,28 +1826,6 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-    "genre_ids": [
-      878,
-      9648,
-      53
-    ],
-    "id": 1101383,
-    "title": "The End of Oak Street",
-    "original_language": "en",
-    "original_title": "The End of Oak Street",
-    "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-    "popularity": 92.0084,
-    "poster_path": "/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg",
-    "release_date": "12/08/2026",
-    "softcore": false,
-    "video": false,
-    "vote_average": 7.077,
-    "vote_count": 2220,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
     "backdrop_path": null,
     "genre_ids": [
       35,
@@ -2509,26 +2114,6 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/pye7qyoDrgdgm9DfPK2Ppa1mVS.jpg",
-    "genre_ids": [
-      35
-    ],
-    "id": 1673002,
-    "title": "HINDSIGHT",
-    "original_language": "en",
-    "original_title": "HINDSIGHT",
-    "overview": "When Jamal buys his first car, it’s a gateway to endless adventures and unforgettable moments with his closest friends. But as time passes and life takes them in different directions, their bond starts to fade. What once felt like freedom now feels like isolation, and Jamal is left grappling with the loneliness of growing apart.",
-    "popularity": 1.3647,
-    "poster_path": "/xhTuxrHsxVmrrO8kfBkkYf25HjZ.jpg",
-    "release_date": "07/08/2026",
-    "softcore": false,
-    "video": false,
-    "vote_average": 10,
-    "vote_count": 1,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
     "backdrop_path": "/aiH4S7olRJu2FyQLbxV8TdJOE5Z.jpg",
     "genre_ids": [
       10402
@@ -2587,27 +2172,6 @@
     "video": false,
     "vote_average": 6.2,
     "vote_count": 52,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg",
-    "genre_ids": [
-      27,
-      878
-    ],
-    "id": 1284041,
-    "title": "The Last House",
-    "original_language": "en",
-    "original_title": "The Last House",
-    "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
-    "popularity": 22.3934,
-    "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-    "release_date": "06/08/2026",
-    "softcore": false,
-    "video": false,
-    "vote_average": 6.797,
-    "vote_count": 1523,
     "media_type": "movie"
   },
   {
@@ -2703,24 +2267,6 @@
     "overview": "Billy Graham was a man known worldwide for his southern charm, unmistakable voice and most importantly to him, his love and devotion to Jesus Christ. Lesser known, however, is his role as a statesman of the United States. Despite never holding public office, Graham comforted the nation in some of its darkest hours, spread its causes and principles to all corners of the globe, and counseled every president from Harry Truman to George W. Bush. This is the story of the unelected statesman.",
     "popularity": 2.673,
     "poster_path": "/fYwF7caBVxNZHX97EgrEV1alA1U.jpg",
-    "release_date": "04/08/2026",
-    "softcore": false,
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/4nNFxapLdRof76LyNvHKiPoZekB.jpg",
-    "genre_ids": [],
-    "id": 1686019,
-    "title": "Whistle to the Maples",
-    "original_language": "en",
-    "original_title": "Whistle to the Maples",
-    "overview": "Seeking escape, a broken man retreats to a remote Pennsylvania cabin and meets a gaunt stranger claiming the land. When grave robbers disturb a forgotten cemetery, the dead stir, and the woods turn unforgiving.",
-    "popularity": 0.5828,
-    "poster_path": "/iuW2uqUEeLzCv2WuMqpYHpxZy9g.jpg",
     "release_date": "04/08/2026",
     "softcore": false,
     "video": false,
@@ -2958,24 +2504,6 @@
   },
   {
     "adult": false,
-    "backdrop_path": null,
-    "genre_ids": [],
-    "id": 1633523,
-    "title": "HANDMEDOWN",
-    "original_language": "en",
-    "original_title": "HANDMEDOWN",
-    "overview": "An experimental micro-documentary and multigenerational handing down of queer sexual wisdom and whimsy.",
-    "popularity": 1.5102,
-    "poster_path": "/xnxpCKrHqxyJFXjG84WuyaPKZh0.jpg",
-    "release_date": "31/07/2026",
-    "softcore": false,
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
     "backdrop_path": "/4BubpaEOZ9YeR1waBzwew9AtoK0.jpg",
     "genre_ids": [
       35,
@@ -3011,6 +2539,24 @@
     "overview": "A paranormal consultant, Danielle Stanbreaker,  investigates a strange supernatural occurrence at a local Bed and Breakfast that ultimately ends up being real.",
     "popularity": 0.5669,
     "poster_path": "/L4KdzKmIUiueaTeYoVIUMY3zXc.jpg",
+    "release_date": "31/07/2026",
+    "softcore": false,
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "media_type": "movie"
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [],
+    "id": 1633523,
+    "title": "HANDMEDOWN",
+    "original_language": "en",
+    "original_title": "HANDMEDOWN",
+    "overview": "An experimental micro-documentary and multigenerational handing down of queer sexual wisdom and whimsy.",
+    "popularity": 1.5102,
+    "poster_path": "/xnxpCKrHqxyJFXjG84WuyaPKZh0.jpg",
     "release_date": "31/07/2026",
     "softcore": false,
     "video": false,
