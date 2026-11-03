@@ -3462,6 +3462,24 @@
   },
   {
     "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [],
+    "id": 944052,
+    "title": "Gandhi & Co.",
+    "original_language": "gu",
+    "original_title": "Gandhi & Co.",
+    "overview": "Mintoo & Mitra (Both 11 Year Old) are know for two things, firstly their collective potential towards mischief and secondly for their legendary friendship with Bharat Bhai. The boys are clever but scrupulous and our old man is an embodiment of all the teachings of Gandhi. An unexpected happening corners Mintoo ( a Superhero Jango fan) into proclaiming Mahatma Gandhi as his role model. Mintoo soon starts mimicking Gandhi’s behavior but he is nowhere close to imbibing Gandhi’s values.",
+    "popularity": 0.7779,
+    "poster_path": "/aDh4oaRemGWc2apwkSDUPZvzaez.jpg",
+    "release_date": "26/05/2022",
+    "softcore": false,
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "media_type": "movie"
+  },
+  {
+    "adult": false,
     "backdrop_path": "/A4XpCw0RbdkurpsKa3wTHyToSnT.jpg",
     "genre_ids": [
       18
@@ -3519,24 +3537,6 @@
     "video": false,
     "vote_average": 9,
     "vote_count": 1,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
-    "backdrop_path": null,
-    "genre_ids": [],
-    "id": 944052,
-    "title": "Gandhi & Co.",
-    "original_language": "gu",
-    "original_title": "Gandhi & Co.",
-    "overview": "Mintoo & Mitra (Both 11 Year Old) are know for two things, firstly their collective potential towards mischief and secondly for their legendary friendship with Bharat Bhai. The boys are clever but scrupulous and our old man is an embodiment of all the teachings of Gandhi. An unexpected happening corners Mintoo ( a Superhero Jango fan) into proclaiming Mahatma Gandhi as his role model. Mintoo soon starts mimicking Gandhi’s behavior but he is nowhere close to imbibing Gandhi’s values.",
-    "popularity": 0.7779,
-    "poster_path": "/aDh4oaRemGWc2apwkSDUPZvzaez.jpg",
-    "release_date": "07/05/2022",
-    "softcore": false,
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0,
     "media_type": "movie"
   },
   {

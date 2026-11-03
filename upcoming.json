@@ -38,8 +38,8 @@
     "release_date": "04/11/2026",
     "softcore": false,
     "video": false,
-    "vote_average": 10,
-    "vote_count": 1,
+    "vote_average": 5.7,
+    "vote_count": 3,
     "media_type": "movie"
   },
   {
@@ -330,7 +330,7 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/qjQ8HLRURbkfqBZ93JMl8Xr8tnd.jpg",
+    "backdrop_path": "/mjiDUz5idO9LrJC40JphKmSqjfF.jpg",
     "genre_ids": [
       28,
       53
