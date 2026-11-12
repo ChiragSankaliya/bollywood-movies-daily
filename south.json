@@ -544,8 +544,8 @@
     "release_date": "23/09/2026",
     "softcore": false,
     "video": false,
-    "vote_average": 4.8,
-    "vote_count": 16,
+    "vote_average": 4.765,
+    "vote_count": 17,
     "media_type": "movie"
   },
   {
@@ -2925,7 +2925,7 @@
     "original_title": "G.O.A.T",
     "overview": "A small-time goon and his friends agree to stage a fake kidnapping for a bride-to-be in exchange for ransom money, but their plan backfires when their hostage proves more dominant than expected.",
     "popularity": 1.4645,
-    "poster_path": "/eY2ntmKcmcbqoKQYz0Op8W4ZAZC.jpg",
+    "poster_path": "/egWyJwnff55sNXqKWciqs0z0hQI.jpg",
     "release_date": "26/03/2026",
     "softcore": false,
     "video": false,
@@ -7241,29 +7241,6 @@
     "video": false,
     "vote_average": 2,
     "vote_count": 1,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/AuGSYFNg76MXVe9VwwCH9EWgJDW.jpg",
-    "genre_ids": [
-      10749,
-      35,
-      53,
-      28
-    ],
-    "id": 1496241,
-    "title": "Jigel",
-    "original_language": "te",
-    "original_title": "Jigel",
-    "overview": "Jigel is a romantic comedy thriller. The hero Nandu is an expert 'locker technician' who cracks anylocker or safe in his own inimitable style. His character is very stylishly mountedwith all new and old gimmicks.",
-    "popularity": 0.319,
-    "poster_path": "/oP2G9JxUMt0Rbt3b4iCk7zPDtAA.jpg",
-    "release_date": "07/03/2025",
-    "softcore": false,
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0,
     "media_type": "movie"
   }
 ]

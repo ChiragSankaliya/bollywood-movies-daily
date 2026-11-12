@@ -199,12 +199,12 @@
     "original_title": "रामायणम्",
     "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
     "popularity": 171.4355,
-    "poster_path": "/dPrtk4iNf6T5w8fWfg4uxDDbJSW.jpg",
+    "poster_path": "/vBQ7wks68OhJKlb3RnXSl2yXBXK.jpg",
     "release_date": "05/11/2026",
     "softcore": false,
     "video": false,
-    "vote_average": 7.786,
-    "vote_count": 35,
+    "vote_average": 7.6,
+    "vote_count": 36,
     "media_type": "movie"
   },
   {
@@ -230,7 +230,7 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/ng8XXM6aGb5WfaMTfuERbR6xYrj.jpg",
+    "backdrop_path": "/ayeT5AHDY04imElKS2z7x1uZwqO.jpg",
     "genre_ids": [
       18,
       27,
@@ -4503,8 +4503,8 @@
     "release_date": "18/03/2026",
     "softcore": false,
     "video": false,
-    "vote_average": 7.192,
-    "vote_count": 177,
+    "vote_average": 7.197,
+    "vote_count": 178,
     "media_type": "movie"
   },
   {
@@ -5775,7 +5775,7 @@
     "softcore": false,
     "video": false,
     "vote_average": 6,
-    "vote_count": 21,
+    "vote_count": 22,
     "media_type": "movie"
   },
   {
@@ -6391,8 +6391,8 @@
     "release_date": "12/12/2025",
     "softcore": false,
     "video": false,
-    "vote_average": 5,
-    "vote_count": 16,
+    "vote_average": 4.971,
+    "vote_count": 17,
     "media_type": "movie"
   },
   {
@@ -6493,8 +6493,8 @@
     "release_date": "05/12/2025",
     "softcore": false,
     "video": false,
-    "vote_average": 7.302,
-    "vote_count": 384,
+    "vote_average": 7.304,
+    "vote_count": 385,
     "media_type": "movie"
   },
   {
@@ -6721,26 +6721,6 @@
     "video": false,
     "vote_average": 0,
     "vote_count": 0,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/huXWIOCkaS91oWMyMgMfY2EVNcf.jpg",
-    "genre_ids": [
-      35
-    ],
-    "id": 1228827,
-    "title": "Mastiii 4",
-    "original_language": "hi",
-    "original_title": "Mastiii 4",
-    "overview": "Three frustrated husbands seek freedom from their dull marriages. A wild idea promises escape and excitement. But what follows is anything but expected.",
-    "popularity": 0.8087,
-    "poster_path": "/99rpDOk540UDaCMlJSonpSvQCPm.jpg",
-    "release_date": "21/11/2025",
-    "softcore": false,
-    "video": false,
-    "vote_average": 5.5,
-    "vote_count": 14,
     "media_type": "movie"
   }
 ]
