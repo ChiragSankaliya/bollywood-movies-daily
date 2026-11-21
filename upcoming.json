@@ -22,48 +22,6 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/dmdp9JDiu2XCBdQ5xr3plGb7OoW.jpg",
-    "genre_ids": [
-      28,
-      53
-    ],
-    "id": 1808244,
-    "title": "Pratap",
-    "original_language": "hi",
-    "original_title": "Pratap",
-    "overview": "A decorated encounter specialist is imprisoned for murder, leading to a journey of self-discovery revealing that his arrest is retribution tied to his past.",
-    "popularity": 0.8531,
-    "poster_path": "/Atmf4lldOmtzSPZw0KC6UAUYpTt.jpg",
-    "release_date": "20/11/2026",
-    "softcore": false,
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/5ZKhUkZ0dhrmmyUWcuywqnLc7eW.jpg",
-    "genre_ids": [
-      27,
-      53
-    ],
-    "id": 1698932,
-    "title": "Kaali Kheti",
-    "original_language": "hi",
-    "original_title": "काली खेती",
-    "overview": "A story of inheritance land, legacy, trauma and the cost of trying to bury the past to grow the future.",
-    "popularity": 2.2126,
-    "poster_path": "/bM2zEwL2i9521EFZ94GXli1N8Dj.jpg",
-    "release_date": "20/11/2026",
-    "softcore": false,
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0,
-    "media_type": "movie"
-  },
-  {
-    "adult": false,
     "backdrop_path": "/l2mK4l8DI57CMAXlERKiaJE3v0y.jpg",
     "genre_ids": [
       28,
@@ -219,6 +177,26 @@
     "overview": "In a patriarchal Rajasthani home, Rekha and Rashmi bond over shared oppression. Their quiet resistance turns into defiance, provoking the patriarch's harsh control. Their struggle ends in silence, leaving only the echo of unheard voices.",
     "popularity": 0.0582,
     "poster_path": "/cS1rckuTz6GyuXHs14cv9Z9sGmj.jpg",
+    "release_date": "20/12/2026",
+    "softcore": false,
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "media_type": "movie"
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      18
+    ],
+    "id": 1830818,
+    "title": "Echoes of the Herd",
+    "original_language": "hi",
+    "original_title": "Echoes of the Herd",
+    "overview": "High in the Himalayas, Tara, an ageing Gaddi shepherd, leads his herd across perilous mountain passes during seasonal migrations, sustaining a way of life shaped by generations but now slowly fading. Far away in a remote village, his 13-year-old daughter Saiba dreams of continuing her education, though schooling ends after eighth grade. Their parallel journeys reveal two different futures shaped by the same rugged land, where tradition and aspiration quietly meet.",
+    "popularity": 0.1553,
+    "poster_path": "/4BMo8s4MzDYxZj4faLHImvKVKTw.jpg",
     "release_date": "20/12/2026",
     "softcore": false,
     "video": false,
